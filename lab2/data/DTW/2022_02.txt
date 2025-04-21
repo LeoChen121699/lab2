@@ -1,0 +1,101 @@
+
+000
+CXUS53 KDTX 011522
+CF6DTW
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   DETROIT MI
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2022
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  83 20 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  46  19  33   8  32   0    T  0.0    3  8.4 18 170   M    M   9 18     24 170
+ 2  40  23  32   6  33   0 0.70  6.2    1  8.0 22  20   M    M  10 129    29 350
+ 3  24  17  21  -5  44   0 0.12  3.0    6 14.3 25  20   M    M  10 19     38  20
+ 4  22   9  16 -10  49   0    T    T    8  7.5 14  10   M    M   9        19  10
+ 5  20   9  15 -11  50   0    T  0.2    8  5.4 13 190   M    M   8 18     17 180
+ 6  29  12  21  -5  44   0 0.00  0.0    7 12.0 25 220   M    M   2 18     30 220
+ 7  31  16  24  -2  41   0    T    T    6 10.9 17 240   M    M  10 8      23 230
+ 8  27  19  23  -3  42   0    T    T    6  9.6 17 220   M    M   8 18     21 220
+ 9  41  18  30   4  35   0    T    T    6 11.8 24 240   M    M   8 18     31 230
+10  35  29  32   5  33   0 0.02  0.2    4 13.1 24 240   M    M  10 1      32 230
+11  37  28  33   6  32   0 0.11  0.2    4 16.8 25 220   M    M  10 1      36 210
+12  36  19  28   1  37   0    T    T    3 12.7 23 320   M    M   9        33 290
+13  23  11  17 -10  48   0 0.10  2.2    2  6.4 13 330   M    M   9 128    23 290
+14  22   2  12 -16  53   0 0.00  0.0    4  4.0 10 180   M    M   9         M   M
+15  25   9  17 -11  48   0    T    T    4  5.7 13 160   M    M   7 18     19 170
+16  53  22  38  10  27   0 0.01  0.0    3 17.3 28 210   M    M  10 8      43 220
+17  51  20  36   8  29   0 1.27  6.3    T 12.4 26 210   M    M  10 1469   35 200
+18  28  10  19 -10  46   0 0.02  0.3    6 15.7 36 230   M    M   6 9      49 220
+19  30  12  21  -8  44   0 0.01  0.4    5 17.5 33 280   M    M   4 189    50 290
+20  45  12  29   0  36   0 0.00  0.0    4 16.9 33 220   M    M   2        49 210
+21  48  30  39   9  26   0 0.00  0.0    2  6.1 12  70   M    M   8        18 100
+22  55  36  46  16  19   0 0.15  0.0    T 10.9 29 280   M    M  10 1      39 270
+23  36  19  28  -2  37   0    T    T    0 14.4 29 260   M    M  10 9      37 260
+24  28  19  24  -6  41   0 0.04  0.5    0 11.4 20  70   M    M   9 1      29  60
+25  27  20  24  -7  41   0 0.06  0.9    1  8.9 16  60   M    M  10 16     23  80
+26  32  20  26  -5  39   0    T    T    1 13.6 23 250   M    M   5        31 240
+27  43  23  33   2  32   0 0.00  0.0    1 12.0 21 280   M    M   2        29 300
+28  34  25  30  -2  35   0 0.00  0.0    T  7.6 15 180   M    M   9        21 160
+================================================================================
+SM  968  508      1073   0  2.61 20.4    311.3          M      223
+================================================================================
+AV 34.6 18.1                              11.1 FASTST   M    M   8    MAX(MPH)
+                                 MISC ---->    36 230                 50 290
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   DETROIT MI
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2022
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  83 20 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 26.4   TOTAL FOR MONTH:   2.61    1 = FOG OR MIST
+DPTR FM NORMAL:  -1.6   DPTR FM NORMAL:    0.53    2 = FOG REDUCING VISIBILITY
+HIGHEST:    55 ON 22    GRTST 24HR  1.27 ON 17-17      TO 1/4 MILE OR LESS
+LOWEST:      2 ON 14                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  20.4 INCHES  5 = HAIL
+                        GRTST 24HR   6.3 ON 17-17  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   8 ON  5, 4  7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:  14    0.01 INCH OR MORE:  12
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:  27    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.  1073    CLEAR  (SCALE 0-3)   3
+DPTR FM NORMAL    37    PTCLDY (SCALE 4-7)   7
+TOTAL FM JUL 1  4330    CLOUDY (SCALE 8-10) 18
+DPTR FM NORMAL  -162
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.61 ON 15
+DPTR FM NORMAL     0    LOWEST  SLP 29.56 ON 11
+
+[REMARKS]
+#FINAL-02-22#
+

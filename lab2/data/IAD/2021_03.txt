@@ -1,0 +1,103 @@
+
+000
+CXUS51 KLWX 011744
+CF6IAD
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   WASHINGTON DULLES DC
+                                          MONTH:     MARCH
+                                          YEAR:      2021
+                                          LATITUDE:   38 57 N
+                                          LONGITUDE:  77 27 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  51  38  45   6  20   0 0.18  0.0    0 12.3 30 300   M    M   8 1      45 310
+ 2  45  27  36  -4  29   0 0.00  0.0    0  9.4 28 300   M    M   1        35 310
+ 3  61  25  43   3  22   0 0.00  0.0    0  4.6 17 300   M    M   0        22 290
+ 4  54  32  43   3  22   0 0.00  0.0    0 14.1 28 320   M    M   4        41 340
+ 5  43  25  34  -6  31   0 0.00  0.0    0 14.8 29 300   M    M   1        41 300
+ 6  47  25  36  -5  29   0 0.00  0.0    0 10.0 24 300   M    M   2        33 320
+ 7  47  18  33  -8  32   0 0.00  0.0    0  5.2 17 320   M    M   0        24 300
+ 8  56  19  38  -4  27   0 0.00  0.0    0  3.4 14 310   M    M   2        18 320
+ 9  70  38  54  12  11   0 0.00  0.0    0  5.8 18 290   M    M   5        31 280
+10  72  35  54  12  11   0 0.00  0.0    0  5.2 14 190   M    M   5        18 200
+11  79  48  64  22   1   0 0.00  0.0    0  9.9 20 210   M    M   5        31 210
+12  70  54  62  19   3   0 0.00  0.0    0  8.3 22 310   M    M   6 8      32 320
+13  60  40  50   7  15   0 0.00  0.0    0  8.1 18 310   M    M   5        26 320
+14  65  33  49   6  16   0 0.00  0.0    0 15.2 35 300   M    M   2        47 300
+15  46  30  38  -6  27   0 0.00  0.0    0  7.8 23 330   M    M   5        32 330
+16  44  39  42  -2  23   0    T    T    0  7.7 15 140   M    M  10        21 140
+17  50  41  46   2  19   0    T  0.0    0  3.5 10 180   M    M  10 18     14 200
+18  54  46  50   5  15   0 0.41  0.0    0  7.9 21  30   M    M  10 1      31  20
+19  49  36  43  -2  22   0 0.00  0.0    0 15.3 26  20   M    M   5        36  10
+20  58  27  43  -3  22   0 0.00  0.0    0  3.2 10 350   M    M   1 8      15 360
+21  64  26  45  -1  20   0 0.00  0.0    0  2.2 10 130   M    M   1        16 120
+22  66  27  47   1  18   0 0.00  0.0    0  2.8 10  90   M    M   0        16 120
+23  69  35  52   6  13   0 0.00  0.0    0  6.0 15  90   M    M   7        20 110
+24  58  53  56   9   9   0 0.60  0.0    0  4.4 12 110   M    M  10 1      16 120
+25  65  53  59  12   6   0    T  0.0    0  3.6 10 180   M    M  10 128    15 160
+26  81  57  69  21   0   4    T  0.0    0 15.4 28 290   M    M   4        38 290
+27  73  43  58  10   7   0    T  0.0    0  6.3 17 210   M    M   4        23 210
+28  70  46  58  10   7   0 0.47  0.0    0 13.6 37 300   M    M   9 1      53 290
+29  60  37  49   0  16   0 0.00  0.0    0 12.7 36 290   M    M   2        48 290
+30  70  32  51   2  14   0 0.00  0.0    0  8.5 22 200   M    M   3        30 210
+31  65  48  57   8   8   0 0.61  0.0    0  7.2 28 330   M    M   9 1      39 320
+================================================================================
+SM 1862 1133       515   4  2.27    T    254.4          M      146
+================================================================================
+AV 60.1 36.5                               8.2 FASTST   M    M   5    MAX(MPH)
+                                 MISC ---->    37 300                 53 290
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   WASHINGTON DULLES DC
+                                          MONTH:     MARCH
+                                          YEAR:      2021
+                                          LATITUDE:   38 57 N
+                                          LONGITUDE:  77 27 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 48.3   TOTAL FOR MONTH:   2.27    1 = FOG OR MIST
+DPTR FM NORMAL:   4.1   DPTR FM NORMAL:   -1.11    2 = FOG REDUCING VISIBILITY
+HIGHEST:    81 ON 26    GRTST 24HR  0.95 ON 28- 1      TO 1/4 MILE OR LESS
+LOWEST:     18 ON  7                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  T            5 = HAIL
+                        GRTST 24HR   T   ON 16-16  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   5
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   5
+MIN 32 OR BELOW:  12    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   515    CLEAR  (SCALE 0-3)  12
+DPTR FM NORMAL  -132    PTCLDY (SCALE 4-7)  12
+TOTAL FM JUL 1  3708    CLOUDY (SCALE 8-10)  7
+DPTR FM NORMAL  -530
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     4
+DPTR FM NORMAL     1    [PRESSURE DATA]
+TOTAL FM JAN 1     4    HIGHEST SLP 30.63 ON 20
+DPTR FM NORMAL     1    LOWEST  SLP 29.51 ON 28
+
+[REMARKS]
+#FINAL-03-21#
+

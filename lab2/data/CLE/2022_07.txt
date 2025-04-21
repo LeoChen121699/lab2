@@ -1,0 +1,103 @@
+
+000
+CXUS51 KCLE 100303
+CF6CLE
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   CLEVELAND OH
+                                          MONTH:     JULY
+                                          YEAR:      2022
+                                          LATITUDE:   41 24 N
+                                          LONGITUDE:  81 51 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  94  71  83   9   0  18 0.33  0.0    0 10.4 25 260   M    M   7 138    30 260
+ 2  82  67  75   1   0  10 0.00  0.0    0  6.3 14 320   M    M   6 1      19 320
+ 3  83  63  73  -1   0   8 0.00  0.0    0  5.9 13  50   M    M   3        15  30
+ 4  90  65  78   4   0  13 0.00  0.0    0  7.1 14 190   M    M   5        18 190
+ 5  88  70  79   5   0  14 0.26  0.0    0  9.5 23 250   M    M   8 13     28 250
+ 6  78  68  73  -1   0   8 0.24  0.0    0  7.8 22 260   M    M   9 13     27 260
+ 7  80  65  73  -1   0   8 0.00  0.0    0  6.1 14  20   M    M   5        16  20
+ 8  82  66  74   0   0   9    T  0.0    0  5.1 13  20   M    M   8        16  20
+ 9  78  66  72  -3   0   7 0.00  0.0    0 13.3 24  30   M    M   3        30  30
+10  81  55  68  -7   0   3 0.00  0.0    0  5.8 13  10   M    M   0        16  10
+11  90  58  74  -1   0   9 0.00  0.0    0 11.0 23 230   M    M   4        31 260
+12  86  72  79   4   0  14 0.00  0.0    0 11.7 22 310   M    M   4        29 270
+13  81  64  73  -2   0   8 0.35  0.0    0  4.7 17 260   M    M   5 13     19 250
+14  77  59  68  -7   0   3 0.00  0.0    0  4.8 14  20   M    M   3 12     17 350
+15  83  54  69  -6   0   4    T  0.0    0  5.3 14 360   M    M   5        16 330
+16  79  62  71  -4   0   6 0.37  0.0    0  6.4 16 210   M    M   9 1      19 210
+17  74  70  72  -3   0   7 1.16  0.0    0  8.2 16 200   M    M   9 1      20 220
+18  84  70  77   2   0  12 0.43  0.0    0 10.1 17 240   M    M   7 1      22 240
+19  88  68  78   3   0  13 0.00  0.0    0  8.8 16 250   M    M   1 1      20 240
+20  90  73  82   7   0  17 0.06  0.0    0 11.8 26 200   M    M   4 3      34 190
+21  88  71  80   5   0  15 0.00  0.0    0 11.6 22 260   M    M   2        28 280
+22  89  70  80   5   0  15 0.00  0.0    0  8.4 18 290   M    M   3 3      22 280
+23  82  67  75   0   0  10 0.01  0.0    0  9.8 25 240   M    M   5        34 210
+24  89  71  80   5   0  15 1.03  0.0    0 13.0 33 260   M    M   8 138    44 250
+25  79  66  73  -1   0   8 0.11  0.0    0  8.5 20 280   M    M   5 13     24 270
+26  81  62  72  -2   0   7 0.00  0.0    0  6.7 15 240   M    M   6        19 240
+27  79  64  72  -2   0   7 0.29  0.0    0  7.4 17 210   M    M   8 138    22 210
+28  85  72  79   5   0  14 0.00  0.0    0 11.0 22 240   M    M   6        27 230
+29  80  66  73  -1   0   8 0.00  0.0    0  7.1 16 270   M    M   5        22 280
+30  79  62  71  -3   0   6 0.00  0.0    0  6.3 13 330   M    M   2        16 330
+31  84  62  73  -1   0   8 0.00  0.0    0  5.2 13 150   M    M   4        15 150
+================================================================================
+SM 2583 2039         0 304  4.64  0.0    255.1          M      159
+================================================================================
+AV 83.3 65.8                               8.2 FASTST   M    M   5    MAX(MPH)
+                                 MISC ---->    33 260                 44 250
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   CLEVELAND OH
+                                          MONTH:     JULY
+                                          YEAR:      2022
+                                          LATITUDE:   41 24 N
+                                          LONGITUDE:  81 51 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 74.5   TOTAL FOR MONTH:   4.64    1 = FOG OR MIST
+DPTR FM NORMAL:   0.0   DPTR FM NORMAL:    0.97    2 = FOG REDUCING VISIBILITY
+HIGHEST:    94 ON  1    GRTST 24HR  1.59 ON 17-18      TO 1/4 MILE OR LESS
+LOWEST:     54 ON 15                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  12
+MAX 90 OR ABOVE:   4    0.10 INCH OR MORE:  10
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   2
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.     0    CLEAR  (SCALE 0-3)   6
+DPTR FM NORMAL    -2    PTCLDY (SCALE 4-7)  20
+TOTAL FM JUL 1     0    CLOUDY (SCALE 8-10)  5
+DPTR FM NORMAL     0
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   304
+DPTR FM NORMAL     8    [PRESSURE DATA]
+TOTAL FM JAN 1   629    HIGHEST SLP 30.24 ON 30
+DPTR FM NORMAL    62    LOWEST  SLP 29.57 ON 20
+
+[REMARKS]
+#FINAL-07-22#
+

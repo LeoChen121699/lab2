@@ -1,0 +1,103 @@
+
+366
+CXUS51 KBGM 010810
+CF6SYR
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     SEPTEMBER
+                                          YEAR:      2024
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  85  63  74   6   0   9 0.01  0.0    M  7.7 20 300   M    M   4 1      27 300
+ 2  69  54  62  -6   3   0 0.00  0.0    0  9.1 20 270   M    M   6        27 330
+ 3  75  48  62  -5   3   0 0.00  0.0    0  3.4 14 280   M    M   2        18 290
+ 4  79  51  65  -2   0   0 0.00  0.0    0  4.0 10 360   M    M   1        15  10
+ 5  81  55  68   1   0   3 0.00  0.0    0  6.7 14 150   M    M   2        21 190
+ 6  82  55  69   3   0   4 0.00  0.0    0  7.8 15 180   M    M   6        21 150
+ 7  71  54  63  -3   2   0 0.36  0.0    0 12.4 21 290   M    M   9 1      29 290
+ 8  67  50  59  -7   6   0 0.06  0.0    0 15.3 28 250   M    M   7 1      38 250
+ 9  72  55  64  -1   1   0 0.36  0.0    0  7.0 18 320   M    M   8 13     24 320
+10  74  52  63  -2   2   0    T  0.0    0  4.6 14 320   M    M   5 1      18 320
+11  79  48  64  -1   1   0 0.00  0.0    0  3.8  9  30   M    M   4        13  10
+12  85  54  70   6   0   5 0.00  0.0    0  3.4  8  30   M    M   4 8      11 340
+13  84  59  72   8   0   7 0.00  0.0    0  2.9  8 330   M    M   2        10 330
+14  85  59  72   8   0   7 0.00  0.0    0  3.1  9 350   M    M   2 12     12  60
+15  86  59  73  10   0   8 0.00  0.0    0  2.7  8 270   M    M   2        12 280
+16  85  60  73  10   0   8 0.00  0.0    0  3.3  9  40   M    M   2 1      13  60
+17  82  58  70   7   0   5 0.00  0.0    0  2.9  8  90   M    M   7        12  50
+18  78  57  68   6   0   3 0.00  0.0    0  2.4  7  60   M    M   8         9  60
+19  86  60  73  11   0   8 0.00  0.0    0  2.8 13 340   M    M   5        17 300
+20  83  56  70   9   0   5 0.00  0.0    0  4.2 12  70   M    M   2 1      17  50
+21  83  61  72  11   0   7 0.00  0.0    0  7.1 12  60   M    M   6        18  40
+22  80  60  70   9   0   5 0.00  0.0    0  5.6 10 100   M    M   5        13 170
+23  69  59  64   4   1   0 0.21  0.0    0  9.2 15 120   M    M  10 1      21 110
+24  72  59  66   6   0   1 0.31  0.0    0  9.8 17 130   M    M   9 1      22 120
+25  68  59  64   5   1   0 0.20  0.0    0  8.9 14 150   M    M  10 1      19 140
+26  72  60  66   7   0   1 0.89  0.0    0  2.9 13 220   M    M   9 1      17 230
+27  76  53  65   7   0   0 0.00  0.0    0  3.0  9  80   M    M   5 1      12 100
+28  80  62  71  13   0   6 0.00  0.0    0  6.2 12  30   M    M   7        17  30
+29  77  65  71  13   0   6 0.00  0.0    0  4.2  9 360   M    M   8        14 110
+30  77  61  69  12   0   4 0.00  0.0    0  4.1 12 110   M    M   8 1      16 360
+================================================================================
+SM 2342 1706        20 102  2.40  0.0    170.5          M      165
+================================================================================
+AV 78.1 56.9                               5.7 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    28 250                 38 250
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     SEPTEMBER
+                                          YEAR:      2024
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 67.5   TOTAL FOR MONTH:   2.40    1 = FOG OR MIST
+DPTR FM NORMAL:   4.6   DPTR FM NORMAL:   -0.98    2 = FOG REDUCING VISIBILITY
+HIGHEST:    86 ON 19,15  GRTST 24HR  1.42 ON 31- 1      TO 1/4 MILE OR LESS
+LOWEST:     48 ON 11, 3                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   8
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.    20    CLEAR  (SCALE 0-3)   8
+DPTR FM NORMAL  -106    PTCLDY (SCALE 4-7)  16
+TOTAL FM JUL 1    27    CLOUDY (SCALE 8-10)  6
+DPTR FM NORMAL  -119
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   102
+DPTR FM NORMAL    39    [PRESSURE DATA]
+TOTAL FM JAN 1   990    HIGHEST SLP 30.46 ON  4
+DPTR FM NORMAL   376    LOWEST  SLP 29.74 ON  7
+
+[REMARKS]
+#FINAL-09-24#
+
+

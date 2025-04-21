@@ -1,0 +1,100 @@
+
+000
+CXUS53 KMPX 011010
+CF6MSP
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   TWIN CITIES MN
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2023
+                                          LATITUDE:   44 52 N
+                                          LONGITUDE:  93 13 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  21   1  11  -6  54   0 0.00  0.0   10  5.3 10 230   M    M   2        16 240
+ 2  15  -9   3 -14  62   0 0.00  0.0   10 13.6 24 320   M    M   2        34 300
+ 3   4 -13  -4 -21  69   0 0.00  0.0   10  8.3 17 170   M    M   6        21 170
+ 4  28   2  15  -2  50   0 0.00  0.0   10  5.3 13 160   M    M   5        16 160
+ 5  31  14  23   6  42   0 0.00  0.0   10  5.2 13 340   M    M   2 18     22 360
+ 6  36  14  25   7  40   0 0.09  0.1    9  9.2 20 130   M    M   7 138    31 150
+ 7  35  27  31  13  34   0 0.00  0.0    9  9.9 21 320   M    M   5 1      31 270
+ 8  45  21  33  15  32   0 0.00  0.0    9  6.1 15 180   M    M   1        26 230
+ 9  38  19  29  11  36   0 0.00  0.0    8 11.5 25 330   M    M   8 18     37 330
+10  29   8  19   0  46   0 0.00  0.0    8  7.8 17 330   M    M   1        25 330
+11  39  28  34  15  31   0 0.00  0.0    8  9.0 17 230   M    M   1        34 250
+12  43  20  32  13  33   0 0.00  0.0    7  4.3 12 250   M    M   2 1      18 250
+13  43  24  34  14  31   0 0.00  0.0    7  7.8 15 170   M    M   1        21 150
+14  43  35  39  19  26   0 0.68  0.0    6 10.3 20 130   M    M   8 1      30 110
+15  38  16  27   7  38   0 0.16    T    5 15.7 30 310   M    M   7 1      43 290
+16  20  12  16  -5  49   0 0.00  0.0    4 10.2 18 350   M    M   5        26  20
+17  29   6  18  -3  47   0 0.00  0.0    4  8.1 16 170   M    M   2 8      27 230
+18  36  22  29   7  36   0 0.00  0.0    4  6.1 13 120   M    M   3        16 110
+19  35  18  27   5  38   0 0.00  0.0    4  8.3 18 320   M    M   4 1      23 340
+20  35  10  23   1  42   0 0.12  1.7    4 11.8 30 300   M    M   8 1      48 300
+21  15   3   9 -14  56   0 0.25  3.1    5  8.1 20 300   M    M   7 1      30 270
+22  21  14  18  -5  47   0 0.25  3.8    8 16.9 24  30   M    M  10 189    38  40
+23  18   0   9 -15  56   0 0.35  6.5   11 12.4 23  60   M    M   8 19     37  50
+24  11  -8   2 -22  63   0    T  0.3   13  3.3  9 160   M    M   7 18     12 160
+25  26   3  15  -9  50   0    T    T   12  8.5 17 230   M    M   3 1      30 250
+26  33   5  19  -6  46   0 0.00  0.0   12  8.6 18 120   M    M   3 18     24 100
+27  34  28  31   6  34   0 0.48  0.0   11  9.2 17 110   M    M   9 16     28 120
+28  40  20  30   4  35   0    T    T   10  3.9 14 150   M    M   5 1      18 140
+================================================================================
+SM  841  340      1223   0  2.38 15.5    244.7          M      132
+================================================================================
+AV 30.0 12.1                               8.7 FASTST   M    M   5    MAX(MPH)
+                                 MISC ---->  # 30 310                 48 300
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   TWIN CITIES MN
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2023
+                                          LATITUDE:   44 52 N
+                                          LONGITUDE:  93 13 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 21.1   TOTAL FOR MONTH:   2.38    1 = FOG OR MIST
+DPTR FM NORMAL:   0.5   DPTR FM NORMAL:    1.51    2 = FOG REDUCING VISIBILITY
+HIGHEST:    45 ON  8    GRTST 24HR  0.84 ON 14-15      TO 1/4 MILE OR LESS
+LOWEST:    -13 ON  3                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  15.5 INCHES  5 = HAIL
+                        GRTST 24HR   6.5 ON 23-23  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  13 ON 24     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:  13    0.01 INCH OR MORE:   8
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   7
+MIN 32 OR BELOW:  27    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   4    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.  1223    CLEAR  (SCALE 0-3)  11
+DPTR FM NORMAL   -20    PTCLDY (SCALE 4-7)  14
+TOTAL FM JUL 1  5444    CLOUDY (SCALE 8-10)  3
+DPTR FM NORMAL  -181
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.78 ON 24
+DPTR FM NORMAL     0    LOWEST  SLP 29.06 ON 14
+
+[REMARKS]
+#FINAL-02-23#
+

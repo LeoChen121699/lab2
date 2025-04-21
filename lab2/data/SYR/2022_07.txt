@@ -1,0 +1,103 @@
+
+000
+CXUS51 KBGM 010810
+CF6SYR
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     JULY
+                                          YEAR:      2022
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  89  70  80   9   0  15 0.03  0.0    0 10.1 20 240   M    M   7        23 230
+ 2  82  64  73   2   0   8 0.21  0.0    0  6.7 16 330   M    M   7 1      21 260
+ 3  76  57  67  -4   0   2 0.00  0.0    0  8.2 17 310   M    M   3        23 290
+ 4  81  54  68  -3   0   3 0.00  0.0    0  4.6 14 330   M    M   6        19 300
+ 5  73  63  68  -3   0   3 0.31  0.0    0  6.4 16 280   M    M  10 1      21 310
+ 6  81  59  70  -1   0   5 0.03  0.0    0  8.4 16 340   M    M   8 18     19 290
+ 7  85  58  72   0   0   7 0.00  0.0    0  3.2 14 350   M    M   3 1      17 340
+ 8  84  61  73   1   0   8 0.00  0.0    0  6.0 17 260   M    M   6        21 300
+ 9  78  57  68  -4   0   3 0.00  0.0    0  6.3 16 330   M    M   3        19 320
+10  82  53  68  -4   0   3 0.00  0.0    0  2.1 10  50   M    M   3        16  50
+11  93  54  74   2   0   9 0.00  0.0    0  7.2 21 240   M    M   4        29 190
+12  91  69  80   8   0  15 0.12  0.0    0 13.8 28 250   M    M   7 8      34 260
+13  84  64  74   2   0   9 0.06  0.0    0  4.8 16 260   M    M   8 3      20 270
+14  80  61  71  -1   0   6 0.00  0.0    0  6.4 16 300   M    M   6        22 320
+15  85  55  70  -2   0   5 0.00  0.0    0  2.9 14 330   M    M   4        16 340
+16  89  61  75   3   0  10 0.00  0.0    0  3.9 15 270   M    M   7        19 250
+17  89  63  76   4   0  11 0.00  0.0    0  4.8 13 200   M    M   6        18 200
+18  84  71  78   6   0  13 0.64  0.0    0 12.3 30 250   M    M  10 1      36 250
+19  91  70  81   9   0  16 0.00  0.0    0  9.5 18 270   M    M   6        22 270
+20  95  74  85  13   0  20 0.00  0.0    0  9.5 20 200   M    M   6        26 190
+21  90  75  83  11   0  18    T  0.0    0 12.9 28 240   M    M   7 3      33 250
+22  91  69  80   8   0  15 0.00  0.0    0  5.2 14 280   M    M   4        16 300
+23  95  68  82  10   0  17 0.00  0.0    0  6.5 18 230   M    M   4        24 230
+24  89  68  79   7   0  14 0.66  0.0    0  8.9 38 230   M    M   7 3      55 230
+25  80  63  72   0   0   7 0.73  0.0    0 11.8 24 240   M    M   5 13     36 240
+26  80  60  70  -2   0   5 0.00  0.0    0  6.9 17 270   M    M   5        22 260
+27  84  58  71  -1   0   6 0.00  0.0    0  4.9 14 260   M    M   7        17 260
+28  87  71  79   7   0  14 0.12  0.0    0  6.7 22 300   M    M   7 3      28 240
+29  84  66  75   3   0  10 0.00  0.0    0  7.2 17 270   M    M   5        23 270
+30  79  63  71  -1   0   6 0.00  0.0    0  9.3 18 270   M    M   4        24 300
+31  83  60  72   0   0   7 0.00  0.0    0  3.1  9 190   M    M   5        12 190
+================================================================================
+SM 2634 1959         0 290  2.91  0.0    220.5          M      180
+================================================================================
+AV 85.0 63.2                               7.1 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    38 230                 55 230
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     JULY
+                                          YEAR:      2022
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 74.1   TOTAL FOR MONTH:   2.91    1 = FOG OR MIST
+DPTR FM NORMAL:   2.3   DPTR FM NORMAL:   -0.95    2 = FOG REDUCING VISIBILITY
+HIGHEST:    95 ON 23,20  GRTST 24HR  1.39 ON 24-25      TO 1/4 MILE OR LESS
+LOWEST:     53 ON 10                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  10
+MAX 90 OR ABOVE:   7    0.10 INCH OR MORE:   7
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   3
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.     0    CLEAR  (SCALE 0-3)   1
+DPTR FM NORMAL    -6    PTCLDY (SCALE 4-7)  28
+TOTAL FM JUL 1     0    CLOUDY (SCALE 8-10)  2
+DPTR FM NORMAL     0
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   290
+DPTR FM NORMAL    72    [PRESSURE DATA]
+TOTAL FM JAN 1   431    HIGHEST SLP 30.19 ON 31
+DPTR FM NORMAL    60    LOWEST  SLP 29.52 ON 21
+
+[REMARKS]
+#FINAL-07-22#
+

@@ -1,0 +1,107 @@
+
+000
+CXUS51 KBGM 020244 CCA
+CF6SYR
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     APRIL
+                                          YEAR:      2023
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  73  35  54  14  11   0 0.62    T    0 15.2 32 270   M    M   8 13     41 260
+ 2  38  26  32  -8  33   0    T    T    0 11.5 24 310   M    M   4 1      31 300
+ 3  69  27  48   7  17   0 0.06  0.0    0 10.5 26 190   M    M   7        34 220
+ 4  53  44  49   8  16   0 0.14  0.0    0  6.3 14  40   M    M  10 1      18  40
+ 5  75  46  61  19   4   0 0.94  0.0    0 12.5 31 170   M    M   9 13     42 170
+ 6  60  43  52  10  13   0 0.01  0.0    0  7.6 23 300   M    M   9 1      28 290
+ 7  44  30  37  -5  28   0    T    T    0 12.4 25 300   M    M   5        33 280
+ 8  50  26  38  -5  27   0 0.00  0.0    0  4.6 12 330   M    M   3        16  10
+ 9  55  27  41  -2  24   0 0.00  0.0    0  2.6 15 330   M    M   0        19 330
+10  67  31  49   5  16   0 0.00  0.0    0  3.0  9 260   M    M   2        13 270
+11  73  37  55  11  10   0    T  0.0    0 13.8 38 270   M    M   7        52 270
+12  81  51  66  21   0   1    T  0.0    0 12.2 30 300   M    M   6        37 300
+13  86  61  74  29   0   9 0.00  0.0    0 10.9 23 260   M    M   1 8      28 260
+14  86  51  69  23   0   4 0.00  0.0    0  2.9 12 360   M    M   5        14 350
+15  88  52  70  24   0   5 0.00  0.0    0  4.6 22 190   M    M   6        25 190
+16  82  58  70  23   0   5 0.00  0.0    0  6.8 16 150   M    M   5        23 150
+17  69  40  55   8  10   0 0.43  0.0    0  8.8 32 260   M    M  10 1      38 260
+18  46  38  42  -6  23   0 0.04    T    0 12.9 25 250   M    M  10 4      31 240
+19  44  34  39  -9  26   0 0.06    T    0 11.1 20 270   M    M   9 148    27 300
+20  60  35  48   0  17   0 0.01  0.0    0  3.9 10  90   M    M   7        15 330
+21  88  50  69  20   0   4    T  0.0    0  7.8 18 330   M    M   7        23 200
+22  77  49  63  14   2   0 0.63  0.0    0 11.6 29 250   M    M   9 13     39 130
+23  56  43  50   0  15   0    T  0.0    0  6.1 17 300   M    M   9 1      21 320
+24  54  39  47  -3  18   0    T    T    0  8.0 20 280   M    M   8 4      26 280
+25  52  36  44  -7  21   0    T  0.0    0  6.2 17 300   M    M   7        21 300
+26  55  36  46  -5  19   0    T  0.0    0  5.2 16 320   M    M   7        21 330
+27  61  34  48  -4  17   0 0.00  0.0    0  2.6 12  40   M    M   5 1      16  80
+28  67  42  55   3  10   0 0.05  0.0    0  9.4 23 150   M    M   8        27 150
+29  55  44  50  -2  15   0 0.59  0.0    0 12.2 21 120   M    M  10 1      26 120
+30  53  45  49  -4  16   0 1.10  0.0    0 11.3 20 280   M    M  10 1      26 290
+================================================================================
+SM 1917 1210       408  28  4.68    T    254.5          M      203
+================================================================================
+AV 63.9 40.3                               8.5 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    38 270                 52 270
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     APRIL
+                                          YEAR:      2023
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 52.1   TOTAL FOR MONTH:   4.68    1 = FOG OR MIST
+DPTR FM NORMAL:   5.8   DPTR FM NORMAL:    1.20    2 = FOG REDUCING VISIBILITY
+HIGHEST:    88 ON 21,15  GRTST 24HR  1.10 ON 30-30      TO 1/4 MILE OR LESS
+LOWEST:     26 ON  8, 2                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  T            5 = HAIL
+                        GRTST 24HR   T   ON  1+    6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  T            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  13
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   7
+MIN 32 OR BELOW:   6    0.50 INCH OR MORE:   5
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   408    CLEAR  (SCALE 0-3)   4
+DPTR FM NORMAL  -157    PTCLDY (SCALE 4-7)  15
+TOTAL FM JUL 1  5362    CLOUDY (SCALE 8-10) 11
+DPTR FM NORMAL  -926
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    28
+DPTR FM NORMAL    24    [PRESSURE DATA]
+TOTAL FM JAN 1    28    HIGHEST SLP 30.59 ON  8
+DPTR FM NORMAL    24    LOWEST  SLP 29.18 ON 30
+
+[REMARKS]
+#FINAL-04-23#
+2ND WARMEST APRIL  WARMEST 53.0F IN 1921
+10TH WETTEST APRIL
+
+TAC
+

@@ -1,0 +1,103 @@
+
+000
+CXUS53 KDTX 050134
+CF6DTW
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   DETROIT MI
+                                          MONTH:     JUNE
+                                          YEAR:      2023
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  83 20 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  88  60  74   8   0   9 0.00  0.0    0  4.0 14 150   M    M   2        22 160
+ 2  90  62  76  10   0  11 0.00  0.0    0  5.7 14  40   M    M   5        21 100
+ 3  89  66  78  12   0  13 0.00  0.0    0  8.0 17 180   M    M   7        25 110
+ 4  77  55  66  -1   0   1 0.00  0.0    0  9.0 20  30   M    M   4        26  70
+ 5  80  54  67   0   0   2 0.00  0.0    0  4.2 10 300   M    M   9        14 290
+ 6  78  55  67   0   0   2 0.00  0.0    0  7.4 17  10   M    M   8 8      23 360
+ 7  75  50  63  -5   2   0 0.00  0.0    0  6.5 17  10   M    M   7 8      24 340
+ 8  77  49  63  -5   2   0 0.00  0.0    0  7.0 17 350   M    M   8 8      26 350
+ 9  78  52  65  -3   0   0 0.00  0.0    0  6.4 15 300   M    M   6        21 300
+10  85  54  70   1   0   5 0.00  0.0    0  5.7 20 270   M    M   8 8      30 260
+11  71  57  64  -5   1   0 0.64  0.0    0  9.0 17  30   M    M  10 1      25  10
+12  65  52  59 -10   6   0    T  0.0    0 12.3 18 280   M    M   9 1      28 330
+13  72  48  60 -10   5   0 0.11  0.0    0  8.5 24 220   M    M   9 13     31 220
+14  75  51  63  -7   2   0 0.00  0.0    0  6.3 14 340   M    M   6        23 310
+15  73  56  65  -5   0   0 0.60  0.0    0  5.7 21 190   M    M  10 1358   25 180
+16  70  57  64  -6   1   0 0.08  0.0    0 10.1 18  10   M    M   9 18     25 350
+17  80  56  68  -3   0   3 0.00  0.0    0  4.9 15 320   M    M   4 18     21 310
+18  80  55  68  -3   0   3 0.00  0.0    0  5.1 14 180   M    M   4 18     18 160
+19  83  57  70  -1   0   5 0.00  0.0    0  7.6 18  60   M    M   8 8      28  50
+20  85  65  75   4   0  10 0.00  0.0    0  8.3 16 120   M    M   6        23  90
+21  84  65  75   3   0  10 0.00  0.0    0  7.0 16 110   M    M   5 8      24 130
+22  78  65  72   0   0   7    T  0.0    0  8.1 18  40   M    M   9        26  50
+23  70  65  68  -4   0   3 0.22  0.0    0  5.3 12  40   M    M  10 1      14  10
+24  88  66  77   5   0  12 0.00  0.0    0  3.7 12 320   M    M   8 18     16 310
+25  85  65  75   3   0  10 0.60  0.0    0  7.9 44 220   M    M   8 138    61 220
+26  74  64  69  -4   0   4 0.87  0.0    0  9.9 22 270   M    M   9 138    29 260
+27  72  62  67  -6   0   2    T  0.0    0  8.7 17 290   M    M  10 18     24 290
+28  79  58  69  -4   0   4 0.00  0.0    0  4.4 12 180   M    M  10 18     14 170
+29  82  59  71  -2   0   6 0.07  0.0    0  5.5 15 170   M    M   9 138    23 160
+30  87  65  76   3   0  11 0.00  0.0    0  5.7 17 200   M    M   8 138    22 210
+================================================================================
+SM 2370 1745        19 133  3.19  0.0    207.9          M      225
+================================================================================
+AV 79.0 58.2                               6.9 FASTST   M    M   8    MAX(MPH)
+                                 MISC ---->    44 220                 61 220
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   DETROIT MI
+                                          MONTH:     JUNE
+                                          YEAR:      2023
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  83 20 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 68.6   TOTAL FOR MONTH:   3.19    1 = FOG OR MIST
+DPTR FM NORMAL:  -1.3   DPTR FM NORMAL:   -0.07    2 = FOG REDUCING VISIBILITY
+HIGHEST:    90 ON  2    GRTST 24HR  1.31 ON 25-26      TO 1/4 MILE OR LESS
+LOWEST:     48 ON 13                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   8
+MAX 90 OR ABOVE:   1    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   4
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.    19    CLEAR  (SCALE 0-3)   1
+DPTR FM NORMAL    -9    PTCLDY (SCALE 4-7)  15
+TOTAL FM JUL 1  5402    CLOUDY (SCALE 8-10) 14
+DPTR FM NORMAL  -663
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   133
+DPTR FM NORMAL   -43    [PRESSURE DATA]
+TOTAL FM JAN 1   182    HIGHEST SLP 30.17 ON 21
+DPTR FM NORMAL   -49    LOWEST  SLP 29.49 ON 26
+
+[REMARKS]
+#FINAL-06-23#
+CORRECTED SNOW DEPTH ON 6/27.
+

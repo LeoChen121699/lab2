@@ -1,0 +1,102 @@
+
+000
+CXUS51 KPBZ 010730
+CF6PIT
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   PITTSBURGH PA
+                                          MONTH:     JUNE
+                                          YEAR:      2021
+                                          LATITUDE:   40 30 N
+                                          LONGITUDE:  80 13 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  75  52  64  -2   1   0 0.00  0.0    0  1.4  8 230   M    M  10        12 280
+ 2  69  59  64  -2   1   0 0.12  0.0    0  3.1 10 160   M    M  10 1      13 160
+ 3  71  62  67   1   0   2 0.13  0.0    0  7.1 15 230   M    M  10 1      22 220
+ 4  80  61  71   5   0   6 0.00  0.0    0  6.0 15 280   M    M   6 1      19 270
+ 5  86  66  76   9   0  11 0.00  0.0    0  6.1 16 250   M    M   4        23 260
+ 6  87  62  75   8   0  10 0.00  0.0    0  3.9 14 270   M    M   5        19 270
+ 7  88  69  79  12   0  14 0.80  0.0    0  3.3 22 190   M    M   9 13     26 180
+ 8  84  70  77   9   0  12 0.03  0.0    0  5.2 14 310   M    M   9 13     18 300
+ 9  82  68  75   7   0  10 0.01  0.0    0  4.0 16 350   M    M   9 1      19 350
+10  84  66  75   7   0  10    T  0.0    0  4.3 15 200   M    M   8 13     20 200
+11  76  65  71   3   0   6 0.02  0.0    0  6.3 12 100   M    M   9 18     14  80
+12  84  60  72   3   0   7 0.00  0.0    0  2.6  9 360   M    M   5 1      13  50
+13  87  65  76   7   0  11 0.44  0.0    0  4.4 18 310   M    M   8 13     23  50
+14  81  58  70   1   0   5 0.35  0.0    0  6.3 26 300   M    M   5 13     32 300
+15  75  56  66  -3   0   1    T  0.0    0 12.4 24 330   M    M   5        33 320
+16  72  48  60 -10   5   0 0.00  0.0    0  8.8 20 330   M    M   3        27 340
+17  77  45  61  -9   4   0 0.00  0.0    0  3.9 15 300   M    M   3        19 300
+18  80  57  69  -1   0   4    T  0.0    0  8.7 20 210   M    M   7 3      29 200
+19  77  68  73   3   0   8 0.17  0.0    0  8.4 25 290   M    M   9 3      35 300
+20  86  66  76   5   0  11    T  0.0    0  6.9 15 210   M    M   6        20 230
+21  85  63  74   3   0   9 0.93  0.0    0  9.7 31 310   M    M   9 13     37 300
+22  66  49  58 -13   7   0 0.01  0.0    0  9.7 21 330   M    M   7        24 300
+23  76  45  61 -10   4   0 0.00  0.0    0  3.8 14 290   M    M   5        17 270
+24  81  53  67  -5   0   2 0.00  0.0    0  7.2 20 140   M    M   4        24 160
+25  82  62  72   0   0   7 0.00  0.0    0  7.6 17 210   M    M   8        22 180
+26  84  67  76   4   0  11 0.00  0.0    0  9.5 17 210   M    M   8        24 200
+27  88  68  78   6   0  13 0.00  0.0    0  9.6 18 200   M    M   5        26 200
+28  92  70  81   9   0  16    T  0.0    0  5.2 12 190   M    M   4        17 180
+29  92  72  82  10   0  17 0.00  0.0    0  5.2 20 310   M    M   4        23 320
+30  85  68  77   5   0  12 1.28  0.0    0  4.0 23 220   M    M   8 13     32 210
+================================================================================
+SM 2432 1840        22 215  4.29  0.0    184.6          M      202
+================================================================================
+AV 81.1 61.3                               6.2 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    31 310                 37 300
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   PITTSBURGH PA
+                                          MONTH:     JUNE
+                                          YEAR:      2021
+                                          LATITUDE:   40 30 N
+                                          LONGITUDE:  80 13 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 71.2   TOTAL FOR MONTH:   4.29    1 = FOG OR MIST
+DPTR FM NORMAL:   1.8   DPTR FM NORMAL:    0.17    2 = FOG REDUCING VISIBILITY
+HIGHEST:    92 ON 29,28  GRTST 24HR  1.28 ON 30-30      TO 1/4 MILE OR LESS
+LOWEST:     45 ON 23,17                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  12
+MAX 90 OR ABOVE:   2    0.10 INCH OR MORE:   8
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   3
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.    22    CLEAR  (SCALE 0-3)   2
+DPTR FM NORMAL    -8    PTCLDY (SCALE 4-7)  18
+TOTAL FM JUL 1  5372    CLOUDY (SCALE 8-10) 10
+DPTR FM NORMAL  -196
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   215
+DPTR FM NORMAL    55    [PRESSURE DATA]
+TOTAL FM JAN 1   293    HIGHEST SLP 30.29 ON 24
+DPTR FM NORMAL    67    LOWEST  SLP 29.59 ON 21
+
+[REMARKS]
+#FINAL-06-21#
+

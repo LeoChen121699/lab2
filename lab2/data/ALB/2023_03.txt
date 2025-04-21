@@ -1,0 +1,103 @@
+
+000
+CXUS55 KALY 010710
+CF6ALB
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ALBANY NY
+                                          MONTH:     MARCH
+                                          YEAR:      2023
+                                          LATITUDE:   42 45 N
+                                          LONGITUDE:  73 48 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  39  20  30  -1  35   0 0.01  0.1    6  4.2 18 270   M    M   8 5      23 270
+ 2  41  35  38   7  27   0 0.18  0.0    5  9.3 28 270   M    M  10 1      37 280
+ 3  40  27  34   3  31   0 0.26  2.4    2  6.4 21 120   M    M   8 1      31 120
+ 4  37  32  35   3  30   0 0.73  5.4    9  6.5 16 260   M    M  10 14     19 260
+ 5  42  33  38   6  27   0    T  0.0    6  8.8 21 270   M    M   9        28 270
+ 6  44  33  39   7  26   0 0.00  0.0    4 12.7 22 300   M    M   5        29 280
+ 7  36  27  32  -1  33   0    T    T    2 15.1 26 280   M    M   8        36 290
+ 8  39  26  33   0  32   0 0.00  0.0    2 12.7 20 290   M    M   8        25 270
+ 9  43  28  36   3  29   0    T    T    1  9.8 16 280   M    M   7        21 270
+10  44  20  32  -2  33   0 0.10  0.7    T  3.4 12 360   M    M   7 1      15  10
+11  41  28  35   1  30   0 0.15  1.8    2  8.3 14  10   M    M   8 1      18  20
+12  46  21  34   0  31   0 0.00  0.0    1  2.5 10 160   M    M   5        14 150
+13  43  33  38   4  27   0 0.37  0.2    T  5.8 13 110   M    M  10 1      16 150
+14  35  32  34  -1  31   0 1.61  9.9    6 12.7 26 280   M    M  10 12     38 280
+15  37  29  33  -2  32   0 0.00  0.0    7 19.8 33 280   M    M   6        43 270
+16  51  28  40   4  25   0 0.00  0.0    5  7.0 22 280   M    M   4        31 280
+17  47  32  40   4  25   0 0.07  0.0    3  4.3 21 270   M    M  10 1      26 270
+18  44  28  36   0  29   0    T  0.3    2 11.4 27 280   M    M   7 1      38 270
+19  33  22  28  -9  37   0    T    T    T 14.0 31 260   M    M   6 8      45 270
+20  52  21  37   0  28   0 0.00  0.0    T  6.0 17 210   M    M   1        21 210
+21  59  24  42   5  23   0 0.00  0.0    0  4.1 21 270   M    M   4        26 270
+22  63  34  49  11  16   0 0.00  0.0    0  6.6 18 170   M    M   8        25 170
+23  56  39  48  10  17   0 0.11  0.0    0 10.8 28 270   M    M   9 1      38 270
+24  51  34  43   5  22   0 0.00  0.0    0  9.7 23 280   M    M   7        34 290
+25  41  29  35  -4  30   0 0.19  0.1    0  5.9 20 120   M    M   9 14     29 120
+26  56  31  44   5  21   0 0.01  0.0    0  9.6 32 270   M    M   5 1      41 280
+27  52  27  40   0  25   0 0.23  0.0    0  4.5 16 360   M    M   6 1      20 350
+28  53  33  43   3  22   0 0.02  0.0    0  8.7 21 270   M    M   7        24 270
+29  56  25  41   1  24   0 0.03  0.1    0  8.4 37 270   M    M   5 1      48 280
+30  39  24  32  -9  33   0 0.00  0.0    0 12.4 25 280   M    M   2        34 300
+31  48  20  34  -7  31   0 0.15  0.0    0  6.9 24 160   M    M   7        31 150
+================================================================================
+SM 1408  875       862   0  4.22 21.0    268.3          M      216
+================================================================================
+AV 45.4 28.2                               8.7 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    37 270                 48 280
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ALBANY NY
+                                          MONTH:     MARCH
+                                          YEAR:      2023
+                                          LATITUDE:   42 45 N
+                                          LONGITUDE:  73 48 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 36.8   TOTAL FOR MONTH:   4.22    1 = FOG OR MIST
+DPTR FM NORMAL:   1.1   DPTR FM NORMAL:    1.13    2 = FOG REDUCING VISIBILITY
+HIGHEST:    63 ON 22    GRTST 24HR  1.83 ON 13-14      TO 1/4 MILE OR LESS
+LOWEST:     20 ON 31,10                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  22.9 INCHES  5 = HAIL
+                        GRTST 24HR   9.9 ON 14-14  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   9 ON  4     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  16
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:  11
+MIN 32 OR BELOW:  23    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   862    CLEAR  (SCALE 0-3)   2
+DPTR FM NORMAL   -46    PTCLDY (SCALE 4-7)  19
+TOTAL FM JUL 1  4901    CLOUDY (SCALE 8-10) 10
+DPTR FM NORMAL  -701
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP M ON M
+DPTR FM NORMAL     0    LOWEST  SLP 29.45 ON  4
+
+[REMARKS]
+#FINAL-03-23#
+

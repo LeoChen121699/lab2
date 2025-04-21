@@ -1,0 +1,104 @@
+
+458
+CXUS51 KBOX 010841
+CF6BOS
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     JULY
+                                          YEAR:      2024
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  76  64  70  -3   0   5 0.16  0.0    M  8.6 21  30   M    M   5 13     26 350
+ 2  78  65  72  -1   0   7 0.00  0.0    M  8.9 14  80   M    M   2        21 360
+ 3  81  66  74   1   0   9 0.00  0.0    M 10.7 22 110   M    M   5        26 110
+ 4  85  65  75   2   0  10 0.00  0.0    M 11.3 18 220   M    M   7        26 190
+ 5  84  70  77   4   0  12 0.38  0.0    M  9.2 18 200   M    M   9 1      25 200
+ 6  81  72  77   3   0  12    T  0.0    M 11.5 22 200   M    M  10 1      29 210
+ 7  87  69  78   4   0  13    T  0.0    M  5.0 12 130   M    M   7 1      17 130
+ 8  83  67  75   1   0  10 0.00  0.0    M  6.0 13 170   M    M   5        16 190
+ 9  89  71  80   6   0  15    T  0.0    M  8.7 17 190   M    M   8        23 190
+10  89  74  82   8   0  17 0.00  0.0    M 12.9 22 200   M    M   8 1      30 200
+11  90  74  82   8   0  17    T  0.0    M 15.7 28 230   M    M   7        37 230
+12  88  70  79   5   0  14 0.03  0.0    M 13.3 25 220   M    M   5 18     33 210
+13  83  74  79   5   0  14 0.30  0.0    M  9.4 18 220   M    M   7 1      25 240
+14  85  71  78   4   0  13 0.00  0.0    M  8.4 15 240   M    M   4        21 240
+15  95  71  83   9   0  18 0.04  0.0    M  9.5 21 250   M    M   6 3      34 260
+16  95  74  85  11   0  20 0.00  0.0    M 13.2 24 300   M    M   6        43 310
+17  90  74  82   8   0  17 0.02  0.0    M 11.2 20 260   M    M   7 3      29 250
+18  89  71  80   6   0  15 0.20  0.0    M 10.4 20 200   M    M   8 13     26 310
+19  78  67  73  -1   0   8 0.00  0.0    M  9.7 15 100   M    M   2        21 320
+20  87  65  76   2   0  11 0.00  0.0    M  9.8 20 220   M    M   7        30 250
+21  88  67  78   4   0  13 0.00  0.0    M  7.2 16  70   M    M   7        22  50
+22  81  63  72  -2   0   7 0.01  0.0    M  6.1 17 220   M    M   8        24 220
+23  75  65  70  -4   0   5 0.01  0.0    M  6.8 12 100   M    M   9 1      18  90
+24  69  64  67  -7   0   2 0.01  0.0    M  6.3 13 100   M    M  10 12      M   M
+25  83  62  73  -1   0   8    T  0.0    M  9.2 18 270   M    M   9 123    30 270
+26  86  66  76   2   0  11 0.00  0.0    M  9.9 21 320   M    M   4        30 330
+27  83  65  74   0   0   9 0.00  0.0    M  8.4 18 110   M    M   3        26 100
+28  77  62  70  -4   0   5    T  0.0    M  5.1 14  80   M    M   6 18     18  80
+29  75  65  70  -4   0   5 0.03  0.0    M  7.6 14 240   M    M   9 1      24 250
+30  90  65  78   4   0  13 0.00  0.0    M 11.9 22 220   M    M   5        28 210
+31  86  69  78   4   0  13 0.20  0.0    M 11.4 24 200   M    M   8 13     33 200
+================================================================================
+SM 2606 2107         0 348  1.39  0.0    293.3          M      203
+================================================================================
+AV 84.1 68.0                               9.5 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    28 230                 43 310
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     JULY
+                                          YEAR:      2024
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 76.0   TOTAL FOR MONTH:   1.39    1 = FOG OR MIST
+DPTR FM NORMAL:   1.9   DPTR FM NORMAL:   -1.88    2 = FOG REDUCING VISIBILITY
+HIGHEST:    95 ON 16,15  GRTST 24HR  0.38 ON  5- 5      TO 1/4 MILE OR LESS
+LOWEST:     62 ON 28,25                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  M  ON   M    7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  12
+MAX 90 OR ABOVE:   5    0.10 INCH OR MORE:   5
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   0
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.     0    CLEAR  (SCALE 0-3)   3
+DPTR FM NORMAL    -4    PTCLDY (SCALE 4-7)  22
+TOTAL FM JUL 1     0    CLOUDY (SCALE 8-10)  6
+DPTR FM NORMAL     0
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   348
+DPTR FM NORMAL    64    [PRESSURE DATA]
+TOTAL FM JAN 1   584    HIGHEST SLP 30.25 ON  2
+DPTR FM NORMAL   129    LOWEST  SLP 29.68 ON 16
+
+[REMARKS]
+#FINAL-07-24#
+
+

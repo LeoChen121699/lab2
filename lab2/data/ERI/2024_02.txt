@@ -1,0 +1,102 @@
+
+536
+CXUS51 KCLE 010900
+CF6ERI
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ERIE PA
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2024
+                                          LATITUDE:   42  4 N
+                                          LONGITUDE:  80 11 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  45  37  41  14  24   0 0.00  0.0    0  7.8 20 250   M    M  10 1      31 270
+ 2  37  33  35   8  30   0    T    T    0  6.6 16  50   M    M  10 1      21  50
+ 3  37  25  31   4  34   0 0.00  0.0    0  4.7 13  40   M    M   5 1      17  10
+ 4  40  20  30   2  35   0 0.00  0.0    0  2.0  9 340   M    M   0 1      12 340
+ 5  37  26  32   4  33   0 0.00  0.0    0  7.7 17  60   M    M   6 1      23  70
+ 6  38  20  29   1  36   0 0.00  0.0    0  5.6 14  20   M    M   0 8      18  20
+ 7  47  22  35   7  30   0 0.00  0.0    0  2.4  9 320   M    M   0        12 250
+ 8  61  34  48  20  17   0 0.00  0.0    0 12.2 24 180   M    M   0        36 180
+ 9  63  48  56  28   9   0 0.06  0.0    0 15.8 23 200   M    M   5        39 190
+10  54  37  46  18  19   0 0.03  0.0    0  9.9 22 200   M    M   6 1      35 210
+11  38  32  35   7  30   0 0.00  0.0    0  5.9 10 320   M    M  10        16 310
+12  37  28  33   5  32   0 0.00  0.0    0  4.1 10 310   M    M   6        14 320
+13  37  28  33   5  32   0 0.01    T    0 10.8 22 260   M    M   7 18     32 250
+14  32  21  27  -2  38   0 0.00  0.0    0  7.9 15 290   M    M   5        22 290
+15  41  21  31   2  34   0 0.05  0.0    0 15.9 29 280   M    M   7 18     46 270
+16  34  25  30   1  35   0 0.08  0.7    0  9.3 23 290   M    M   9 18     38 300
+17  27  20  24  -5  41   0 0.02  0.1    1 12.7 26 210   M    M  10 18     37 200
+18  33  18  26  -3  39   0    T    T    1 16.4 29 200   M    M  10        41 210
+19  34  23  29  -1  36   0 0.00  0.0    1  5.8 16 310   M    M   3        26 320
+20  45  24  35   5  30   0 0.00  0.0    0  7.8 13 160   M    M   0        17 160
+21  59  35  47  17  18   0 0.00  0.0    0 14.1 21 180   M    M   2        30 150
+22  50  41  46  16  19   0 0.47  0.0    0 10.1 24 190   M    M  10 12     36 170
+23  48  32  40  10  25   0 0.00  0.0    0  7.8 16 270   M    M   9 128    25  20
+24  32  19  26  -4  39   0    T    T    0 11.1 21  20   M    M   6        28  10
+25  47  19  33   2  32   0    T  0.0    0 15.4 26 180   M    M   3        43 160
+26  56  39  48  17  17   0 0.00  0.0    0  7.2 16 170   M    M   2        23 170
+27  66  53  60  29   5   0 0.16    T    0 17.1 24 150   M    M   2 135    41 160
+28  64  26  45  14  20   0 0.42    T    0 19.5 35 250   M    M   9 13     58 260
+29  29  25  27  -5  38   0    T    T    T 13.4 24 280   M    M   6        40 260
+================================================================================
+SM 1268  831       827   0  1.30  0.8    287.0          M      158
+================================================================================
+AV 43.7 28.7                               9.9 FASTST   M    M   5    MAX(MPH)
+                                 MISC ---->    35 250                 58 260
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ERIE PA
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2024
+                                          LATITUDE:   42  4 N
+                                          LONGITUDE:  80 11 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 36.2   TOTAL FOR MONTH:   1.30    1 = FOG OR MIST
+DPTR FM NORMAL:   7.3   DPTR FM NORMAL:   -1.22    2 = FOG REDUCING VISIBILITY
+HIGHEST:    66 ON 27    GRTST 24HR  0.47 ON 22-22      TO 1/4 MILE OR LESS
+LOWEST:     18 ON 18                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.8 INCH    5 = HAIL
+                        GRTST 24HR   0.7 ON 16-16  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   1 ON 19,18  7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   4    0.01 INCH OR MORE:   9
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   3
+MIN 32 OR BELOW:  20    0.50 INCH OR MORE:   0
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   827    CLEAR  (SCALE 0-3)  10
+DPTR FM NORMAL  -182    PTCLDY (SCALE 4-7)  10
+TOTAL FM JUL 1  3381    CLOUDY (SCALE 8-10)  9
+DPTR FM NORMAL  -876
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.48 ON 29
+DPTR FM NORMAL     0    LOWEST  SLP 29.29 ON 28
+
+[REMARKS]
+#FINAL-02-24#
+
+

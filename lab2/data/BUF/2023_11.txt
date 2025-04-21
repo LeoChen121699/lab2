@@ -1,0 +1,103 @@
+
+449
+CXUS51 KBUF 051123
+CF6BUF
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     NOVEMBER
+                                          YEAR:      2023
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  41  30  36 -10  29   0 0.00  0.0    T  8.0 20 330   M    M   6 1      26 310
+ 2  46  32  39  -7  26   0 0.02    T    0 11.2 25 220   M    M   9 1      37 210
+ 3  59  42  51   6  14   0    T  0.0    0 16.3 35 240   M    M   7        57 240
+ 4  56  47  52   7  13   0 0.06  0.0    0  4.3 24 250   M    M   9 1      32 250
+ 5  51  41  46   1  19   0    T  0.0    0  5.4 14 340   M    M   7 1      20 350
+ 6  60  39  50   6  15   0 0.10  0.0    0 10.5 21 200   M    M   9        29 210
+ 7  60  35  48   4  17   0 0.00  0.0    0 15.1 24 240   M    M   9        39 240
+ 8  38  32  35  -9  30   0 0.11    T    0 10.7 18 110   M    M   9 34     25  70
+ 9  50  36  43   0  22   0 0.19  0.0    0 14.5 24 260   M    M   7 13     34 240
+10  52  43  48   5  17   0 0.00  0.0    0  9.9 21 260   M    M   8        33 270
+11  43  36  40  -3  25   0 0.00  0.0    0  6.0 12 340   M    M   8        17 360
+12  45  31  38  -4  27   0 0.00  0.0    0  4.1  9  40   M    M   4        13  40
+13  53  31  42   0  23   0 0.00  0.0    0 12.2 26 240   M    M   5        36 230
+14  48  36  42   0  23   0 0.00  0.0    0  6.8 15 280   M    M   6        23 270
+15  57  34  46   5  19   0 0.00  0.0    0  9.9 23 230   M    M   4        34 260
+16  58  38  48   7  17   0 0.00  0.0    0  7.9 17 230   M    M   4        24 240
+17  61  37  49   9  16   0 0.81  0.0    0 12.8 21 200   M    M  10 1      29 190
+18  44  34  39  -1  26   0 0.00  0.0    0 10.3 22 240   M    M   5        29 240
+19  48  33  41   1  24   0 0.00  0.0    0  8.4 24 300   M    M   5        35 300
+20  37  25  31  -8  34   0 0.00  0.0    0  8.4 16  70   M    M   5        23  70
+21  44  28  36  -3  29   0 1.04  0.0    0 10.2 21 180   M    M  10 1      31 140
+22  48  38  43   4  22   0 0.09  0.0    0  9.6 18 320   M    M  10 1      25 300
+23  44  35  40   2  25   0 0.00  0.0    0 13.1 26 230   M    M  10        39 250
+24  35  27  31  -7  34   0    T    T    0  9.0 16 310   M    M   6        23 300
+25  36  24  30  -8  35   0 0.00  0.0    0  5.4 12 260   M    M   7        16 260
+26  48  30  39   2  26   0 0.16  0.0    0  9.0 22 210   M    M   8 1      30 210
+27  42  26  34  -3  31   0    T    T    0 16.8 25 260   M    M   9        37 270
+28  31  23  27 -10  38   0    T    T    0 15.9 28 280   M    M   7        39 280
+29  34  22  28  -8  37   0 0.12  1.9    T 15.6 23 200   M    M   8 12     32 180
+30  50  34  42   6  23   0 0.00  0.0    1 14.4 20 200   M    M   6        27 190
+================================================================================
+SM 1419  999       736   0  2.70  1.9    311.7          M      217
+================================================================================
+AV 47.3 33.3                              10.4 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    35 240                 57 240
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     NOVEMBER
+                                          YEAR:      2023
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 40.3   TOTAL FOR MONTH:   2.70    1 = FOG OR MIST
+DPTR FM NORMAL:  -0.7   DPTR FM NORMAL:   -0.80    2 = FOG REDUCING VISIBILITY
+HIGHEST:    61 ON 17    GRTST 24HR  1.11 ON 21-22      TO 1/4 MILE OR LESS
+LOWEST:     22 ON 29                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   1.9 INCHES  5 = HAIL
+                        GRTST 24HR   1.9 ON 29-29  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   1 ON 30     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   1    0.01 INCH OR MORE:  10
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   7
+MIN 32 OR BELOW:  13    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   736    CLEAR  (SCALE 0-3)   0
+DPTR FM NORMAL    16    PTCLDY (SCALE 4-7)  19
+TOTAL FM JUL 1  1135    CLOUDY (SCALE 8-10) 11
+DPTR FM NORMAL  -136
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1   627    HIGHEST SLP 30.55 ON 12
+DPTR FM NORMAL    20    LOWEST  SLP 29.60 ON  9
+
+[REMARKS]
+#FINAL-11-23#
+
+

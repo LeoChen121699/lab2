@@ -1,0 +1,103 @@
+
+000
+CXUS51 KBOX 010910
+CF6BOS
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     JANUARY
+                                          YEAR:      2022
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  52  44  48  16  17   0 0.08  0.0    M  3.4  8 120   M    M  10 12     11 120
+ 2  46  33  40   8  25   0 0.23  0.0    M  9.0 23 310   M    M   9 1      29 320
+ 3  33  21  27  -4  38   0 0.00  0.0    M 14.0 20  20   M    M   9        27 330
+ 4  31  17  24  -7  41   0 0.00  0.0    M  9.9 17 310   M    M   2        22 330
+ 5  51  27  39   8  26   0 0.12  0.0    M 11.1 24 180   M    M   9 1      36 180
+ 6  43  32  38   7  27   0 0.00  0.0    M 10.8 22 290   M    M   7        28 300
+ 7  33  23  28  -3  37   0 0.48 11.7    M 13.3 23 280   M    M  10 129    29 270
+ 8  28  17  23  -7  42   0 0.00  0.0    M 10.8 23 310   M    M   3        30 330
+ 9  43  21  32   2  33   0 0.01    T    M 16.1 32 230   M    M  10        44 230
+10  40  22  31   1  34   0 0.00  0.0    M 16.8 25 280   M    M   5        36 280
+11  22   8  15 -15  50   0    T  0.1    M 13.1 24 310   M    M   3 8      32 330
+12  42  10  26  -4  39   0 0.00  0.0    M 13.0 30 220   M    M   7        37 220
+13  46  29  38   8  27   0 0.00  0.0    M  4.3 12 120   M    M   8        14 180
+14  41  15  28  -2  37   0 0.00  0.0    M 16.4 26 310   M    M   8        37 330
+15  15   4  10 -20  55   0 0.00  0.0    M 17.3 28 320   M    M   3        34 330
+16  35   5  20 -10  45   0 0.00  0.0    M  8.3 23 120   M    M   5        28 110
+17  49  35  42  12  23   0 0.73  0.0    M 24.0 44 100   M    M   9 1      56 120
+18  36  21  29   0  36   0 0.00  0.0    M 18.2 30 280   M    M   3        40 270
+19  46  20  33   4  32   0 0.00  0.0    M 13.9 31 210   M    M   7        43 230
+20  41  19  30   1  35   0 0.15    T    M 10.9 22 330   M    M   9 18     28 320
+21  22   9  16 -13  49   0 0.00  0.0    M 10.9 22 310   M    M   5        25 320
+22  26  13  20  -9  45   0    T    T    M  9.0 18 360   M    M   8 1      22  10
+23  35  19  27  -2  38   0 0.01  0.1    M 10.0 16 230   M    M   8 1      24 290
+24  30  23  27  -2  38   0 0.04  0.4    M  7.4 14 330   M    M   6 1      18 340
+25  41  28  35   6  30   0 0.02  0.1    M  8.9 16 290   M    M   8 18     23 290
+26  28  12  20  -9  45   0 0.00  0.0    M 12.2 18 320   M    M   2        26 320
+27  27   9  18 -11  47   0 0.00  0.0    M  8.6 16 200   M    M   3        20 220
+28  36  25  31   2  34   0 0.01  0.2    M  7.3 18 230   M    M  10 1      23 230
+29  29  12  21  -9  44   0 0.45 23.6    M 22.8 36 360   M    M  10 129    47 360
+30  23  10  17 -13  48   0 0.00  0.0    M 14.2 25 290   M    M   5 9      32 280
+31  31  14  23  -7  42   0 0.00  0.0    M  5.3 10 290   M    M   3        15 280
+================================================================================
+SM 1101  597      1159   0  2.33 36.2    371.2          M      204
+================================================================================
+AV 35.5 19.3                              12.0 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    44 100                 56 120
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     JANUARY
+                                          YEAR:      2022
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 27.4   TOTAL FOR MONTH:   2.33    1 = FOG OR MIST
+DPTR FM NORMAL:  -2.5   DPTR FM NORMAL:   -1.06    2 = FOG REDUCING VISIBILITY
+HIGHEST:    52 ON  1    GRTST 24HR  1.18 ON 17-17      TO 1/4 MILE OR LESS
+LOWEST:      4 ON 15                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  36.2 INCHES  5 = HAIL
+                        GRTST 24HR  23.6 ON 29-29  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  M  ON   M    7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:  12    0.01 INCH OR MORE:  12
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:  28    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.  1159    CLEAR  (SCALE 0-3)   7
+DPTR FM NORMAL    73    PTCLDY (SCALE 4-7)  12
+TOTAL FM JUL 1  2739    CLOUDY (SCALE 8-10) 12
+DPTR FM NORMAL  -273
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.59 ON 21
+DPTR FM NORMAL     0    LOWEST  SLP 29.01 ON 17
+
+[REMARKS]
+#FINAL-01-22#
+

@@ -1,0 +1,100 @@
+
+000
+CXUS51 KPBZ 141248
+CF6PIT
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   PITTSBURGH PA
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2022
+                                          LATITUDE:   40 30 N
+                                          LONGITUDE:  80 13 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  47  17  32   3  33   0 0.00  0.0    6  7.4 14 120   M    M   5        17 130
+ 2  48  29  39  10  26   0 0.26  0.0    6  5.5 12 230   M    M   9 1      16 250
+ 3  45  28  37   8  28   0 1.02  0.3    3  9.8 16 350   M    M  10 146    22  10
+ 4  28  18  23  -6  42   0 0.38  3.0    4 10.6 16 350   M    M  10 14     22 350
+ 5  20  11  16 -14  49   0 0.04  0.9    4  5.7 18 310   M    M   8 18     20 310
+ 6  32   6  19 -11  46   0 0.00  0.0    5  2.7 10 190   M    M   2 1      14 160
+ 7  42  17  30   0  35   0 0.00  0.0    5  5.0 18 310   M    M   6        20 320
+ 8  30  20  25  -5  40   0 0.02  0.4    4  7.4 15 210   M    M   6        20 250
+ 9  49  23  36   6  29   0    T  0.0    4  8.4 23 210   M    M   6        36 210
+10  43  27  35   5  30   0    T    T    4 10.9 22 240   M    M   6        31 240
+11  56  24  40  10  25   0 0.01  0.0    3 10.7 28 240   M    M   7        40 250
+12  41  24  33   2  32   0 0.03    T    T 10.5 22 290   M    M  10        27 310
+13  26  16  21 -10  44   0    T  0.1    T  9.0 18 280   M    M  10        23 270
+14  22  10  16 -15  49   0    T  0.2    T  7.5 16 290   M    M   7 1      19 290
+15  35   9  22  -9  43   0 0.00  0.0    T  3.3  9 130   M    M   4        15 140
+16  59  27  43  11  22   0 0.00  0.0    0 10.0 25 210   M    M   8        36 200
+17  62  35  49  17  16   0 1.60  0.0    0 10.2 30 310   M    M   9 1      39 210
+18  35  20  28  -4  37   0 0.03  0.4    0 14.2 29 320   M    M   8 1      39 310
+19  30  13  22 -10  43   0 0.03  0.5    0 16.2 39 300   M    M   5        47 290
+20  48  11  30  -2  35   0 0.00  0.0    T  8.7 21 190   M    M   1        27 210
+21  62  40  51  18  14   0 0.00  0.0    0  7.9 20 210   M    M   5        24 170
+22  61  47  54  21  11   0 0.56  0.0    0 10.0 25 230   M    M   9 1      37 220
+23  58  27  43  10  22   0 0.05    T    0 12.6 24 280   M    M  10 18     29 280
+24  36  25  31  -3  34   0 0.35    T    0  8.3 16 100   M    M  10 16     20 100
+25  35  23  29  -5  36   0 0.72    T    0 12.6 28 280   M    M  10 16     36 290
+26  35  22  29  -5  36   0    T    T    0  8.7 15 230   M    M   7        19 280
+27  45  24  35   1  30   0 0.00  0.0    0 13.3 32 280   M    M   2        41 270
+28  41  24  33  -1  32   0 0.00  0.0    0  4.6 12 320   M    M   5        13 200
+================================================================================
+SM 1171  617       919   0  5.10  5.8    251.7          M      195
+================================================================================
+AV 41.8 22.0                               9.0 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    39 300                 47 290
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   PITTSBURGH PA
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2022
+                                          LATITUDE:   40 30 N
+                                          LONGITUDE:  80 13 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 31.9   TOTAL FOR MONTH:   5.10    1 = FOG OR MIST
+DPTR FM NORMAL:   0.5   DPTR FM NORMAL:    2.48    2 = FOG REDUCING VISIBILITY
+HIGHEST:    62 ON 21,17  GRTST 24HR  1.67 ON 17-18      TO 1/4 MILE OR LESS
+LOWEST:      6 ON  6                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   5.8 INCHES  5 = HAIL
+                        GRTST 24HR   3.0 ON  4- 4  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   7 ON M      7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   7    0.01 INCH OR MORE:  14
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   7
+MIN 32 OR BELOW:  25    0.50 INCH OR MORE:   4
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   2
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   919    CLEAR  (SCALE 0-3)   3
+DPTR FM NORMAL   -22    PTCLDY (SCALE 4-7)  14
+TOTAL FM JUL 1  3908    CLOUDY (SCALE 8-10) 11
+DPTR FM NORMAL  -263
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.64 ON 15
+DPTR FM NORMAL     0    LOWEST  SLP 29.32 ON 17
+
+[REMARKS]
+#FINAL-02-22#
+

@@ -1,0 +1,104 @@
+
+290
+CXUS53 KMPX 010910
+CF6MSP
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   TWIN CITIES MN
+                                          MONTH:     MARCH
+                                          YEAR:      2021
+                                          LATITUDE:   44 52 N
+                                          LONGITUDE:  93 13 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  26  13  20  -6  45   0 0.04  0.7    6  7.3 16  20   M    M   4 18     21  20
+ 2  47  17  32   5  33   0 0.00  0.0    5 10.7 24 230   M    M   1        40 240
+ 3  50  26  38  11  27   0 0.00  0.0    3  3.4  9  10   M    M   3 1      19  10
+ 4  46  29  38  10  27   0 0.00  0.0    1  7.3 16 140   M    M   3        21 120
+ 5  46  30  38  10  27   0 0.00  0.0    T  3.8 10 140   M    M   6        14 150
+ 6  48  25  37   9  28   0 0.00  0.0    T  6.0 13 130   M    M   1 1      18 120
+ 7  62  32  47  18  18   0 0.00  0.0    T 10.7 23 220   M    M   4        40 240
+ 8  58  32  45  16  20   0 0.00  0.0    T  4.9 15 120   M    M   3 18     18 120
+ 9  62  41  52  22  13   0 0.00  0.0    0 12.0 25 170   M    M   7        35 180
+10  50  36  43  13  22   0 0.69  0.0    0 10.0 29 230   M    M  10 135    42 230
+11  48  33  41  11  24   0    T    T    0 13.8 25 270   M    M   5 1      41 250
+12  45  26  36   5  29   0 0.00  0.0    0  4.3 13 330   M    M   1 18     22  10
+13  59  28  44  13  21   0 0.00  0.0    0  6.8 24 250   M    M   1        36 260
+14  48  34  41   9  24   0 0.00  0.0    0 13.5 22 100   M    M   6        37  60
+15  36  28  32   0  33   0 0.31  2.9    0 13.7 22 110   M    M  10 12     36 120
+16  35  29  32  -1  33   0 0.01    T    3  5.3 10  90   M    M  10 18     16  80
+17  43  32  38   5  27   0 0.01  0.4    3  7.1 17  10   M    M   8 18     25  30
+18  53  31  42   8  23   0 0.00  0.0    T 10.4 22  30   M    M   2        38  40
+19  51  30  41   7  24   0 0.00  0.0    0  7.4 15 190   M    M   0        21 200
+20  57  32  45  11  20   0 0.00  0.0    0 14.7 28 170   M    M   2        35 170
+21  63  41  52  17  13   0    T  0.0    0 15.9 31 180   M    M   7        42 160
+22  59  35  47  12  18   0    T  0.0    0  5.6 15 310   M    M   7        21 350
+23  59  44  52  16  13   0 0.61  0.0    0 11.5 21  30   M    M  10 1      42  10
+24  45  39  42   6  23   0 0.94  0.0    0 13.1 22 330   M    M  10 1      31 330
+25  53  30  42   5  23   0 0.00  0.0    0  6.6 17  50   M    M   3 1      30  30
+26  48  28  38   1  27   0 0.00  0.0    0  7.2 12 130   M    M   8        20  40
+27  47  36  42   4  23   0 0.21  0.0    0  9.6 24 340   M    M  10 18     34 330
+28  45  32  39   1  26   0 0.00  0.0    0 11.1 18 320   M    M   7        29 340
+29  73  39  56  17   9   0 0.00  0.0    0 18.3 27 190   M    M   3        46 200
+30  55  29  42   3  23   0 0.00  0.0    0 20.8 32 270   M    M   8 8      48 270
+31  36  23  30 -10  35   0 0.00  0.0    0 15.1 28 310   M    M   3        40 310
+================================================================================
+SM 1553  960       751   0  2.82  4.0    307.9          M      163
+================================================================================
+AV 50.1 31.0                               9.9 FASTST   M    M   5    MAX(MPH)
+                                 MISC ---->    32 270                 48 270
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   TWIN CITIES MN
+                                          MONTH:     MARCH
+                                          YEAR:      2021
+                                          LATITUDE:   44 52 N
+                                          LONGITUDE:  93 13 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 40.5   TOTAL FOR MONTH:   2.82    1 = FOG OR MIST
+DPTR FM NORMAL:   7.7   DPTR FM NORMAL:    0.93    2 = FOG REDUCING VISIBILITY
+HIGHEST:    73 ON 29    GRTST 24HR  1.51 ON 23-24      TO 1/4 MILE OR LESS
+LOWEST:     13 ON  1                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   5.5 INCHES  5 = HAIL
+                        GRTST 24HR   2.9 ON 15-15  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   6 ON  1     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   1    0.01 INCH OR MORE:   8
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   5
+MIN 32 OR BELOW:  21    0.50 INCH OR MORE:   3
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   751    CLEAR  (SCALE 0-3)  12
+DPTR FM NORMAL  -247    PTCLDY (SCALE 4-7)  12
+TOTAL FM JUL 1  6395    CLOUDY (SCALE 8-10)  7
+DPTR FM NORMAL  -394
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.55 ON 19
+DPTR FM NORMAL     0    LOWEST  SLP 29.31 ON 29
+
+[REMARKS]
+#FINAL-03-21#
+
+

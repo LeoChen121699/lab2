@@ -1,0 +1,109 @@
+
+000
+CXUS51 KBGM 050135 AAA
+CF6SYR
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     MAY
+                                          YEAR:      2023
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  57  41  49  -4  16   0 0.45  0.0    0 10.5 37 240   M    M   9 18     46 230
+ 2  52  41  47  -7  18   0 0.09  0.0    0  6.1 17 230   M    M   9        22 250
+ 3  48  40  44 -10  21   0 0.21  0.0    0  6.4 15 330   M    M  10 1      17 320
+ 4  54  42  48  -6  17   0 0.19  0.0    0  5.4 17 330   M    M   9 1      21 330
+ 5  62  43  53  -2  12   0 0.00  0.0    0  5.5 13 320   M    M   8        17 310
+ 6  69  40  55   0  10   0 0.00  0.0    0  4.6 17 310   M    M   2        20 310
+ 7  75  42  59   4   6   0 0.08  0.0    0  2.9 17 340   M    M   7        21 340
+ 8  65  46  56   0   9   0    T  0.0    0  8.0 18 280   M    M   7        23 280
+ 9  63  41  52  -4  13   0 0.00  0.0    0  5.3 20 320   M    M   7        25 330
+10  70  39  55  -1  10   0 0.00  0.0    0  5.3 16 300   M    M   3        21 290
+11  78  44  61   4   4   0 0.00  0.0    0  4.6 17 330   M    M   5        22 340
+12  84  56  70  13   0   5 0.00  0.0    0  6.8 20 300   M    M   7        29 300
+13  74  51  63   5   2   0 0.00  0.0    0  7.9 21 320   M    M   7        27 320
+14  61  44  53  -5  12   0 0.00  0.0    0  7.7 20 300   M    M   5        28 300
+15  72  38  55  -3  10   0 0.00  0.0    0  8.8 21 280   M    M   5        26 280
+16  77  47  62   4   3   0    T  0.0    0 15.0 26 310   M    M   7        34 300
+17  51  36  44 -15  21   0 0.00  0.0    0 11.3 22 330   M    M   6        29 330
+18  66  31  49 -10  16   0 0.00  0.0    0  4.5 13 180   M    M   4        18 180
+19  77  54  66   7   0   1    T  0.0    0 12.3 24 170   M    M   7        31 180
+20  76  51  64   4   1   0 0.20  0.0    0  8.6 22 300   M    M   9 1      28 300
+21  73  53  63   3   2   0 0.00  0.0    0  7.8 17 300   M    M   7 8      22 300
+22  72  47  60   0   5   0 0.00  0.0    0  4.0 13 330   M    M   5 1      19 350
+23  80  48  64   4   1   0 0.00  0.0    0  3.1 13 230   M    M   7 8      17 270
+24  70  44  57  -4   8   0 0.06  0.0    0  9.8 26 320   M    M   8 18     34 350
+25  62  37  50 -11  15   0 0.00  0.0    0  7.6 16 320   M    M   2        22 330
+26  71  40  56  -5   9   0 0.00  0.0    0  4.2 16 290   M    M   1        19 290
+27  81  43  62   0   3   0 0.00  0.0    0  2.7 12  30   M    M   1        14  20
+28  83  49  66   4   0   1 0.00  0.0    0  4.0 13 320   M    M   2        15 330
+29  87  50  69   7   0   4 0.00  0.0    0  4.1 12 330   M    M   1        16 310
+30  86  60  73  11   0   8 0.00  0.0    0  4.3 13 180   M    M   1        17 180
+31  89  58  74  11   0   9 0.00  0.0    0  4.2 14 340   M    M   2        17 340
+================================================================================
+SM 2185 1396       244  28  1.28  0.0    203.3          M      170
+================================================================================
+AV 70.5 45.0                               6.6 FASTST   M    M   5    MAX(MPH)
+                                 MISC ---->    37 240                 46 230
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     MAY
+                                          YEAR:      2023
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 57.8   TOTAL FOR MONTH:   1.28    1 = FOG OR MIST
+DPTR FM NORMAL:  -0.4   DPTR FM NORMAL:   -2.14    2 = FOG REDUCING VISIBILITY
+HIGHEST:    89 ON 31    GRTST 24HR  1.35 ON 30- 1      TO 1/4 MILE OR LESS
+LOWEST:     31 ON 18                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   7
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   4
+MIN 32 OR BELOW:   1    0.50 INCH OR MORE:   0
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   244    CLEAR  (SCALE 0-3)   8
+DPTR FM NORMAL     1    PTCLDY (SCALE 4-7)  18
+TOTAL FM JUL 1  5606    CLOUDY (SCALE 8-10)  5
+DPTR FM NORMAL  -926
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    28
+DPTR FM NORMAL    -6    [PRESSURE DATA]
+TOTAL FM JAN 1    56    HIGHEST SLP 30.36 ON 27
+DPTR FM NORMAL    18    LOWEST  SLP 29.12 ON  1
+
+[REMARKS]
+#FINAL-05-23#
+6TH LOWEST MAY PRECIPITATION AT CURRENT AIRPORT (STARTED 1950)
+    (RECORD 0.59" IN 2005)
+3RD LOWEST SNOWFALL JULY TO JUNE AT CURRENT AIRPORT
+    (RECORD 50.6" FROM JULY 2011 TO JUNE 2012)
+TAC
+

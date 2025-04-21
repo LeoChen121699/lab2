@@ -1,0 +1,103 @@
+
+000
+CXUS51 KCLE 010800
+CF6ERI
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ERIE PA
+                                          MONTH:     MARCH
+                                          YEAR:      2023
+                                          LATITUDE:   42  4 N
+                                          LONGITUDE:  80 11 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  57  31  44  12  21   0    T  0.0    0  7.2 20 170   M    M   2        25 170
+ 2  41  30  36   4  29   0    T  0.0    0  4.5 14 280   M    M   9 18     19 280
+ 3  44  27  36   4  29   0 0.83  0.0    0  9.9 26 150   M    M   6 18     38 130
+ 4  43  31  37   5  28   0 0.09    T    0 12.1 29 220   M    M   8 1      38 190
+ 5  40  27  34   1  31   0 0.04  0.0    0  6.7 14 270   M    M   9 18     20 240
+ 6  46  25  36   3  29   0 0.71  2.1    0  7.9 23  40   M    M   7 1      30  40
+ 7  35  31  33   0  32   0 0.00  0.0    2 13.2 20 330   M    M   3        27 340
+ 8  34  29  32  -2  33   0 0.00  0.0    1  9.8 20 360   M    M   1        29 340
+ 9  35  22  29  -5  36   0 0.00  0.0    T  6.5 13  60   M    M   1        15  70
+10  34  29  32  -2  33   0 0.62  6.1    T 11.1 25  10   M    M   9 12     32  10
+11  31  27  29  -5  36   0 0.01    T    4  7.1 14 360   M    M  10 1      19 350
+12  35  24  30  -5  35   0 0.01    T    4  3.5  9 100   M    M   9 18     12 120
+13  33  27  30  -5  35   0 0.07  0.7    4  6.1 17 310   M    M  10 18     23 310
+14  31  25  28  -7  37   0 0.02  0.4    3 14.2 23 300   M    M  10 18     34 320
+15  37  29  33  -3  32   0 0.00  0.0    3  9.2 16 270   M    M   2        23 280
+16  54  31  43   7  22   0 0.06  0.0    2 10.3 18 160   M    M   4 8      24 170
+17  50  35  43   7  22   0 0.21  0.0    0 17.3 30 250   M    M  10 18     47 240
+18  35  21  28  -9  37   0    T  0.1    T 17.8 29 250   M    M  10 128    41 240
+19  32  22  27 -10  38   0    T    T    T 15.3 25 290   M    M   7 18     38 270
+20  49  27  38   1  27   0 0.00  0.0    0 14.6 23 220   M    M   0        31 230
+21  52  38  45   7  20   0 0.00  0.0    0  8.2 16 270   M    M   1        21 260
+22  54  43  49  11  16   0 0.02  0.0    0 10.4 22 190   M    M   9        28 190
+23  55  34  45   7  20   0 0.26  0.0    0  9.3 21 200   M    M   9 1      29 210
+24  39  32  36  -3  29   0 0.00  0.0    0  8.6 16  50   M    M   2        20  40
+25  58  37  48   9  17   0 0.56  0.0    0 19.9 38 250   M    M  10 138    55 140
+26  48  35  42   3  23   0    T  0.0    0 10.9 26 270   M    M   2 1      42 240
+27  45  36  41   1  24   0 0.35  0.0    0  6.5 15  20   M    M   8 1      19  60
+28  41  31  36  -4  29   0 0.00  0.0    0  5.9 15 280   M    M   5 18     19 270
+29  49  29  39  -1  26   0 0.03  0.4    0 11.4 28 290   M    M   4 12     40 250
+30  41  20  31 -10  34   0 0.00  0.0    T  5.8 14 160   M    M   0        18 160
+31  54  41  48   7  17   0 0.79  0.0    0 14.7 26 190   M    M   9 13     37 190
+================================================================================
+SM 1332  926       877   0  4.68  9.8    315.9          M      186
+================================================================================
+AV 43.0 29.9                              10.2 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    38 250                 55 140
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ERIE PA
+                                          MONTH:     MARCH
+                                          YEAR:      2023
+                                          LATITUDE:   42  4 N
+                                          LONGITUDE:  80 11 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 36.4   TOTAL FOR MONTH:   4.68    1 = FOG OR MIST
+DPTR FM NORMAL:   0.3   DPTR FM NORMAL:    1.60    2 = FOG REDUCING VISIBILITY
+HIGHEST:    58 ON 25    GRTST 24HR  0.92 ON  3- 4      TO 1/4 MILE OR LESS
+LOWEST:     20 ON 30                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   9.8 INCHES  5 = HAIL
+                        GRTST 24HR   6.1 ON 10-10  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   4 ON 13,12  7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   3    0.01 INCH OR MORE:  17
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   8
+MIN 32 OR BELOW:  23    0.50 INCH OR MORE:   5
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   877    CLEAR  (SCALE 0-3)  10
+DPTR FM NORMAL   -20    PTCLDY (SCALE 4-7)   7
+TOTAL FM JUL 1  4726    CLOUDY (SCALE 8-10) 14
+DPTR FM NORMAL  -360
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL    -1    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.50 ON  8
+DPTR FM NORMAL    -1    LOWEST  SLP 29.12 ON  3
+
+[REMARKS]
+#FINAL-03-23#
+

@@ -1,0 +1,103 @@
+
+000
+CXUS51 KBTV 011700
+CF6BTV
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BURLINGTON VT
+                                          MONTH:     OCTOBER
+                                          YEAR:      2022
+                                          LATITUDE:   44 28 N
+                                          LONGITUDE:  73  9 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  65  44  55  -1  10   0 0.00  0.0    0  6.1 16 360   M    M   4        20  10
+ 2  57  40  49  -7  16   0 0.00  0.0    0 10.1 24 330   M    M   5        29 330
+ 3  59  34  47  -8  18   0 0.00  0.0    0  4.4 14 320   M    M   2        18 310
+ 4  61  38  50  -5  15   0 0.00  0.0    0  2.6  9 330   M    M   5        12 330
+ 5  70  44  57   2   8   0 0.00  0.0    0  1.7  8 320   M    M   3        10 290
+ 6  75  44  60   6   5   0 0.00  0.0    0  3.3 12 220   M    M   4        14 200
+ 7  67  46  57   3   8   0 0.20  0.0    0  8.9 22 330   M    M   9 1      30 330
+ 8  52  40  46  -7  19   0 0.01  0.0    0  7.1 14 290   M    M   7        18 320
+ 9  54  40  47  -6  18   0 0.04  0.0    0  8.2 21 200   M    M   8 1      27 200
+10  56  36  46  -6  19   0 0.01  0.0    0  2.5 10 360   M    M   6        13 350
+11  63  33  48  -4  17   0 0.00  0.0    0  4.1 14 200   M    M   2        18 180
+12  71  41  56   4   9   0 0.00  0.0    0  8.8 24 200   M    M   5        32 190
+13  71  52  62  11   3   0 1.21  0.0    0 11.0 26 180   M    M   7 1      37 180
+14  63  44  54   3  11   0 0.54  0.0    0  1.9  9 110   M    M   6 1      13 100
+15  68  41  55   4  10   0 0.00  0.0    0  6.7 22 200   M    M   6 12     31 200
+16  63  41  52   2  13   0 0.00  0.0    0  2.7 12 340   M    M   6        13 340
+17  58  38  48  -2  17   0 0.15  0.0    0  4.4 14 150   M    M   7        17 150
+18  58  44  51   1  14   0 0.01  0.0    0  6.1 15 200   M    M   8 1      22 200
+19  54  36  45  -4  20   0 0.00  0.0    0  8.6 20 190   M    M   6        26 210
+20  50  42  46  -3  19   0 0.00  0.0    0 10.8 21 190   M    M   6        28 180
+21  59  39  49   1  16   0 0.00  0.0    0 10.1 18 180   M    M   3        25 230
+22  69  50  60  12   5   0 0.00  0.0    0 12.3 22 200   M    M   0        30 190
+23  69  41  55   7  10   0 0.00  0.0    0  2.0  8 190   M    M   5        12 190
+24  67  49  58  11   7   0 0.29  0.0    0  2.4 12 130   M    M   8 1      14 130
+25  75  59  67  20   0   2 0.03  0.0    0  6.9 16 190   M    M   8 1      21 190
+26  78  59  69  22   0   4 0.13  0.0    0  6.6 16 210   M    M   5 1      25 210
+27  62  40  51   5  14   0 0.00  0.0    0 10.9 25 320   M    M   5        32 320
+28  51  31  41  -5  24   0 0.00  0.0    0  2.6  9 320   M    M   4 1      11 350
+29  62  31  47   1  18   0 0.00  0.0    0  3.5 14 200   M    M   2        18 200
+30  65  31  48   3  17   0 0.00  0.0    0  5.7 15 200   M    M   4        20 180
+31  63  39  51   6  14   0    T  0.0    0  8.0 17 200   M    M   6        23 200
+================================================================================
+SM 1955 1287       394   6  2.62  0.0    191.0          M      162
+================================================================================
+AV 63.1 41.5                               6.2 FASTST   M    M   5    MAX(MPH)
+                                 MISC ---->    26 180                 37 180
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BURLINGTON VT
+                                          MONTH:     OCTOBER
+                                          YEAR:      2022
+                                          LATITUDE:   44 28 N
+                                          LONGITUDE:  73  9 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 52.3   TOTAL FOR MONTH:   2.62    1 = FOG OR MIST
+DPTR FM NORMAL:   2.0   DPTR FM NORMAL:   -1.21    2 = FOG REDUCING VISIBILITY
+HIGHEST:    78 ON 26    GRTST 24HR  1.75 ON 13-14      TO 1/4 MILE OR LESS
+LOWEST:     31 ON 30,29                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  11
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   3    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   394    CLEAR  (SCALE 0-3)   6
+DPTR FM NORMAL   -65    PTCLDY (SCALE 4-7)  23
+TOTAL FM JUL 1   529    CLOUDY (SCALE 8-10)  2
+DPTR FM NORMAL   -84
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     6
+DPTR FM NORMAL     1    [PRESSURE DATA]
+TOTAL FM JAN 1   761    HIGHEST SLP 30.66 ON 28
+DPTR FM NORMAL   105    LOWEST  SLP 29.53 ON 18
+
+[REMARKS]
+#FINAL-10-22#
+

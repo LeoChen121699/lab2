@@ -1,0 +1,103 @@
+
+000
+CXUS51 KBGM 010810
+CF6SYR
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     MAY
+                                          YEAR:      2021
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  58  35  47  -6  18   0 0.01    T    0  9.0 18 290   M    M   7 1      25 240
+ 2  67  49  58   4   7   0 0.29  0.0    0  5.9 20 320   M    M   8 12     24 330
+ 3  71  48  60   6   5   0 0.10  0.0    0  6.6 13 150   M    M  10 12     15 160
+ 4  69  54  62   8   3   0 0.26  0.0    0  5.3 13  50   M    M  10 13     16  80
+ 5  59  46  53  -2  12   0 0.20  0.0    0 10.4 20 280   M    M  10 1      26 270
+ 6  58  40  49  -6  16   0    T  0.0    0  8.6 18 320   M    M   5        23 300
+ 7  57  34  46  -9  19   0 0.20  0.0    0  7.0 15 330   M    M   9        18 350
+ 8  54  40  47  -9  18   0 0.37  0.0    0  7.5 14 290   M    M   9 1      18 290
+ 9  58  41  50  -6  15   0 0.22  0.0    0  5.8 14 190   M    M   7        17 210
+10  59  44  52  -4  13   0 0.07  0.0    0  8.5 16 300   M    M   8 1      21 300
+11  57  39  48  -9  17   0    T  0.0    0 15.2 25 280   M    M   4        33 290
+12  64  42  53  -4  12   0 0.02  0.0    0  9.4 21 280   M    M   5        28 280
+13  69  39  54  -4  11   0 0.00  0.0    0  6.1 18 320   M    M   1        27 340
+14  72  44  58   0   7   0 0.00  0.0    0  5.8 16 300   M    M   1        22 300
+15  75  43  59   1   6   0 0.00  0.0    0  5.3 16 260   M    M   4        22 290
+16  78  45  62   4   3   0 0.00  0.0    0  3.8 15 180   M    M   5        18 180
+17  78  50  64   5   1   0 0.00  0.0    0  3.7 15 220   M    M   5 8      19 230
+18  80  49  65   6   0   0 0.00  0.0    0  5.5 16 300   M    M   4        20 290
+19  87  52  70  11   0   5 0.00  0.0    0  2.5 14 330   M    M   4        15  10
+20  92  57  75  15   0  10 0.00  0.0    0  3.5 15 340   M    M   6        19 330
+21  93  60  77  17   0  12 0.00  0.0    0  4.3 16 320   M    M   6        20 310
+22  85  63  74  14   0   9 0.00  0.0    0  7.8 23 300   M    M   7 8      29 300
+23  77  52  65   5   0   0    T  0.0    0 10.7 22 330   M    M   8        29 310
+24  78  46  62   1   3   0 0.00  0.0    0  4.5 16 170   M    M   5        19 170
+25  87  60  74  13   0   9    T  0.0    0  9.6 18 210   M    M   7        22 200
+26  90  67  79  18   0  14 0.25  0.0    0  9.6 29 310   M    M   8 13     38 310
+27  67  49  58  -4   7   0 0.00  0.0    0 10.4 23 290   M    M   5        32 290
+28  50  45  48 -14  17   0 0.53  0.0    0  6.9 12  70   M    M  10 1      19  60
+29  62  44  53  -9  12   0 0.01  0.0    0  7.2 16 110   M    M   8        21 120
+30  59  46  53  -9  12   0 0.02  0.0    0  6.5 18  90   M    M   8        22  90
+31  72  51  62  -1   3   0    T  0.0    0  6.5 18 310   M    M   6        24 270
+================================================================================
+SM 2182 1474       237  59  2.55    T    219.4          M      200
+================================================================================
+AV 70.4 47.5                               7.1 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    29 310                 38 310
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     MAY
+                                          YEAR:      2021
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 59.0   TOTAL FOR MONTH:   2.55    1 = FOG OR MIST
+DPTR FM NORMAL:   0.8   DPTR FM NORMAL:   -0.87    2 = FOG REDUCING VISIBILITY
+HIGHEST:    93 ON 21    GRTST 24HR  0.57 ON  7- 8      TO 1/4 MILE OR LESS
+LOWEST:     34 ON  7                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  T            5 = HAIL
+                        GRTST 24HR   T   ON  1- 1  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  14
+MAX 90 OR ABOVE:   3    0.10 INCH OR MORE:   9
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   237    CLEAR  (SCALE 0-3)   2
+DPTR FM NORMAL    -6    PTCLDY (SCALE 4-7)  22
+TOTAL FM JUL 1  5850    CLOUDY (SCALE 8-10)  7
+DPTR FM NORMAL  -682
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    59
+DPTR FM NORMAL    25    [PRESSURE DATA]
+TOTAL FM JAN 1    59    HIGHEST SLP 30.42 ON 21
+DPTR FM NORMAL    21    LOWEST  SLP 29.59 ON  4
+
+[REMARKS]
+#FINAL-05-21#
+

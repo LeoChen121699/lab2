@@ -1,0 +1,103 @@
+
+000
+CXUS51 KBOX 011638
+CF6BOS
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     DECEMBER
+                                          YEAR:      2021
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  46  33  40   0  25   0 0.00  0.0    M  9.8 20 240   M    M   M        28 260
+ 2  60  36  48   8  17   0 0.02  0.0    M 11.2 33 290   M    M   9        40 290
+ 3  45  33  39   0  26   0 0.00  0.0    M 16.1 28 270   M    M   3        36 270
+ 4  42  28  35  -4  30   0 0.00  0.0    M  9.6 18 230   M    M   7        21 230
+ 5  47  38  43   4  22   0 0.00  0.0    M  8.7 16 140   M    M   8        21 270
+ 6  62  42  52  14  13   0 0.25  0.0    M 16.3 35 290   M    M   9 1      45 210
+ 7  45  34  40   2  25   0 0.00  0.0    M 12.1 43 290   M    M   5        58 310
+ 8  37  28  33  -5  32   0    T  0.3    M 10.1 21  10   M    M  10 1      27  20
+ 9  38  26  32  -6  33   0 0.01    T    M  9.4 18 290   M    M   7 18     24 330
+10  44  28  36  -1  29   0    T    T    M  5.3 13 160   M    M   9        15 140
+11  64  35  50  13  15   0 0.25  0.0    M 12.7 33 210   M    M  10 12     44 210
+12  62  38  50  13  15   0 0.04  0.0    M 17.1 37 290   M    M   5        47 280
+13  52  37  45   9  20   0 0.00  0.0    M 16.0 23 240   M    M   4        35 250
+14  51  35  43   7  22   0 0.00  0.0    M 10.7 18 330   M    M   4        24 250
+15  45  32  39   3  26   0 0.02  0.0    M  7.3 15 170   M    M   8        17 160
+16  60  45  53  17  12   0 0.17  0.0    M 14.4 22 210   M    M   9 1      26 210
+17  60  42  51  16  14   0 0.00  0.0    M 16.1 31 290   M    M   5        41 290
+18  43  33  38   3  27   0 0.56  0.1    M  7.1 21 110   M    M  10 14     25 110
+19  44  23  34  -1  31   0 0.38  0.0    M 14.7 24 320   M    M   7 146    33 330
+20  33  20  27  -8  38   0 0.00  0.0    M  9.2 18 330   M    M   3        24 330
+21  44  30  37   3  28   0 0.00  0.0    M  9.0 21 240   M    M   5        27 230
+22  43  33  38   4  27   0 0.09  0.0    M 10.1 24 270   M    M   8 1      33 280
+23  33  24  29  -5  36   0 0.00  0.0    M 13.0 22 310   M    M   3        31 280
+24  30  23  27  -7  38   0    T  0.0    M  4.3 13 330   M    M  10 1      17 320
+25  36  28  32  -1  33   0 0.32  0.0    M  6.1 14 330   M    M  10 16     17 330
+26  40  33  37   4  28   0 0.24  0.0    M 13.0 24 320   M    M   9 1      33 320
+27  35  30  33   0  32   0 0.00  0.0    M  8.8 23 310   M    M   7        30 320
+28  46  33  40   7  25   0 0.04    T    M  6.9 17 290   M    M   9 1      23 280
+29  42  36  39   7  26   0 0.00  0.0    M  3.4 12 230   M    M  10        13 230
+30  42  38  40   8  25   0 0.06  0.0    M  3.6 10 330   M    M  10 1      12 330
+31  46  40  43  11  22   0    T  0.0    M  3.0  8 170   M    M  10 1       9 170
+================================================================================
+SM 1417 1014       792   0  2.45  0.4    315.1          M      223
+================================================================================
+AV 45.7 32.7                              10.2 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    43 290                 58 310
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     DECEMBER
+                                          YEAR:      2021
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 39.2   TOTAL FOR MONTH:   2.45    1 = FOG OR MIST
+DPTR FM NORMAL:   3.5   DPTR FM NORMAL:   -1.85    2 = FOG REDUCING VISIBILITY
+HIGHEST:    64 ON 11    GRTST 24HR  0.94 ON 18-19      TO 1/4 MILE OR LESS
+LOWEST:     20 ON 20                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.4 INCH    5 = HAIL
+                        GRTST 24HR   0.3 ON  8- 8  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  M  ON   M    7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   1    0.01 INCH OR MORE:  14
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   7
+MIN 32 OR BELOW:  12    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   792    CLEAR  (SCALE 0-3)   3
+DPTR FM NORMAL  -116    PTCLDY (SCALE 4-7)  13
+TOTAL FM JUL 1  1580    CLOUDY (SCALE 8-10) 15
+DPTR FM NORMAL  -343
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1  1146    HIGHEST SLP 30.71 ON 15
+DPTR FM NORMAL   346    LOWEST  SLP 29.39 ON 11
+
+[REMARKS]
+#FINAL-12-21#
+

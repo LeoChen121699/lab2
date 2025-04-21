@@ -1,0 +1,105 @@
+
+000
+CXUS51 KBGM 031539 AAA
+CF6BGM
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BINGHAMTON NY
+                                          MONTH:     APRIL
+                                          YEAR:      2021
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  75 59 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  36  21  29 -10  36   0 0.13  3.0    3 13.9 23 350   M    M   9 18     31 340
+ 2  31  17  24 -15  41   0    T    T    T 12.3 28 340   M    M   3        36 350
+ 3  46  21  34  -6  31   0    T    T    0  5.6 15 260   M    M   1        19 280
+ 4  56  34  45   5  20   0 0.00  0.0    0  8.5 23 350   M    M   4        27 360
+ 5  56  34  45   4  20   0 0.00  0.0    0 10.5 22 350   M    M   0        29 350
+ 6  61  37  49   8  16   0    T  0.0    0  9.0 18 360   M    M   0        24 340
+ 7  69  44  57  15   8   0    T  0.0    0  5.7 14  30   M    M   5        17  40
+ 8  71  44  58  16   7   0 0.00  0.0    0  9.3 16 150   M    M   0 8      22 130
+ 9  60  49  55  13  10   0    T  0.0    0  9.5 18 170   M    M   6        24 200
+10  72  50  61  18   4   0 0.00  0.0    0  7.2 14 180   M    M   5 1      19 150
+11  58  49  54  11  11   0 0.80  0.0    0 12.0 21 150   M    M   7 1      27 150
+12  49  41  45   1  20   0 0.36  0.0    0  9.0 20 130   M    M  10 1      27 130
+13  60  37  49   5  16   0 0.01  0.0    0  3.6 17 120   M    M   2 1      19 120
+14  61  42  52   8  13   0 0.00  0.0    0  5.4 15 350   M    M   7        20 340
+15  47  35  41  -4  24   0 0.16  0.0    0  6.0 15 310   M    M  10 1      21 300
+16  40  32  36  -9  29   0 0.28    T    T  8.5 15 280   M    M  10 1      20 310
+17  46  36  41  -5  24   0 0.02  0.0    0  7.9 15 340   M    M  10 1      19 340
+18  57  38  48   2  17   0 0.00  0.0    0  5.8 16 300   M    M   7        22 280
+19  54  41  48   1  17   0 0.05  0.0    0  4.0 18 240   M    M   5        24 210
+20  50  35  43  -4  22   0 0.00  0.0    0  7.7 16 360   M    M   7        22 260
+21  35  27  31 -16  34   0 0.12  0.7    0 10.7 20 340   M    M  10 12     30 350
+22  36  24  30 -18  35   0 0.03  0.8    1 13.7 28 290   M    M  10 12     39 290
+23  56  27  42  -6  23   0 0.00  0.0    T 11.5 23 280   M    M   0        34 270
+24  62  39  51   3  14   0 0.00  0.0    0  7.5 14 240   M    M   2        20 230
+25  55  34  45  -4  20   0 0.17  0.0    0  8.6 24 330   M    M   9 1      35 330
+26  47  29  38 -11  27   0    T    T    T 12.8 23 350   M    M   5        32 320
+27  70  33  52   2  13   0 0.02  0.0    0  5.9 14 270   M    M   5        17 270
+28  77  56  67  17   0   2 0.22  0.0    0  7.8 22 340   M    M   3 13     28 350
+29  61  48  55   5  10   0 2.46  0.0    0  7.1 23 360   M    M   9 12     28 350
+30  53  31  42  -9  23   0 0.03  0.1    0 17.9 29 290   M    M  10 1      50 280
+================================================================================
+SM 1632 1085       585   2  4.86  4.6    264.9          M      171
+================================================================================
+AV 54.4 36.2                               8.8 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    29 290                 50 280
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BINGHAMTON NY
+                                          MONTH:     APRIL
+                                          YEAR:      2021
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  75 59 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 45.3   TOTAL FOR MONTH:   4.86    1 = FOG OR MIST
+DPTR FM NORMAL:   0.2   DPTR FM NORMAL:    1.43    2 = FOG REDUCING VISIBILITY
+HIGHEST:    77 ON 28    GRTST 24HR  2.47 ON 29-30      TO 1/4 MILE OR LESS
+LOWEST:     17 ON  2                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   4.6 INCHES  5 = HAIL
+                        GRTST 24HR   3.0 ON  1- 1  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   3 ON  1     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   1    0.01 INCH OR MORE:  15
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   9
+MIN 32 OR BELOW:   9    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   585    CLEAR  (SCALE 0-3)   8
+DPTR FM NORMAL   -18    PTCLDY (SCALE 4-7)  12
+TOTAL FM JUL 1  6321    CLOUDY (SCALE 8-10) 10
+DPTR FM NORMAL  -478
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     2
+DPTR FM NORMAL    -2    [PRESSURE DATA]
+TOTAL FM JAN 1     2    HIGHEST SLP 30.38 ON  3
+DPTR FM NORMAL    -2    LOWEST  SLP 29.44 ON 29
+
+[REMARKS]
+#FINAL-04-21#
+10TH GREATEST APRIL PRECIPITATION
+DAY 29 WAS THE 3RD GREATEST CALENDAR DAY PRECIPITATION FOR APRIL
+

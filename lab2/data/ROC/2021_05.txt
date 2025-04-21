@@ -1,0 +1,103 @@
+
+000
+CXUS51 KBUF 010805
+CF6ROC
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ROCHESTER NY
+                                          MONTH:     MAY
+                                          YEAR:      2021
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  77 40 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  59  33  46  -8  19   0    T    T    0  8.3 17 260   M    M   5        23 280
+ 2  62  50  56   2   9   0 0.03  0.0    0  8.8 20 260   M    M   7        26 260
+ 3  68  45  57   3   8   0 0.03  0.0    0  7.9 15  60   M    M  10 1      18  90
+ 4  71  45  58   3   7   0 0.07  0.0    0  4.7 16 250   M    M   9 18     21 250
+ 5  57  47  52  -3  13   0    T  0.0    0 13.1 22 310   M    M  10 18     30 330
+ 6  56  38  47  -9  18   0 0.00  0.0    M  6.0 16 320   M    M   4 8      22 320
+ 7  48  42  45 -11  20   0 0.24  0.0    0  6.9 16 360   M    M  10 1      20 360
+ 8  56  40  48  -8  17   0    T  0.0    0  8.4 20 270   M    M   8        25 270
+ 9  54  36  45 -12  20   0 0.20  0.0    0  5.8 14  50   M    M   8 1      15  50
+10  57  40  49  -8  16   0    T  0.0    0 10.3 23 280   M    M   6        29 280
+11  54  36  45 -12  20   0    T  0.0    0 13.0 25 280   M    M   5        36 280
+12  62  38  50  -8  15   0 0.01  0.0    0 10.4 18 310   M    M   4        25 280
+13  68  42  55  -3  10   0    T  0.0    0  7.2 16  10   M    M   3        20  10
+14  70  41  56  -2   9   0 0.00  0.0    0  6.5 16 290   M    M   1        22 290
+15  71  42  57  -2   8   0 0.00  0.0    0  5.8 14 280   M    M   3        19 290
+16  72  46  59   0   6   0 0.00  0.0    0  4.4 16  60   M    M   7        19  60
+17  75  49  62   3   3   0 0.00  0.0    0  5.9 15  20   M    M   3        19  30
+18  80  49  65   5   0   0 0.00  0.0    0  6.4 15 290   M    M   3        18 290
+19  82  51  67   7   0   2 0.00  0.0    0  5.4 14  20   M    M   4        16  20
+20  88  56  72  12   0   7 0.00  0.0    0  5.4 15  10   M    M   6        19  40
+21  89  59  74  14   0   9 0.00  0.0    0  8.7 17 280   M    M   3        23 250
+22  83  63  73  12   0   8 0.03  0.0    0 10.4 23 290   M    M   6        31 280
+23  78  55  67   6   0   2    T  0.0    0  9.9 24 360   M    M   8        29 360
+24  70  49  60  -1   5   0 0.00  0.0    0  5.2 15  30   M    M   6        20  60
+25  88  55  72  10   0   7 0.00  0.0    0 11.9 25 270   M    M   6        35 260
+26  83  61  72  10   0   7 0.10  0.0    0 13.4 35 280   M    M   8 1      46 270
+27  63  48  56  -6   9   0 0.00  0.0    0  7.3 16 320   M    M   6        22 360
+28  51  40  46 -17  19   0 0.57  0.0    0 15.4 24  60   M    M   9 1      32  60
+29  59  44  52 -11  13   0    T  0.0    0 10.4 20  60   M    M   8        24  30
+30  63  39  51 -12  14   0 0.00  0.0    0  5.7 17  40   M    M   5        23  40
+31  72  41  57  -6   8   0 0.00  0.0    0  7.6 17 250   M    M   4        23 270
+================================================================================
+SM 2109 1420       286  42  1.28    T    256.5          M      185
+================================================================================
+AV 68.0 45.8                               8.3 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    35 280                 46 270
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ROCHESTER NY
+                                          MONTH:     MAY
+                                          YEAR:      2021
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  77 40 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 56.9   TOTAL FOR MONTH:   1.28    1 = FOG OR MIST
+DPTR FM NORMAL:  -1.9   DPTR FM NORMAL:   -1.58    2 = FOG REDUCING VISIBILITY
+HIGHEST:    89 ON 21    GRTST 24HR  0.57 ON 28-28      TO 1/4 MILE OR LESS
+LOWEST:     33 ON  1                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  T            5 = HAIL
+                        GRTST 24HR   T   ON  1- 1  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   9
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   4
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   286    CLEAR  (SCALE 0-3)   4
+DPTR FM NORMAL    54    PTCLDY (SCALE 4-7)  22
+TOTAL FM JUL 1  6027    CLOUDY (SCALE 8-10)  5
+DPTR FM NORMAL  -200
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    42
+DPTR FM NORMAL     2    [PRESSURE DATA]
+TOTAL FM JAN 1    43    HIGHEST SLP 30.43 ON 21
+DPTR FM NORMAL    -1    LOWEST  SLP 29.62 ON  4
+
+[REMARKS]
+#FINAL-05-21#
+

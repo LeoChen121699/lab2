@@ -1,0 +1,107 @@
+
+217
+CXUS51 KBGM 011622 AAA
+CF6BGM
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BINGHAMTON NY
+                                          MONTH:     NOVEMBER
+                                          YEAR:      2023
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  75 59 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  39  28  34  -9  31   0 0.04  0.7    0  6.9 20 330   M    M   7 128    30 290
+ 2  43  25  34  -9  31   0 0.00  0.0    T  6.3 12 230   M    M   8        16 220
+ 3  56  36  46   4  19   0 0.00  0.0    0 10.7 22 220   M    M   3        32 200
+ 4  57  46  52  10  13   0 0.00  0.0    0  5.9 13 220   M    M   8        19 220
+ 5  50  36  43   1  22   0    T  0.0    0  5.9 16 280   M    M   7 8      26 270
+ 6  51  30  41   0  24   0 0.01  0.0    0  6.8 16 200   M    M   3        27 220
+ 7  64  39  52  11  13   0 0.00  0.0    0 11.5 23 280   M    M   8        37 280
+ 8  39  30  35  -6  30   0    T    T    0  9.9 20 340   M    M   7        33 310
+ 9  59  37  48   8  17   0 0.01  0.0    0  9.8 20 340   M    M   6        28 190
+10  49  39  44   4  21   0    T  0.0    0  6.2 17 250   M    M   4        23 250
+11  41  34  38  -2  27   0    T  0.0    0  7.5 15 350   M    M   9        22 290
+12  36  27  32  -7  33   0 0.00  0.0    0  5.2 12 350   M    M   8        14  10
+13  44  24  34  -5  31   0    T    T    0  5.2 12 200   M    M   4        17 170
+14  42  32  37  -1  28   0    T  0.0    0  8.8 21 330   M    M   7        31 320
+15  53  27  40   2  25   0 0.00  0.0    0  7.3 16 220   M    M   0        23 220
+16  61  39  50  12  15   0 0.00  0.0    0  6.6 12 230   M    M   0        18 200
+17  61  43  52  15  13   0 0.44  0.0    0  9.7 17 340   M    M   5 1      31 180
+18  43  30  37   0  28   0 0.05    T    0  9.5 17 360   M    M   5 1      27 330
+19  47  29  38   1  27   0    T    T    0  8.2 24 340   M    M   4        35 330
+20  38  23  31  -5  34   0 0.00  0.0    0  5.7 13 350   M    M   0        17  10
+21  39  23  31  -5  34   0 0.35  0.1    0 14.9 33 150   M    M   5 16     50 150
+22  45  38  42   6  23   0 0.02  0.0    0  6.5 38 150   M    M  10 1      59 170
+23  45  35  40   5  25   0 0.00  0.0    0  8.4 18 290   M    M  10        30 290
+24  40  24  32  -3  33   0    T    T    0  9.1 21 340   M    M   9        30 340
+25  37  26  32  -2  33   0    T    T    0  3.6 10 310   M    M   5        15 310
+26  41  27  34   0  31   0 0.34  0.0    0  8.4 18 160   M    M   4 1      27 180
+27  39  29  34   0  31   0 0.04  0.1    0  9.8 23 280   M    M  10 1      33 270
+28  29  22  26  -7  39   0 0.04  1.9    1 12.5 24 280   M    M   9 18     33 300
+29  28  19  24  -9  41   0    T    T    1  9.0 15 250   M    M   7        23 250
+30  44  25  35   2  30   0 0.00  0.0    T  9.1 15 220   M    M   1        23 190
+================================================================================
+SM 1360  922       802   0  1.34  2.8    244.9          M      173
+================================================================================
+AV 45.3 30.7                               8.2 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    38 150                 59 170
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BINGHAMTON NY
+                                          MONTH:     NOVEMBER
+                                          YEAR:      2023
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  75 59 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 38.0   TOTAL FOR MONTH:   1.34    1 = FOG OR MIST
+DPTR FM NORMAL:   0.1   DPTR FM NORMAL:   -1.77    2 = FOG REDUCING VISIBILITY
+HIGHEST:    64 ON  7    GRTST 24HR  0.49 ON 17-18      TO 1/4 MILE OR LESS
+LOWEST:     19 ON 29                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   2.8 INCHES  5 = HAIL
+                        GRTST 24HR   1.9 ON 28-28  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   1 ON 29,28  7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   2    0.01 INCH OR MORE:  10
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   3
+MIN 32 OR BELOW:  19    0.50 INCH OR MORE:   0
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   802    CLEAR  (SCALE 0-3)   5
+DPTR FM NORMAL   -11    PTCLDY (SCALE 4-7)  18
+TOTAL FM JUL 1  1316    CLOUDY (SCALE 8-10)  7
+DPTR FM NORMAL  -241
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1   507    HIGHEST SLP 30.51 ON 12
+DPTR FM NORMAL   123    LOWEST  SLP 29.62 ON 27
+
+[REMARKS]
+#FINAL-11-23#
+5TH LOWEST PRECIPITATION FOR NOVEMBER
+
+TAC
+
+

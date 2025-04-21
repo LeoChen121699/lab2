@@ -1,0 +1,111 @@
+
+802
+CXUS51 KBGM 011331 CCA
+CF6BGM
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BINGHAMTON NY
+                                          MONTH:     MARCH
+                                          YEAR:      2024
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  75 59 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  46  18  32   4  33   0 0.00  0.0    T  8.0 15 210   M    M   0        22 190
+ 2  44  34  39  11  26   0 0.95  0.0    0  6.9 15 140   M    M  10 12     22 140
+ 3  50  41  46  18  19   0    T  0.0    0  5.7 10 360   M    M  10 12     13 360
+ 4  63  39  51  22  14   0 0.00  0.0    0  8.9 16 160   M    M   6 1      26 160
+ 5  51  44  48  19  17   0 0.09  0.0    0  8.1 14 130   M    M  10 128    23 170
+ 6  54  44  49  20  16   0 0.59  0.0    0  4.2 14 340   M    M  10 12     19 340
+ 7  45  36  41  12  24   0 0.26  0.0    0  9.6 17 340   M    M   7 1      23 340
+ 8  56  28  42  12  23   0 0.00  0.0    0  7.4 17 170   M    M   0        26 170
+ 9  44  37  41  11  24   0 0.86  0.0    0 14.0 23 140   M    M   8 1      34 130
+10  40  25  33   3  32   0 0.19  0.6    0 11.4 24 310   M    M  10 18     39 330
+11  41  26  34   3  31   0 0.03  0.8    1 18.0 31 310   M    M   6 18     55 330
+12  59  34  47  16  18   0 0.00  0.0    T  6.3 17 300   M    M   2        25 300
+13  69  39  54  23  11   0 0.01  0.0    0  7.0 17 270   M    M   4        27 200
+14  65  43  54  22  11   0    T  0.0    0  5.2 14 190   M    M   2        23 200
+15  62  37  50  18  15   0 0.20  0.0    0  9.5 18 230   M    M   8 1      32 220
+16  54  36  45  13  20   0 0.00  0.0    0  6.7 17 250   M    M   6        25 250
+17  52  33  43  11  22   0 0.10    T    0 10.8 30 260   M    M   9 1      42 250
+18  34  27  31  -2  34   0 0.05  0.6    T 10.7 18 280   M    M   9 18     27 270
+19  37  24  31  -2  34   0 0.05  1.2    T 11.2 20 250   M    M  10 1      27 250
+20  38  22  30  -4  35   0 0.13  1.8    T 11.2 25 300   M    M   9 128    40 310
+21  28  19  24 -10  41   0    T  0.1    1 13.2 22 320   M    M   9        36 310
+22  31  16  24 -10  41   0 0.16  1.8    1  5.8 13 170   M    M   7 1      19 150
+23  34  22  28  -6  37   0 1.03  1.1    1 10.0 25 350   M    M  10 16     36 360
+24  32  22  27  -8  38   0    T    T    2  7.1 14 350   M    M   4 1      22 340
+25  53  22  38   3  27   0 0.00  0.0    1 10.7 17 140   M    M   0        24 150
+26  58  33  46  10  19   0 0.00  0.0    0 10.8 20 130   M    M   2        27 150
+27  52  43  48  12  17   0    T  0.0    0  7.5 18 150   M    M   8        26 150
+28  44  35  40   4  25   0    T  0.0    0  8.8 15 360   M    M   6 18     20 360
+29  41  29  35  -2  30   0 0.00  0.0    0 11.9 23 310   M    M   6        38 320
+30  51  31  41   4  24   0 0.00  0.0    0  9.7 21 310   M    M   6        35 360
+31  52  37  45   7  20   0 0.00  0.0    0  6.8 16 280   M    M   5        25 340
+================================================================================
+SM 1480  976       778   0  4.70  8.0    283.1          M      199
+================================================================================
+AV 47.7 31.5                               9.1 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    31 310                 55 330
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BINGHAMTON NY
+                                          MONTH:     MARCH
+                                          YEAR:      2024
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  75 59 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 39.6   TOTAL FOR MONTH:   4.70    1 = FOG OR MIST
+DPTR FM NORMAL:   7.3   DPTR FM NORMAL:    1.65    2 = FOG REDUCING VISIBILITY
+HIGHEST:    69 ON 13    GRTST 24HR  1.19 ON 22-23      TO 1/4 MILE OR LESS
+LOWEST:     16 ON 22                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   8.1 INCHES  5 = HAIL
+                        GRTST 24HR   2.9 ON 22-23  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   2 ON 24+    7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   3    0.01 INCH OR MORE:  15
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:  10
+MIN 32 OR BELOW:  14    0.50 INCH OR MORE:   4
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   778    CLEAR  (SCALE 0-3)   6
+DPTR FM NORMAL  -234    PTCLDY (SCALE 4-7)  13
+TOTAL FM JUL 1  5052    CLOUDY (SCALE 8-10) 12
+DPTR FM NORMAL -1110
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.54 ON  1
+DPTR FM NORMAL     0    LOWEST  SLP 29.40 ON 10
+
+[REMARKS]
+#FINAL-03-24#
+CORRECTED DAY 30 SNOW DEPTH
+CORRECTED GREATEST 24 HOUR SNOWFALL AND GREATEST SNOW DEPTH
+5TH WARMEST MARCH  RECORD 45.2F IN 2012
+8TH MOST PRECIPITATION MARCH  RECORD 6.32" IN 2008
+
+TAC
+
+

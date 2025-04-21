@@ -1,0 +1,103 @@
+
+000
+CXUS51 KCLE 011456
+CF6ERI
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ERIE PA
+                                          MONTH:     MAY
+                                          YEAR:      2022
+                                          LATITUDE:   42  4 N
+                                          LONGITUDE:  80 11 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  65  52  59   5   6   0 0.86  0.0    0 13.3 23 150   M    M   7 138    30 160
+ 2  57  45  51  -3  14   0    T  0.0    0  7.2 18 260   M    M  10        23 250
+ 3  65  45  55   1  10   0 0.50  0.0    0  8.5 24 150   M    M   5 3      31 150
+ 4  62  47  55   0  10   0 0.10  0.0    0  4.4 13  20   M    M   9 128    17  20
+ 5  57  40  49  -6  16   0 0.00  0.0    0  5.8 17  50   M    M   4 128    21  50
+ 6  56  50  53  -2  12   0 0.11  0.0    0  9.6 18  50   M    M  10 1      23  50
+ 7  55  44  50  -6  15   0 0.00  0.0    0 16.1 29  40   M    M   1        37  40
+ 8  61  34  48  -8  17   0 0.00  0.0    0  9.0 22  40   M    M   0        31  60
+ 9  68  43  56   0   9   0 0.00  0.0    0  9.9 20  40   M    M   0        25 130
+10  79  48  64   7   1   0 0.00  0.0    0  8.7 22 150   M    M   0        33 160
+11  77  51  64   7   1   0 0.00  0.0    0  6.4 16  30   M    M   0        19  30
+12  79  51  65   7   0   0 0.00  0.0    0  6.5 15  60   M    M   0 8      17  60
+13  80  64  72  14   0   7 0.00  0.0    0 10.3 20 170   M    M   1        26 170
+14  78  60  69  11   0   4 0.72  0.0    0  8.1 17 170   M    M   3 12     23 150
+15  76  60  68  10   0   3 0.00  0.0    0  5.8 15 260   M    M   0        19 280
+16  64  52  58  -1   7   0 0.33  0.0    0  8.3 24 280   M    M   6 13     35 280
+17  58  47  53  -6  12   0 0.00  0.0    0  8.5 18 290   M    M   3        24 290
+18  62  42  52  -8  13   0 0.30  0.0    0  3.9 13 190   M    M   5 1      16 150
+19  70  54  62   2   3   0 0.12  0.0    0  8.7 18 250   M    M   7 1      24 240
+20  81  63  72  12   0   7 0.27  0.0    0 14.0 26 200   M    M   3 13     35 210
+21  83  63  73  13   0   8 0.69  0.0    0  9.6 25 250   M    M   4 138    41 240
+22  70  47  59  -2   6   0 0.02  0.0    0  9.1 25 280   M    M   5 12     32 290
+23  60  46  53  -8  12   0 0.00  0.0    0  6.2 13  40   M    M   2        17  40
+24  66  44  55  -7  10   0 0.00  0.0    0  8.4 18  30   M    M   1        23  30
+25  78  56  67   5   0   2    T  0.0    0 12.6 26 150   M    M   3        36 160
+26  80  63  72  10   0   7 0.03  0.0    0 16.4 29 160   M    M   6        40 150
+27  73  59  66   4   0   1 0.44  0.0    0  6.9 17 260   M    M   8 1      25 260
+28  67  54  61  -2   4   0 0.05  0.0    0  6.8 15 260   M    M   5 1      19 280
+29  74  53  64   1   1   0 0.00  0.0    0  6.2 12 290   M    M   2        14 190
+30  84  64  74  10   0   9 0.00  0.0    0  6.9 16 190   M    M   0        21 200
+31  86  72  79  15   0  14 0.00  0.0    0  8.4 18 260   M    M   1        24 260
+================================================================================
+SM 2171 1613       179  62  4.54  0.0    270.5          M      111
+================================================================================
+AV 70.0 52.0                               8.7 FASTST   M    M   4    MAX(MPH)
+                                 MISC ---->  # 29  40                 41 240
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ERIE PA
+                                          MONTH:     MAY
+                                          YEAR:      2022
+                                          LATITUDE:   42  4 N
+                                          LONGITUDE:  80 11 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 61.0   TOTAL FOR MONTH:   4.54    1 = FOG OR MIST
+DPTR FM NORMAL:   2.2   DPTR FM NORMAL:    1.04    2 = FOG REDUCING VISIBILITY
+HIGHEST:    86 ON 31    GRTST 24HR  0.86 ON  1- 1      TO 1/4 MILE OR LESS
+LOWEST:     34 ON  8                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  14
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:  11
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   4
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   179    CLEAR  (SCALE 0-3)  15
+DPTR FM NORMAL   -59    PTCLDY (SCALE 4-7)  12
+TOTAL FM JUL 1  5274    CLOUDY (SCALE 8-10)  4
+DPTR FM NORMAL  -585
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    62
+DPTR FM NORMAL    16    [PRESSURE DATA]
+TOTAL FM JAN 1    65    HIGHEST SLP 30.36 ON 23
+DPTR FM NORMAL    12    LOWEST  SLP 29.61 ON 20
+
+[REMARKS]
+#FINAL-05-22#
+

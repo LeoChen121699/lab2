@@ -1,0 +1,102 @@
+
+000
+CXUS53 KMKX 021653
+CF6MKE
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   MILWAUKEE  WI
+                                          MONTH:     JUNE
+                                          YEAR:      2021
+                                          LATITUDE:   42 57 N
+                                          LONGITUDE:  87 54 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  74  51  63   0   2   0 0.00  0.0    0  7.7 18 120   M    M   4        23 140
+ 2  75  54  65   2   0   0 0.00  0.0    0  4.8 12 100   M    M   4        15  90
+ 3  90  58  74  10   0   9 0.02  0.0    0  8.6 20  30   M    M   5        29 260
+ 4  93  68  81  17   0  16    T  0.0    0 15.0 24 240   M    M   5        39 230
+ 5  94  69  82  18   0  17 0.00  0.0    0 12.9 22 220   M    M   4        33 220
+ 6  90  73  82  18   0  17 0.00  0.0    0 12.2 22 240   M    M   4        29 260
+ 7  82  73  78  13   0  13    T  0.0    0  8.4 14 210   M    M   8 3      18 200
+ 8  86  68  77  12   0  12 0.00  0.0    0  5.9 15 130   M    M   6 13     19 130
+ 9  80  65  73   7   0   8 0.00  0.0    0  6.8 13  50   M    M   2 12     17  50
+10  83  64  74   8   0   9 0.00  0.0    0  4.6 12 130   M    M   2 18     16 110
+11  88  65  77  11   0  12 0.04  0.0    0  6.5 18  90   M    M   5 138    22 100
+12  84  64  74   7   0   9 0.00  0.0    0  4.8 10 100   M    M   5        17  80
+13  86  65  76   9   0  11 0.00  0.0    0  7.9 15 220   M    M   1        22 210
+14  82  61  72   5   0   7    T  0.0    0  9.1 22  30   M    M   3        33  20
+15  73  61  67  -1   0   2 0.00  0.0    0 10.3 17  40   M    M   2        23  20
+16  73  58  66  -2   0   1 0.00  0.0    0  7.5 14  20   M    M   2        20  30
+17  86  55  71   3   0   6    T  0.0    0  9.9 21 190   M    M   6 3      29 190
+18  93  67  80  11   0  15 0.74  0.0    0  9.9 20 340   M    M   6 13     32 280
+19  77  61  69   0   0   4 0.07  0.0    0  8.8 31 310   M    M   5 3      53 290
+20  76  59  68  -1   0   3 0.04  0.0    0  5.0 17 120   M    M   8 3      25 150
+21  73  54  64  -6   1   0 0.00  0.0    0 14.2 25 300   M    M   7        39 310
+22  75  54  65  -5   0   0    T  0.0    0  9.8 20 310   M    M   6        30 300
+23  81  59  70   0   0   5 0.01  0.0    0 12.6 26 200   M    M   7        37 200
+24  78  66  72   2   0   7 0.16  0.0    0  9.9 21 160   M    M   9 13     29 160
+25  80  64  72   1   0   7    T  0.0    0  6.9 13 130   M    M   9 18     17 140
+26  83  64  74   3   0   9 0.59  0.0    0  8.1 16 200   M    M   8 123    23 210
+27  80  65  73   2   0   8    T  0.0    0 12.2 22 250   M    M   7        31 240
+28  76  66  71   0   0   6 0.01  0.0    0  5.3 12 120   M    M   9        14 120
+29  83  70  77   5   0  12 0.02  0.0    0  8.1 17 310   M    M   9 138    24 310
+30  82  66  74   2   0   9 0.55  0.0    0  8.1 26  20   M    M   7 13     36  30
+================================================================================
+SM 2456 1887         3 234  2.25  0.0    261.8          M      165
+================================================================================
+AV 81.9 62.9                               8.7 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    31 310                 53 290
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   MILWAUKEE  WI
+                                          MONTH:     JUNE
+                                          YEAR:      2021
+                                          LATITUDE:   42 57 N
+                                          LONGITUDE:  87 54 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 72.4   TOTAL FOR MONTH:   2.25    1 = FOG OR MIST
+DPTR FM NORMAL:   4.8   DPTR FM NORMAL:   -2.13    2 = FOG REDUCING VISIBILITY
+HIGHEST:    94 ON  5    GRTST 24HR  0.74 ON 18-18      TO 1/4 MILE OR LESS
+LOWEST:     51 ON  1                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  11
+MAX 90 OR ABOVE:   5    0.10 INCH OR MORE:   4
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   3
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.     3    CLEAR  (SCALE 0-3)   6
+DPTR FM NORMAL   -61    PTCLDY (SCALE 4-7)  18
+TOTAL FM JUL 1  6030    CLOUDY (SCALE 8-10)  6
+DPTR FM NORMAL  -422
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   234
+DPTR FM NORMAL    92    [PRESSURE DATA]
+TOTAL FM JAN 1   303    HIGHEST SLP 30.21 ON  1
+DPTR FM NORMAL   122    LOWEST  SLP 29.37 ON 20
+
+[REMARKS]
+#FINAL-06-21#
+
