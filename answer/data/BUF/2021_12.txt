@@ -1,0 +1,103 @@
+
+000
+CXUS51 KBUF 010905
+CF6BUF
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     DECEMBER
+                                          YEAR:      2021
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  44  36  40   4  25   0 0.00  0.0    0 10.4 22 270   M    M   8        29 250
+ 2  53  38  46  11  19   0 0.11    T    0 18.5 37 250   M    M   9 1      50 230
+ 3  38  35  37   2  28   0 0.00  0.0    0  7.5 16 290   M    M   9        22 310
+ 4  43  34  39   4  26   0    T  0.0    0 11.9 26 260   M    M   7        35 270
+ 5  45  30  38   4  27   0 0.17  0.0    0  8.3 18 160   M    M   9 1      23 170
+ 6  54  33  44  10  21   0 0.26    T    0 21.4 40 250   M    M   9 15     52 240
+ 7  33  26  30  -4  35   0    T    T    0 10.2 22 270   M    M   7        28 270
+ 8  29  24  27  -6  38   0 0.19  2.0    T  6.4 13 270   M    M   9 12     16 290
+ 9  37  25  31  -2  34   0 0.00  0.0    2  7.5 15 150   M    M   9        19 280
+10  50  36  43  10  22   0    T  0.0    T  8.9 17 220   M    M   9        22 230
+11  67  36  52  19  13   0 0.28  0.0    0 25.7 48 230   M    M   9 1      66 230
+12  45  32  39   7  26   0 0.00  0.0    0 22.3 30 250   M    M   2 1      39 250
+13  48  40  44  12  21   0 0.00  0.0    0 20.6 35 230   M    M   2        48 240
+14  47  33  40   8  25   0 0.00  0.0    0  6.8 14  80   M    M   4        17  70
+15  58  34  46  14  19   0 0.09  0.0    0 13.3 25 200   M    M   9 8      31 200
+16  64  45  55  24  10   0 0.02  0.0    0 23.4 39 250   M    M   7 8      58 250
+17  45  34  40   9  25   0 0.00  0.0    0 16.0 33 240   M    M   5        45 240
+18  35  29  32   1  33   0 0.38  0.7    0 10.6 17  20   M    M  10 146    23  30
+19  30  21  26  -4  39   0    T    T    T  7.2 15 330   M    M   7        18 320
+20  41  21  31   1  34   0 0.00  0.0    T 13.5 28 250   M    M   7        40 250
+21  42  32  37   7  28   0 0.00  0.0    0  7.6 20 200   M    M   5        28 280
+22  42  27  35   5  30   0    T    T    0 19.5 29 240   M    M   8        37 230
+23  33  23  28  -2  37   0 0.08  1.1    0  6.9 17 270   M    M   8 1      23 260
+24  48  31  40  11  25   0 0.04  0.5    1  5.4 13 210   M    M  10 1      18 210
+25  50  38  44  15  21   0 0.64  0.0    0  8.0 17 300   M    M  10 18     24 310
+26  40  30  35   6  30   0 0.00  0.0    0  9.6 17 270   M    M   9        22 300
+27  41  28  35   6  30   0 0.05  0.4    0  9.8 21 110   M    M   9 16     25 110
+28  42  34  38  10  27   0 0.10  0.9    0 12.0 28 250   M    M   8 18     36 240
+29  41  34  38  10  27   0 0.04  0.1    T  6.9 15  60   M    M  10 1      20  40
+30  42  37  40  12  25   0    T  0.0    0  3.2 10 270   M    M  10 1      12 270
+31  47  37  42  14  23   0 0.01  0.0    0  5.4 16 240   M    M   8 1      21 240
+================================================================================
+SM 1374  993       823   0  2.46  5.7    364.7          M      242
+================================================================================
+AV 44.3 32.0                              11.8 FASTST   M    M   8    MAX(MPH)
+                                 MISC ---->    48 230                 66 230
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     DECEMBER
+                                          YEAR:      2021
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 38.2   TOTAL FOR MONTH:   2.46    1 = FOG OR MIST
+DPTR FM NORMAL:   6.8   DPTR FM NORMAL:   -1.29    2 = FOG REDUCING VISIBILITY
+HIGHEST:    67 ON 11    GRTST 24HR  0.64 ON 25-25      TO 1/4 MILE OR LESS
+LOWEST:     21 ON 20,19                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   5.9 INCHES  5 = HAIL
+                        GRTST 24HR   2.0 ON  8- 8  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   2 ON  9     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   2    0.01 INCH OR MORE:  15
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   8
+MIN 32 OR BELOW:  14    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   823    CLEAR  (SCALE 0-3)   2
+DPTR FM NORMAL  -219    PTCLDY (SCALE 4-7)  10
+TOTAL FM JUL 1  1742    CLOUDY (SCALE 8-10) 19
+DPTR FM NORMAL  -571
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1   929    HIGHEST SLP 30.58 ON 14
+DPTR FM NORMAL   322    LOWEST  SLP 29.19 ON 11
+
+[REMARKS]
+#FINAL-12-21#
+

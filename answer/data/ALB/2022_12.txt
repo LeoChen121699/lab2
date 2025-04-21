@@ -1,0 +1,103 @@
+
+000
+CXUS55 KALY 011204
+CF6ALB
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ALBANY NY
+                                          MONTH:     DECEMBER
+                                          YEAR:      2022
+                                          LATITUDE:   42 45 N
+                                          LONGITUDE:  73 48 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  40  32  36   1  29   0 0.00  0.0    0 15.4 30 280   M    M   7        38 280
+ 2  41  31  36   1  29   0    T  0.0    0  9.3 22 150   M    M   8        30 170
+ 3  53  38  46  12  19   0 0.09  0.0    0 15.5 32 270   M    M   8 1      40 260
+ 4  38  25  32  -2  33   0 0.00  0.0    0  7.6 20 280   M    M   6        29 280
+ 5  44  26  35   1  30   0 0.00  0.0    0 10.0 18 170   M    M   5        24 160
+ 6  54  39  47  14  18   0 0.17  0.0    0  8.0 16 140   M    M  10 1      23 150
+ 7  58  47  53  20  12   0 0.13  0.0    0 10.4 22 280   M    M   9 1      30 300
+ 8  51  29  40   7  25   0 0.00  0.0    0  9.9 18 270   M    M   5        26 270
+ 9  39  25  32   0  33   0 0.00  0.0    0  9.3 17 350   M    M   1        23 330
+10  31  20  26  -6  39   0 0.00  0.0    0  7.3 15 350   M    M   3        20  10
+11  30  25  28  -4  37   0 0.40  6.6    0  1.7  8 150   M    M  10 12     10 150
+12  30  20  25  -7  40   0 0.01  0.1    6  7.1 14 360   M    M   8 1      18  10
+13  34   8  21 -10  44   0 0.00  0.0    4  6.0 25 270   M    M   2        34 280
+14  31  17  24  -7  41   0    T    T    3  8.3 20 320   M    M   4        24 330
+15  33  16  25  -6  40   0 0.16  0.3    2  1.2  7  40   M    M   8 146     8  30
+16  35  33  34   4  31   0 1.03  3.4    3  6.7 13 320   M    M  10 1      16 320
+17  39  31  35   5  30   0 0.11  0.2    6  9.3 24 270   M    M   8 1      30 270
+18  35  25  30   0  35   0 0.00  0.0    4  7.3 20 280   M    M   6        27 270
+19  36  27  32   2  33   0    T    T    4 10.9 24 270   M    M   7        33 290
+20  32  23  28  -1  37   0 0.00  0.0    4  9.5 17 280   M    M   5        23 300
+21  34  16  25  -4  40   0 0.00  0.0    3  0.9  6 150   M    M   3         8 160
+22  34  19  27  -2  38   0 0.18  0.2    3  1.7  8 330   M    M   9 146     9 330
+23  53   9  31   3  34   0 1.59    T    3 15.2 37 250   M    M   9 1      51 260
+24  15   7  11 -17  54   0    T  0.0    1 11.3 20 210   M    M   6        28 210
+25  27  11  19  -9  46   0 0.00  0.0    1  9.3 17 230   M    M   6        26 260
+26  30  16  23  -5  42   0 0.00  0.0    T  4.3 13 230   M    M   5        17 250
+27  34  22  28   1  37   0 0.00  0.0    T  5.8 14 240   M    M   8        19 260
+28  41  22  32   5  33   0 0.00  0.0    T  6.8 15 160   M    M   9        21 160
+29  48  22  35   8  30   0 0.00  0.0    T  5.8 15 160   M    M   6        19 160
+30  57  43  50  23  15   0 0.00  0.0    0  7.9 14 160   M    M   7        19 160
+31  53  44  49  23  16   0 0.08  0.0    0  8.5 15 160   M    M   9 1      20 180
+================================================================================
+SM 1210  768      1020   0  3.95 10.8    248.2          M      207
+================================================================================
+AV 39.0 24.8                               8.0 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    37 250                 51 260
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ALBANY NY
+                                          MONTH:     DECEMBER
+                                          YEAR:      2022
+                                          LATITUDE:   42 45 N
+                                          LONGITUDE:  73 48 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 31.9   TOTAL FOR MONTH:   3.95    1 = FOG OR MIST
+DPTR FM NORMAL:   1.5   DPTR FM NORMAL:    0.69    2 = FOG REDUCING VISIBILITY
+HIGHEST:    58 ON  7    GRTST 24HR  1.77 ON 22-23      TO 1/4 MILE OR LESS
+LOWEST:      7 ON 24                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  10.8 INCHES  5 = HAIL
+                        GRTST 24HR   6.6 ON 11-11  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   6 ON 17,12  7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   8    0.01 INCH OR MORE:  11
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   8
+MIN 32 OR BELOW:  25    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   2
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.  1020    CLEAR  (SCALE 0-3)   3
+DPTR FM NORMAL   -51    PTCLDY (SCALE 4-7)  18
+TOTAL FM JUL 1  2119    CLOUDY (SCALE 8-10) 10
+DPTR FM NORMAL  -245
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1   944    HIGHEST SLP 30.54 ON  2
+DPTR FM NORMAL   225    LOWEST  SLP 28.89 ON 23
+
+[REMARKS]
+#FINAL-12-22#
+

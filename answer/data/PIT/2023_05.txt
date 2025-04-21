@@ -1,0 +1,103 @@
+
+000
+CXUS51 KPBZ 010730
+CF6PIT
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   PITTSBURGH PA
+                                          MONTH:     MAY
+                                          YEAR:      2023
+                                          LATITUDE:   40 30 N
+                                          LONGITUDE:  80 13 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  48  38  43 -14  22   0 0.34    T    0 12.5 25 240   M    M  10 1      35 270
+ 2  44  36  40 -18  25   0 0.39  0.0    0 11.0 21 280   M    M  10 1      26 290
+ 3  47  36  42 -16  23   0 0.18  0.0    0 12.0 20 320   M    M  10 1      25 290
+ 4  55  40  48 -10  17   0 0.06  0.0    0  7.5 24 310   M    M   8        28 300
+ 5  67  35  51  -7  14   0 0.00  0.0    0  3.1 13  40   M    M   3 1      17  30
+ 6  75  44  60   1   5   0 0.00  0.0    0  2.7 10 110   M    M   7        13 100
+ 7  65  55  60   1   5   0 0.12  0.0    0  4.9 16 240   M    M  10 1      22 240
+ 8  70  58  64   5   1   0    T  0.0    0  6.9 13 350   M    M   9 3      16 350
+ 9  72  51  62   3   3   0 0.07  0.0    0  9.8 18 340   M    M   5        24 330
+10  71  43  57  -3   8   0 0.00  0.0    0  4.2 12  50   M    M   1        15  60
+11  79  44  62   2   3   0 0.00  0.0    0  1.1  8 290   M    M   5        10 290
+12  82  49  66   6   0   1 0.00  0.0    0  2.2 12 210   M    M   8        15 220
+13  70  59  65   5   0   0 0.15  0.0    0  2.0  7  30   M    M   9 1       9 210
+14  75  57  66   5   0   1 0.00  0.0    0  8.4 18 340   M    M   7        24 350
+15  76  52  64   3   1   0 0.00  0.0    0  5.6 13 330   M    M   6        17 310
+16  74  46  60  -1   5   0 0.00  0.0    0  6.5 18 230   M    M   9        25 300
+17  64  45  55  -7  10   0 0.00  0.0    0 10.3 20 360   M    M   3        23  10
+18  74  38  56  -6   9   0 0.00  0.0    0  5.6 13 140   M    M   2        17 120
+19  72  56  64   2   1   0 0.01  0.0    0  6.5 14 210   M    M   8 1      19 200
+20  65  47  56  -6   9   0 0.41  0.0    0  8.7 18 310   M    M   8 18     23 320
+21  72  45  59  -4   6   0 0.00  0.0    0  5.5 16 340   M    M   3        22 350
+22  76  46  61  -2   4   0 0.00  0.0    0  1.7 12 310   M    M   3        14 310
+23  77  52  65   2   0   0 0.00  0.0    0  3.8 14 170   M    M   6        18 180
+24  79  51  65   2   0   0 0.00  0.0    0  8.8 23 350   M    M   3        29 340
+25  68  44  56  -8   9   0 0.00  0.0    0 10.0 17  10   M    M   4        24  40
+26  73  46  60  -4   5   0 0.00  0.0    0  6.5 14  40   M    M   1        19  60
+27  78  45  62  -2   3   0 0.00  0.0    0  4.8 15 110   M    M   7        19  90
+28  77  48  63  -1   2   0 0.00  0.0    0  3.6 16  80   M    M   9        24 100
+29  85  60  73   8   0   8 0.00  0.0    0  5.4 15  90   M    M   6        18  90
+30  83  60  72   7   0   7 0.00  0.0    0  7.5 16 140   M    M   2        24 120
+31  83  52  68   3   0   3 0.00  0.0    0  5.1 14  90   M    M   1        18 110
+================================================================================
+SM 2196 1478       190  20  1.73    T    194.2          M      183
+================================================================================
+AV 70.8 47.7                               6.3 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    25 240                 35 270
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   PITTSBURGH PA
+                                          MONTH:     MAY
+                                          YEAR:      2023
+                                          LATITUDE:   40 30 N
+                                          LONGITUDE:  80 13 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 59.3   TOTAL FOR MONTH:   1.73    1 = FOG OR MIST
+DPTR FM NORMAL:  -1.9   DPTR FM NORMAL:   -2.10    2 = FOG REDUCING VISIBILITY
+HIGHEST:    85 ON 29    GRTST 24HR  0.41 ON 20-20      TO 1/4 MILE OR LESS
+LOWEST:     35 ON  5                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  T            5 = HAIL
+                        GRTST 24HR   T   ON  1- 1  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   9
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   0
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   190    CLEAR  (SCALE 0-3)   7
+DPTR FM NORMAL    18    PTCLDY (SCALE 4-7)  15
+TOTAL FM JUL 1  5032    CLOUDY (SCALE 8-10)  9
+DPTR FM NORMAL  -509
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    20
+DPTR FM NORMAL   -36    [PRESSURE DATA]
+TOTAL FM JAN 1    37    HIGHEST SLP 30.34 ON 27
+DPTR FM NORMAL   -29    LOWEST  SLP 29.32 ON  1
+
+[REMARKS]
+#FINAL-05-23#
+

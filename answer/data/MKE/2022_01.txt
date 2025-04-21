@@ -1,0 +1,103 @@
+
+000
+CXUS53 KMKX 010910
+CF6MKE
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   MILWAUKEE  WI
+                                          MONTH:     JANUARY
+                                          YEAR:      2022
+                                          LATITUDE:   42 57 N
+                                          LONGITUDE:  87 54 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  33  19  26   0  39   0 0.15  3.9    0 15.0 24 360   M    M  10 168    33 360
+ 2  25  14  20  -6  45   0 0.03  0.9    5  9.4 17 340   M    M   5 8      28 320
+ 3  23   5  14 -11  51   0 0.00  0.0    4  9.6 22 220   M    M   2        28 220
+ 4  34  19  27   2  38   0 0.00  0.0    3 11.0 18 170   M    M   8        29 220
+ 5  34  15  25   0  40   0    T  0.4    2 17.9 29 260   M    M  10 69     44 260
+ 6  18   6  12 -13  53   0    T    T    2 13.1 18 290   M    M   7        30 290
+ 7  21   3  12 -13  53   0 0.00  0.0    2  9.4 16 290   M    M   4        27 270
+ 8  32  13  23  -2  42   0    T    T    2 11.1 21 190   M    M   8 16     29 180
+ 9  32  11  22  -2  43   0    T  0.0    2 14.1 32 310   M    M   4 16     45 300
+10  12   3   8 -16  57   0 0.00  0.0    2 11.5 20 300   M    M   2        27 310
+11  39   2  21  -3  44   0 0.00  0.0    2 12.2 28 210   M    M   5        45 210
+12  42  31  37  13  28   0    T  0.0    2  6.0 10  30   M    M   8        18 270
+13  42  33  38  14  27   0    T    T    1  5.8 20  20   M    M   9 8      28  30
+14  33  23  28   4  37   0    T    T    T 15.0 22  50   M    M  10        32  40
+15  24  20  22  -2  43   0    T  0.2    T 11.5 21  60   M    M   9        28  50
+16  28  14  21  -3  44   0    T    T    T  7.2 14 310   M    M   7        18 320
+17  29  21  25   1  40   0 0.00  0.0    T 10.8 20 320   M    M   8        28 320
+18  43  21  32   8  33   0 0.00  0.0    T 11.9 28 220   M    M   8        39 220
+19  39  10  25   2  40   0 0.00  0.0    0 16.6 25 300   M    M   2        36 300
+20  17   5  11 -12  54   0 0.00  0.0    0  9.1 17 310   M    M   1        26 310
+21  26   6  16  -7  49   0    T    T    0  9.2 17 230   M    M   3        25 210
+22  31  19  25   2  40   0 0.05  0.6    T 13.4 24 220   M    M   9 1      36 210
+23  19  10  15  -8  50   0 0.07  1.9    2  9.1 18 350   M    M   6 18     27 340
+24  22  11  17  -6  48   0 0.16  2.2    2  9.9 17 320   M    M   7 8      24 320
+25  12   0   6 -17  59   0 0.00  0.0    3 11.5 20 310   M    M   0        30 320
+26  17  -5   6 -17  59   0 0.00  0.0    3 11.8 22 220   M    M   3        33 210
+27  34  17  26   3  39   0 0.00  0.0    2 13.3 24 220   M    M   9        32 210
+28  24  10  17  -7  48   0 0.00  0.0    2  9.0 16 350   M    M   5        24 360
+29  24  10  17  -7  48   0    T    T    2  7.8 16 220   M    M   9        22 220
+30  31  15  23  -1  42   0 0.00  0.0    2  6.5 12  10   M    M   6        19 290
+31  35  16  26   2  39   0 0.00  0.0    2  9.2 24 150   M    M   8 8      31 160
+================================================================================
+SM  875  397      1372   0  0.46 10.1    338.9          M      192
+================================================================================
+AV 28.2 12.8                              10.9 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    32 310               # 45 300
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   MILWAUKEE  WI
+                                          MONTH:     JANUARY
+                                          YEAR:      2022
+                                          LATITUDE:   42 57 N
+                                          LONGITUDE:  87 54 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 20.5   TOTAL FOR MONTH:   0.46    1 = FOG OR MIST
+DPTR FM NORMAL:  -3.5   DPTR FM NORMAL:   -1.33    2 = FOG REDUCING VISIBILITY
+HIGHEST:    43 ON 18    GRTST 24HR  0.16 ON 24-24      TO 1/4 MILE OR LESS
+LOWEST:     -5 ON 26                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  10.1 INCHES  5 = HAIL
+                        GRTST 24HR   3.9 ON  1- 1  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   5 ON  2     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:  20    0.01 INCH OR MORE:   5
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   2
+MIN 32 OR BELOW:  30    0.50 INCH OR MORE:   0
+MIN  0 OR BELOW:   2    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.  1372    CLEAR  (SCALE 0-3)   7
+DPTR FM NORMAL   103    PTCLDY (SCALE 4-7)  15
+TOTAL FM JUL 1  3245    CLOUDY (SCALE 8-10)  9
+DPTR FM NORMAL  -353
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.65 ON 20
+DPTR FM NORMAL     0    LOWEST  SLP 29.43 ON  5
+
+[REMARKS]
+#FINAL-01-22#
+

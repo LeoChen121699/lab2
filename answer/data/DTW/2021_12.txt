@@ -1,0 +1,103 @@
+
+000
+CXUS53 KDTX 031528
+CF6DTW
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   DETROIT MI
+                                          MONTH:     DECEMBER
+                                          YEAR:      2021
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  83 20 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  43  28  36   0  29   0 0.01  0.0    1  6.9 15 220   M    M  10 18     20 210
+ 2  56  36  46  11  19   0 0.00  0.0    0 16.6 29 300   M    M   8 18     40 300
+ 3  37  33  35   0  30   0 0.04  0.3    0  2.1  8 260   M    M  10 1      10 350
+ 4  46  31  39   5  26   0 0.00  0.0    0 10.4 24 290   M    M   6 1      32 270
+ 5  44  33  39   5  26   0 0.65    T    0  7.2 16  90   M    M  10 14     26 100
+ 6  49  27  38   4  27   0 0.01  0.2    0 16.6 35 280   M    M  10 18     50 290
+ 7  28  20  24 -10  41   0    T    T    T  9.2 18 290   M    M   9        24 290
+ 8  32  23  28  -5  37   0    T    T    T  7.0 14 220   M    M  10 8      18 220
+ 9  39  27  33   0  32   0 0.00  0.0    0  6.5 16 120   M    M  10 8      25 110
+10  53  34  44  11  21   0 0.42  0.0    0  6.1 16 140   M    M   9 18     28 140
+11  61  33  47  15  18   0 0.96    T    0 21.3 48 250   M    M   8 1348   64 250
+12  46  30  38   6  27   0 0.00  0.0    0 16.7 25 220   M    M   2        33 200
+13  48  33  41   9  24   0 0.00  0.0    0 11.8 20 230   M    M   5        27 230
+14  49  28  39   7  26   0 0.00  0.0    0  5.3 13 140   M    M   8 18     18 120
+15  59  42  51  20  14   0 0.10  0.0    0 10.9 23 210   M    M  10 18     33 190
+16  60  38  49  18  16   0    T  0.0    0 24.6 36 210   M    M   8 18     50 210
+17  43  30  37   6  28   0    T    T    0  7.8 22 250   M    M   4        31 230
+18  45  32  39   9  26   0 0.32  0.1    T 10.0 16  60   M    M  10 146    21  50
+19  32  28  30   0  35   0 0.01  0.1    T  6.9 16 210   M    M  10 14     21 220
+20  40  28  34   4  31   0 0.00  0.0    T 13.8 23 220   M    M   9        31 220
+21  39  23  31   1  34   0 0.00  0.0    0  7.4 24 290   M    M   9 18     36 270
+22  37  24  31   1  34   0    T    T    0 14.7 26 280   M    M   9        40 280
+23  41  22  32   3  33   0    T    T    0  8.9 20 170   M    M  10 4      25 180
+24  51  29  40  11  25   0 0.01  0.0    0  6.4 15 180   M    M  10 18     20 150
+25  53  35  44  15  21   0 0.37  0.0    0  5.5 16 340   M    M   9 18     24 320
+26  41  30  36   7  29   0 0.00  0.0    0  5.2 12 100   M    M   7 1      17  90
+27  40  32  36   8  29   0 0.35  0.7    1  8.8 18  90   M    M   9 12     31  70
+28  37  32  35   7  30   0 0.22  1.9    0  6.4 14  30   M    M  10 126    24 100
+29  39  33  36   8  29   0    T  0.0    1  5.2 14 280   M    M  10 128    20 290
+30  35  31  33   5  32   0    T  0.0    T  4.3 10  10   M    M  10 18     13  10
+31  44  35  40  12  25   0    T  0.0    0  5.0 14 240   M    M  10 128    18 230
+================================================================================
+SM 1367  940       854   0  3.47  3.3    295.5          M      269
+================================================================================
+AV 44.1 30.3                               9.5 FASTST   M    M   9    MAX(MPH)
+                                 MISC ---->    48 250                 64 250
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   DETROIT MI
+                                          MONTH:     DECEMBER
+                                          YEAR:      2021
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  83 20 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 37.2   TOTAL FOR MONTH:   3.47    1 = FOG OR MIST
+DPTR FM NORMAL:   5.9   DPTR FM NORMAL:    1.22    2 = FOG REDUCING VISIBILITY
+HIGHEST:    61 ON 11    GRTST 24HR  1.38 ON 10-11      TO 1/4 MILE OR LESS
+LOWEST:     20 ON  7                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   3.8 INCHES  5 = HAIL
+                        GRTST 24HR   1.9 ON 28-28  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   3 ON M      7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   3    0.01 INCH OR MORE:  13
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   8
+MIN 32 OR BELOW:  20    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   854    CLEAR  (SCALE 0-3)   1
+DPTR FM NORMAL  -192    PTCLDY (SCALE 4-7)   8
+TOTAL FM JUL 1  1879    CLOUDY (SCALE 8-10) 22
+DPTR FM NORMAL  -360
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1  1113    HIGHEST SLP 30.52 ON 14
+DPTR FM NORMAL   266    LOWEST  SLP 29.22 ON 11
+
+[REMARKS]
+#FINAL-12-21#
+

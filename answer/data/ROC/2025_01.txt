@@ -1,0 +1,104 @@
+
+587
+CXUS51 KBUF 010905
+CF6ROC
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ROCHESTER NY
+                                          MONTH:     JANUARY
+                                          YEAR:      2025
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  77 40 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  44  34  39  11  26   0 0.08    T    0 11.4 24 310   M    M   9 1      36 300
+ 2  35  29  32   4  33   0    T  0.2    T 18.1 30 280   M    M  10 18     42 270
+ 3  34  25  30   2  35   0    T  0.2    T 17.1 29 300   M    M   8        43 290
+ 4  27  22  25  -3  40   0 0.02  0.8    0 19.1 33 270   M    M  10        47 270
+ 5  29  22  26  -2  39   0    T  0.1    T 15.7 28 260   M    M   9        37 270
+ 6  27  17  22  -5  43   0 0.05  1.3    T  9.7 20  30   M    M  10 16     27  30
+ 7  24  17  21  -6  44   0 0.10  3.6    2 14.2 29 310   M    M  10 19     39 310
+ 8  20  14  17 -10  48   0 0.07  2.6    5 14.5 25 300   M    M   9 189    36 310
+ 9  23  17  20  -7  45   0 0.04  1.4    4 15.3 28 300   M    M   7 9      36 290
+10  30   9  20  -7  45   0 0.00  0.0    2  5.5 14 280   M    M   6        23 290
+11  30  20  25  -1  40   0 0.04  0.4    1  6.5 14 270   M    M  10 1      19 270
+12  36  22  29   3  36   0    T    T    1  7.7 17 260   M    M   9 18     22 240
+13  35  24  30   4  35   0 0.03  0.3    1 14.7 30 240   M    M  10        41 270
+14  25  17  21  -5  44   0 0.05  1.4    1 16.9 26 260   M    M   8 2      36 290
+15  26  16  21  -5  44   0 0.05  2.2    4 11.3 20 280   M    M   9 1      28 280
+16  25  19  22  -4  43   0 0.04  1.0    3  9.2 22 230   M    M  10 18     27 240
+17  37  23  30   4  35   0 0.04  0.6    3  9.1 18 190   M    M   9 1      24 180
+18  40  28  34   8  31   0 0.13  0.4    1 12.1 20 220   M    M   9 1      30 200
+19  28  17  23  -3  42   0 0.05  2.2    T  8.3 20 330   M    M   9 1      26 310
+20  18   8  13 -13  52   0 0.15  5.4    5 12.1 30 260   M    M   8 1289   39 260
+21  15   2   9 -17  56   0 0.02  0.3    4 10.2 20 230   M    M   6        27 270
+22  17  -2   8 -17  57   0    T    T    4  9.1 20 210   M    M   5        26 200
+23  27  16  22  -3  43   0    T  0.2    3 11.1 20 250   M    M   9        27 260
+24  25  15  20  -5  45   0 0.02  0.4    3 11.9 20 260   M    M   8 1      25 260
+25  29  12  21  -4  44   0    T    T    2  9.4 18 260   M    M   8        25 210
+26  34  27  31   6  34   0    T    T    2 17.8 28 260   M    M   7        39 280
+27  36  24  30   5  35   0 0.03  0.3    2 23.2 40 240   M    M   7        53 260
+28  35  18  27   2  38   0 0.29  5.4    3 12.8 33 260   M    M   8 1289   46 250
+29  39  19  29   4  36   0 0.04  0.6    4 18.1 31 320   M    M  10 19     44 320
+30  38  17  28   3  37   0    T  0.1    4  7.7 15 210   M    M   9        23 220
+31  41  29  35  10  30   0 0.38  2.7    3  8.2 21  40   M    M  10 1      26  40
+================================================================================
+SM  929  577      1255   0  1.72 34.1    388.0          M      266
+================================================================================
+AV 30.0 18.6                              12.5 FASTST   M    M   9    MAX(MPH)
+                                 MISC ---->    40 240                 53 260
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ROCHESTER NY
+                                          MONTH:     JANUARY
+                                          YEAR:      2025
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  77 40 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 24.3   TOTAL FOR MONTH:   1.72    1 = FOG OR MIST
+DPTR FM NORMAL:  -1.9   DPTR FM NORMAL:   -0.83    2 = FOG REDUCING VISIBILITY
+HIGHEST:    44 ON  1    GRTST 24HR  0.38 ON 31-31      TO 1/4 MILE OR LESS
+LOWEST:     -2 ON 22                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  34.1 INCHES  5 = HAIL
+                        GRTST 24HR   5.4 ON 20-20  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   5 ON 20, 8  7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:  18    0.01 INCH OR MORE:  21
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   5
+MIN 32 OR BELOW:  30    0.50 INCH OR MORE:   0
+MIN  0 OR BELOW:   1    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.  1255    CLEAR  (SCALE 0-3)   0
+DPTR FM NORMAL    52    PTCLDY (SCALE 4-7)  10
+TOTAL FM JUL 1  3238    CLOUDY (SCALE 8-10) 21
+DPTR FM NORMAL  -232
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.55 ON 22
+DPTR FM NORMAL     0    LOWEST  SLP 29.31 ON 29
+
+[REMARKS]
+#FINAL-01-25#
+
+

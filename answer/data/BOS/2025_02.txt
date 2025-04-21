@@ -1,0 +1,101 @@
+
+404
+CXUS51 KBOX 010910
+CF6BOS
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2025
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  34  13  24  -6  41   0 0.04  0.6    M 13.9 23 310   M    M   7 14     31 310
+ 2  29   9  19 -11  46   0 0.10  1.4    M  7.7 16 330   M    M   6 1      22 330
+ 3  43  29  36   6  29   0 0.05  0.3    M  9.7 22 220   M    M   9 1      31 220
+ 4  44  23  34   4  31   0 0.00  0.0    M 14.9 31 300   M    M   5        45 320
+ 5  28  18  23  -7  42   0 0.00  0.0    M 10.4 21 290   M    M   2        29 330
+ 6  34  19  27  -3  38   0 0.24  0.6    M  8.4 20 140   M    M   9 146    26 150
+ 7  40  27  34   4  31   0 0.01  0.0    M 15.0 31 290   M    M   6 1      44 280
+ 8  36  25  31   0  34   0 0.06  1.2    M  8.4 15 250   M    M   7 1      21 270
+ 9  32  25  29  -2  36   0 0.35  4.3    M  9.2 18  10   M    M   9 1      26  10
+10  36  22  29  -2  36   0 0.00  0.0    M 10.8 21 300   M    M   5        30 300
+11  32  19  26  -5  39   0 0.00  0.0    M 10.5 18 230   M    M   7        26 250
+12  33  24  29  -2  36   0    T  0.1    M 13.3 23 100   M    M  10        28 100
+13  40  32  36   5  29   0 0.43  0.3    M 14.9 29 260   M    M   9 14     45 280
+14  34  25  30  -2  35   0 0.00  0.0    M 17.7 31 290   M    M   2        49 270
+15  30  22  26  -6  39   0 0.30  2.7    M  8.2 14 290   M    M   9 1      18 280
+16  37  26  32   0  33   0 1.49  2.7    M 16.7 36 270   M    M  10 1456   47 260
+17  32  20  26  -6  39   0    T    T    M 25.3 41 270   M    M   6        61 280
+18  26  18  22 -10  43   0 0.00  0.0    M 21.1 36 270   M    M   3        50 270
+19  31  16  24  -8  41   0 0.00  0.0    M 12.9 24 290   M    M   3        32 300
+20  30  17  24  -9  41   0 0.00  0.0    M  9.1 22 320   M    M   8        30 300
+21  34  22  28  -5  37   0 0.00  0.0    M 17.2 25 310   M    M   4        36 300
+22  36  18  27  -6  38   0 0.00  0.0    M 12.3 21 300   M    M   3        32 290
+23  43  28  36   3  29   0    T    T    M 10.8 17 250   M    M   8        27 250
+24  43  29  36   2  29   0 0.00  0.0    M 10.4 22 190   M    M   7        28 230
+25  53  38  46  12  19   0    T  0.0    M 11.4 21 220   M    M   8        27 210
+26  53  40  47  13  18   0 0.00  0.0    M 12.1 22 290   M    M   3        32 250
+27  51  36  44  10  21   0 0.07    T    M 10.1 22 220   M    M   9 1      30 250
+28  47  36  42   8  23   0 0.00  0.0    M 13.6 25 280   M    M   6        37 280
+================================================================================
+SM 1041  676       953   0  3.14 14.2    356.0          M      180
+================================================================================
+AV 37.2 24.1                              12.7 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    41 270                 61 280
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2025
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 30.7   TOTAL FOR MONTH:   3.14    1 = FOG OR MIST
+DPTR FM NORMAL:  -1.1   DPTR FM NORMAL:   -0.07    2 = FOG REDUCING VISIBILITY
+HIGHEST:    53 ON 26,25  GRTST 24HR  1.70 ON 15-16      TO 1/4 MILE OR LESS
+LOWEST:      9 ON  2                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  14.2 INCHES  5 = HAIL
+                        GRTST 24HR   4.3 ON  9- 9  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  M  ON   M    7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   9    0.01 INCH OR MORE:  11
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:  24    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   953    CLEAR  (SCALE 0-3)   3
+DPTR FM NORMAL    23    PTCLDY (SCALE 4-7)  16
+TOTAL FM JUL 1  3759    CLOUDY (SCALE 8-10)  9
+DPTR FM NORMAL  -179
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.66 ON  2
+DPTR FM NORMAL     0    LOWEST  SLP 28.93 ON 16
+
+[REMARKS]
+#FINAL-02-25#
+
+

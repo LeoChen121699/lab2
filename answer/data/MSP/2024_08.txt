@@ -1,0 +1,104 @@
+
+081
+CXUS53 KMPX 010910
+CF6MSP
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   TWIN CITIES MN
+                                          MONTH:     AUGUST
+                                          YEAR:      2024
+                                          LATITUDE:   44 52 N
+                                          LONGITUDE:  93 13 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  76  66  71  -3   0   6 0.51  0.0    0  7.9 36  80   M    M   8 13     45  90
+ 2  91  66  79   5   0  14 0.00  0.0    0  6.9 17 340   M    M   1        30 310
+ 3  85  65  75   1   0  10 0.18  0.0    0  7.0 25 110   M    M   3 13     33  60
+ 4  84  70  77   4   0  12 0.00  0.0    0  7.7 15  50   M    M   7        25  60
+ 5  73  60  67  -6   0   2 1.40  0.0    0 12.0 32  10   M    M   9 13     45  30
+ 6  78  56  67  -6   0   2 0.00  0.0    0  6.0 18  60   M    M   3        32  40
+ 7  77  60  69  -4   0   4    T  0.0    0  5.3 12 210   M    M   6        20 210
+ 8  72  59  66  -7   0   1    T  0.0    0 13.6 24 300   M    M   6 1      34 300
+ 9  70  57  64  -9   1   0 0.00  0.0    0 12.7 22 300   M    M   6        32 300
+10  74  53  64  -9   1   0 0.00  0.0    0  9.2 21 310   M    M   2        27 310
+11  79  56  68  -5   0   3 0.00  0.0    0  4.0 10 280   M    M   3        19 240
+12  81  57  69  -3   0   4 0.00  0.0    0  3.3 10 150   M    M   2 1      13 150
+13  82  60  71  -1   0   6 0.00  0.0    0  4.6 15 150   M    M   1        19 150
+14  82  64  73   1   0   8    T  0.0    0 12.2 23 170   M    M   6        31 170
+15  80  65  73   1   0   8 0.74  0.0    0  9.8 29 110   M    M   9 1      36 110
+16  79  66  73   1   0   8 0.20  0.0    0  8.1 17 320   M    M   8 18     26  10
+17  78  68  73   1   0   8 0.07  0.0    0  8.2 17  30   M    M   9 1      30  30
+18  83  64  74   2   0   9 0.00  0.0    0  4.8 15  40   M    M   2 18     21  30
+19  81  62  72   0   0   7 0.00  0.0    0  4.0  9 160   M    M   1 8      15  80
+20  76  63  70  -1   0   5 0.00  0.0    0  6.7 14 120   M    M   6        20 110
+21  78  61  70  -1   0   5 0.00  0.0    0  7.9 14 170   M    M   3        20 160
+22  73  60  67  -4   0   2 0.14  0.0    0 11.0 30 160   M    M   6        39 180
+23  81  64  73   2   0   8 0.01  0.0    0  7.4 14 200   M    M   8        22 230
+24  85  65  75   4   0  10 0.00  0.0    0  8.7 14 120   M    M   4        22 120
+25  87  73  80  10   0  15 0.00  0.0    0  7.8 14 140   M    M   8        18 140
+26  92  70  81  11   0  16 0.74  0.0    0  4.5 40 300   M    M   5 138    55 320
+27  79  67  73   3   0   8 1.01  0.0    0  7.0 41 290   M    M   8 123    60 280
+28  76  64  70   0   0   5    T  0.0    0  7.8 15 110   M    M   7 18     25  80
+29  89  66  78   8   0  13 0.37  0.0    0 11.7 31 270   M    M   8 138    48 220
+30  79  61  70   1   0   5 0.00  0.0    0  8.7 20 280   M    M   2        27 300
+31  85  61  73   4   0   8 0.00  0.0    0 11.3 28 320   M    M   1        39 330
+================================================================================
+SM 2485 1949         2 212  5.37  0.0    247.8          M      158
+================================================================================
+AV 80.2 62.9                               8.0 FASTST   M    M   5    MAX(MPH)
+                                 MISC ---->    41 290                 60 280
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   TWIN CITIES MN
+                                          MONTH:     AUGUST
+                                          YEAR:      2024
+                                          LATITUDE:   44 52 N
+                                          LONGITUDE:  93 13 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 71.5   TOTAL FOR MONTH:   5.37    1 = FOG OR MIST
+DPTR FM NORMAL:  -0.3   DPTR FM NORMAL:    1.03    2 = FOG REDUCING VISIBILITY
+HIGHEST:    92 ON 26    GRTST 24HR  1.77 ON 31- 1      TO 1/4 MILE OR LESS
+LOWEST:     53 ON 10                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  11
+MAX 90 OR ABOVE:   2    0.10 INCH OR MORE:   9
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   5
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   2
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.     2    CLEAR  (SCALE 0-3)  12
+DPTR FM NORMAL    -8    PTCLDY (SCALE 4-7)  15
+TOTAL FM JUL 1     2    CLOUDY (SCALE 8-10)  4
+DPTR FM NORMAL    -7
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   212
+DPTR FM NORMAL    -8    [PRESSURE DATA]
+TOTAL FM JAN 1   678    HIGHEST SLP 30.28 ON 21
+DPTR FM NORMAL   -60    LOWEST  SLP 29.70 ON 16
+
+[REMARKS]
+#FINAL-08-24#
+
+

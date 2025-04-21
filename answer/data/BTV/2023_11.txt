@@ -1,0 +1,103 @@
+
+123
+CXUS51 KBTV 010800
+CF6BTV
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BURLINGTON VT
+                                          MONTH:     NOVEMBER
+                                          YEAR:      2023
+                                          LATITUDE:   44 28 N
+                                          LONGITUDE:  73  9 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  38  30  34 -11  31   0 0.03  0.1    0  5.8 16 340   M    M   9 1      18 350
+ 2  45  29  37  -7  28   0 0.00  0.0    0  8.8 17 200   M    M   6        25 210
+ 3  55  42  49   5  16   0 0.00  0.0    0 16.4 26 190   M    M   6        36 200
+ 4  52  42  47   3  18   0    T  0.0    0  5.1 22 200   M    M  10        29 190
+ 5  49  38  44   1  21   0    T  0.0    0  4.8 17 350   M    M   8        20 350
+ 6  49  29  39  -4  26   0    T  0.0    0  8.1 26 190   M    M   7        36 180
+ 7  54  35  45   3  20   0 0.08    T    0 16.7 31 190   M    M   9 18     41 170
+ 8  39  30  35  -7  30   0    T    T    0 11.0 25 320   M    M   8        34 320
+ 9  42  31  37  -5  28   0 0.26  2.0    2  6.9 17 310   M    M  10 16     22 320
+10  47  37  42   1  23   0 0.04  0.0    0  6.1 17 350   M    M   9 1      23 300
+11  38  34  36  -5  29   0 0.00  0.0    0 10.3 22 340   M    M  10        27 340
+12  36  28  32  -9  33   0 0.00  0.0    0  4.6 13 330   M    M   8        14 330
+13  37  27  32  -8  33   0    T    T    0  5.8 14 200   M    M   9        19 200
+14  38  34  36  -4  29   0 0.04    T    0  3.2 12  20   M    M  10 1      15 350
+15  46  33  40   0  25   0 0.00  0.0    0 11.7 26 190   M    M   7        33 190
+16  56  33  45   6  20   0 0.00  0.0    0  3.9 15 190   M    M   3        22 180
+17  62  42  52  13  13   0 0.26  0.0    0 15.0 26 200   M    M   7 1      38 180
+18  44  29  37  -1  28   0 0.15  0.0    0  7.7 17 340   M    M   8 1      23 360
+19  45  31  38   0  27   0    T  0.1    T 11.4 23 340   M    M   9        27 350
+20  33  20  27 -11  38   0    T    T    0  7.3 20 330   M    M   6        24 330
+21  38  18  28  -9  37   0 0.25  2.4    0  5.5 16 190   M    M   6 1      23 190
+22  41  34  38   1  27   0 0.10    T    3  4.1 12 170   M    M  10 1      15 190
+23  45  37  41   5  24   0 0.02  0.0    0  6.3 17 290   M    M  10 1      22 300
+24  45  24  35  -1  30   0 0.02  0.1    0 11.5 22 340   M    M   6        27 340
+25  36  18  27  -9  38   0 0.00  0.0    0  7.8 17 350   M    M   2        24 320
+26  43  28  36   1  29   0 0.26  0.3    0  8.8 21 200   M    M   6 1      27 210
+27  43  33  38   3  27   0 1.02    T    T  7.0 20 270   M    M   9 1      30 280
+28  36  25  31  -3  34   0    T    T    0 12.4 22 320   M    M   8        31 280
+29  32  23  28  -6  37   0 0.00  0.0    0 10.7 17 190   M    M   8        25 310
+30  44  30  37   3  28   0 0.00  0.0    0 16.7 28 200   M    M   7        37 190
+================================================================================
+SM 1308  924       827   0  2.53  5.0    261.4          M      231
+================================================================================
+AV 43.6 30.8                               8.7 FASTST   M    M   8    MAX(MPH)
+                                 MISC ---->    31 190                 41 170
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BURLINGTON VT
+                                          MONTH:     NOVEMBER
+                                          YEAR:      2023
+                                          LATITUDE:   44 28 N
+                                          LONGITUDE:  73  9 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 37.2   TOTAL FOR MONTH:   2.53    1 = FOG OR MIST
+DPTR FM NORMAL:  -2.1   DPTR FM NORMAL:   -0.17    2 = FOG REDUCING VISIBILITY
+HIGHEST:    62 ON 17    GRTST 24HR  1.28 ON 26-27      TO 1/4 MILE OR LESS
+LOWEST:     18 ON 25,21                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   5.0 INCHES  5 = HAIL
+                        GRTST 24HR   2.4 ON 21-21  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   3 ON 22     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   1    0.01 INCH OR MORE:  13
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   7
+MIN 32 OR BELOW:  17    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   827    CLEAR  (SCALE 0-3)   2
+DPTR FM NORMAL    54    PTCLDY (SCALE 4-7)  13
+TOTAL FM JUL 1  1218    CLOUDY (SCALE 8-10) 15
+DPTR FM NORMAL  -169
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1   722    HIGHEST SLP 30.59 ON 21
+DPTR FM NORMAL    66    LOWEST  SLP 29.55 ON  7
+
+[REMARKS]
+#FINAL-11-23#
+
+

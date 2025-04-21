@@ -1,0 +1,100 @@
+
+000
+CXUS51 KBGM 010910
+CF6SYR
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2022
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  39   8  24   1  41   0 0.00  0.0    7 10.8 21 130   M    M   5        26 130
+ 2  44  31  38  14  27   0 0.02  0.0    7  9.3 20 190   M    M   8        26 200
+ 3  41  19  30   6  35   0 0.57  5.3    5  8.1 13 340   M    M   9 1       M   M
+ 4  20  14  17  -7  48   0 0.33  3.6   12  8.3 15 300   M    M  10 189    19 310
+ 5  18  -2   8 -16  57   0 0.02  0.6   13  7.3 21 270   M    M   7 189    26 310
+ 6  32  -5  14 -10  51   0 0.00  0.0   12  8.8 20 170   M    M   4        25 170
+ 7  42  13  28   4  37   0 0.00  0.0   11  5.8 14 180   M    M   8        19 190
+ 8  35  19  27   3  38   0    T  0.3   11  9.1 23 260   M    M   9 1      32 270
+ 9  50  15  33   9  32   0 0.00  0.0   10  9.2 20 170   M    M   6        27 190
+10  45  34  40  16  25   0 0.03    T    8 11.4 28 250   M    M  10 1      35 250
+11  52  30  41  16  24   0 0.13  0.0    7 12.9 33 240   M    M   9        47 250
+12  45  21  33   8  32   0 0.03  0.2    5 13.4 29 280   M    M   9 15     37 250
+13  21   8  15 -10  50   0    T  0.4    4  6.4 15 320   M    M   9 8      16 330
+14  17   4  11 -14  54   0 0.01  0.2    4  8.4 21 280   M    M   8        25 300
+15  27   9  18  -7  47   0 0.03  0.9    3  8.0 22 260   M    M   5 8      26 260
+16  50  14  32   6  33   0    T  0.0    4 15.4 33 180   M    M   7        48 170
+17  56  41  49  23  16   0 0.33  0.0    1 16.4 29 170   M    M  10 1      41 180
+18  46  15  31   5  34   0 0.48  1.1    T 13.3 30 310   M    M   8 149    37 300
+19  32  15  24  -2  41   0 0.01  1.4    1 19.7 38 250   M    M   8 129    46 250
+20  43  11  27   1  38   0 0.01  0.2    2 11.6 29 190   M    M   7 8      36 190
+21  58  34  46  19  19   0 0.00  0.0    1  6.9 25 200   M    M   7        31 200
+22  60  35  48  21  17   0 0.34  0.0    T 11.7 28 210   M    M  10 1      38 190
+23  59  20  40  13  25   0 0.06    T    0 16.1 31 270   M    M  10 189    38 260
+24  29  13  21  -7  44   0    T    T    0  5.3 15 340   M    M   6        19 340
+25  27  15  21  -7  44   0 0.49  4.9    4 10.7 26 280   M    M  10 149    36 270
+26  29  15  22  -6  43   0 0.02  1.0    6  9.7 22 250   M    M   9 1      28 270
+27  34  24  29   1  36   0 0.01  0.8    5 17.5 26 310   M    M   9 9      35 280
+28  24   9  17 -12  48   0    T    T    5  5.1 16 360   M    M   7        22 320
+================================================================================
+SM 1075  479      1036   0  2.92 20.9    296.6          M      224
+================================================================================
+AV 38.4 17.1                              10.6 FASTST   M    M   8    MAX(MPH)
+                                 MISC ---->    38 250                 48 170
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   SYRACUSE NY
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2022
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  76  7 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 27.8   TOTAL FOR MONTH:   2.92    1 = FOG OR MIST
+DPTR FM NORMAL:   2.3   DPTR FM NORMAL:    0.46    2 = FOG REDUCING VISIBILITY
+HIGHEST:    60 ON 22    GRTST 24HR  0.81 ON 17-18      TO 1/4 MILE OR LESS
+LOWEST:     -5 ON  6                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  20.9 INCHES  5 = HAIL
+                        GRTST 24HR   5.3 ON  3- 3  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  13 ON  5     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:  11    0.01 INCH OR MORE:  18
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   7
+MIN 32 OR BELOW:  24    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   2    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.  1036    CLEAR  (SCALE 0-3)   0
+DPTR FM NORMAL   -68    PTCLDY (SCALE 4-7)  14
+TOTAL FM JUL 1  4222    CLOUDY (SCALE 8-10) 14
+DPTR FM NORMAL  -534
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.66 ON 15
+DPTR FM NORMAL     0    LOWEST  SLP 29.24 ON 18
+
+[REMARKS]
+#FINAL-02-22#
+

@@ -1,0 +1,104 @@
+
+709
+CXUS51 KBGM 010910
+CF6BGM
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BINGHAMTON NY
+                                          MONTH:     JANUARY
+                                          YEAR:      2025
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  75 59 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  40  30  35  11  30   0 0.43  1.2    0 11.0 24 290   M    M  10 12     37 310
+ 2  30  24  27   3  38   0 0.24  2.6    3 13.4 24 280   M    M  10 128    42 270
+ 3  26  20  23  -1  42   0    T  0.2    2 11.6 21 260   M    M   9 1      33 280
+ 4  22  19  21  -3  44   0 0.02  1.0    2 14.5 25 280   M    M  10 18     41 310
+ 5  23  18  21  -3  44   0    T    T    2 12.7 24 280   M    M  10        39 280
+ 6  22   8  15  -8  50   0    T  0.1    2  9.2 23 350   M    M   9 1      30 350
+ 7  18  12  15  -8  50   0 0.01  2.6    3 15.9 24 310   M    M  10 18     42 310
+ 8  16  12  14  -9  51   0 0.05  3.0    5 14.5 23 310   M    M  10 1289   40 300
+ 9  18  12  15  -8  50   0 0.03  1.4    5 16.3 24 310   M    M  10 1      40 320
+10  25  14  20  -3  45   0 0.00  0.0    5  7.5 21 330   M    M   5        30 330
+11  25  18  22  -1  43   0 0.19  2.3    6  6.5 16 320   M    M  10 1      24 350
+12  32  24  28   6  37   0    T    T    6  4.6 17 320   M    M   8 18     29 330
+13  34  22  28   6  37   0    T    T    5  9.7 21 260   M    M   8        29 270
+14  22  12  17  -5  48   0 0.04  1.4    4 10.5 21 280   M    M  10 18     29 270
+15  21  13  17  -5  48   0 0.03  1.5    7  9.7 17 310   M    M   9 1      27 290
+16  19  13  16  -6  49   0 0.08  1.0    6  7.1 15 260   M    M   9 1      20 190
+17  30  19  25   3  40   0    T  0.0    6  8.0 16 190   M    M   9 1      27 190
+18  32  28  30   8  35   0 0.06  0.7    6  8.4 15 200   M    M   6 1      24 330
+19  29  10  20  -2  45   0    T    T    6 11.2 21 350   M    M  10 8      27 350
+20  16   3  10 -12  55   0    T    T    6  9.1 22 280   M    M   4 18     32 300
+21  11  -1   5 -17  60   0    T    T    5  6.2 14 280   M    M   4        21 260
+22  11  -5   3 -19  62   0 0.00  0.0    5  6.0 12 200   M    M   3        19 180
+23  23   8  16  -6  49   0    T    T    5  7.9 16 200   M    M   7        26 190
+24  22  14  18  -4  47   0    T    T    5  7.0 14 270   M    M   8        19 250
+25  25  11  18  -4  47   0    T    T    5  8.1 15 220   M    M   8        24 210
+26  31  20  26   4  39   0 0.01  0.7    5 11.0 23 300   M    M   5 18     35 290
+27  33  17  25   3  40   0 0.00  0.0    5 14.0 24 220   M    M   1        39 220
+28  30  17  24   2  41   0 0.02  0.8    5 11.8 25 260   M    M   8 1      41 310
+29  37  16  27   5  38   0 0.07  1.5    5 15.7 31 250   M    M  10 128    48 330
+30  29  15  22   0  43   0    T    T    6  7.4 21 300   M    M   6        30 310
+31  34  29  32  10  33   0 0.54    T    5  5.1 14 340   M    M   8 12     20 330
+================================================================================
+SM  786  472      1380   0  1.82 22.0    311.6          M      244
+================================================================================
+AV 25.4 15.2                              10.1 FASTST   M    M   8    MAX(MPH)
+                                 MISC ---->    31 250                 48 330
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BINGHAMTON NY
+                                          MONTH:     JANUARY
+                                          YEAR:      2025
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  75 59 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 20.3   TOTAL FOR MONTH:   1.82    1 = FOG OR MIST
+DPTR FM NORMAL:  -2.2   DPTR FM NORMAL:   -0.80    2 = FOG REDUCING VISIBILITY
+HIGHEST:    40 ON  1    GRTST 24HR  0.54 ON 31-31      TO 1/4 MILE OR LESS
+LOWEST:     -5 ON 22                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  22.0 INCHES  5 = HAIL
+                        GRTST 24HR   3.0 ON  8- 8  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   7 ON 15     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:  26    0.01 INCH OR MORE:  15
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   4
+MIN 32 OR BELOW:  31    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   2    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.  1380    CLEAR  (SCALE 0-3)   2
+DPTR FM NORMAL    63    PTCLDY (SCALE 4-7)  13
+TOTAL FM JUL 1  3706    CLOUDY (SCALE 8-10) 16
+DPTR FM NORMAL  -311
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.51 ON 22
+DPTR FM NORMAL     0    LOWEST  SLP 29.34 ON 29
+
+[REMARKS]
+#FINAL-01-25#
+
+

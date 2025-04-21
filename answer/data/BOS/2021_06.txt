@@ -1,0 +1,103 @@
+
+752
+CXUS51 KBOX 010810
+CF6BOS
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     JUNE
+                                          YEAR:      2021
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  77  54  66   3   0   1 0.00  0.0    M 10.2 17 230   M    M   7        22 240
+ 2  79  58  69   6   0   4 0.00  0.0    M  9.1 20 190   M    M   7        23 220
+ 3  76  60  68   4   0   3 0.00  0.0    M 10.1 18 210   M    M   9        25 210
+ 4  81  66  74  10   0   9 0.11  0.0    M 10.3 18 250   M    M   9 38     28 250
+ 5  91  63  77  13   0  12 0.00  0.0    M 11.1 25 220   M    M   5        33 190
+ 6  94  70  82  17   0  17 0.00  0.0    M 10.0 18 230   M    M   4        27 260
+ 7  96  73  85  20   0  20 0.00  0.0    M 12.4 23 250   M    M   2        30 260
+ 8  95  75  85  19   0  20    T  0.0    M  9.4 17 220   M    M   7 3      21 260
+ 9  92  74  83  17   0  18 0.05  0.0    M  7.0 16 340   M    M   7 1      22 320
+10  76  59  68   2   0   3 0.00  0.0    M 10.9 18  60   M    M   5        23  60
+11  66  57  62  -4   3   0 0.12  0.0    M  7.3 15  60   M    M   8 1      19 130
+12  71  60  66  -1   0   1 0.59  0.0    M  5.6 14 210   M    M   8 1      18 250
+13  85  62  74   7   0   9 0.00  0.0    M 10.2 20 200   M    M   3        24 210
+14  70  60  65  -3   0   0 0.53  0.0    M  6.3 14 200   M    M   8 18     19 240
+15  73  62  68   0   0   3 0.01  0.0    M  5.1 14  90   M    M   8 123    16  90
+16  77  63  70   2   0   5 0.00  0.0    M 11.5 20 290   M    M   3        27 300
+17  80  60  70   1   0   5 0.00  0.0    M  8.3 16 280   M    M   3        22 250
+18  85  60  73   4   0   8    T  0.0    M  8.9 21 220   M    M   5        29 230
+19  91  69  80  11   0  15    T  0.0    M 12.7 22 220   M    M   9        28 210
+20  89  71  80  10   0  15 0.00  0.0    M 10.4 18 190   M    M   6        25 220
+21  87  69  78   8   0  13 0.00  0.0    M 13.3 24 190   M    M   5        30 210
+22  87  63  75   5   0  10 0.91  0.0    M  9.7 21 330   M    M   8 13     27 340
+23  75  59  67  -3   0   2 0.00  0.0    M 10.1 17 110   M    M   5        24 300
+24  74  59  67  -4   0   2    T  0.0    M  9.8 24 110   M    M   3 1      29 110
+25  70  61  66  -5   0   1 0.09  0.0    M  7.8 13 200   M    M  10 1      15 210
+26  86  66  76   5   0  11    T  0.0    M 13.7 24 230   M    M   8 1      29 230
+27  89  74  82  10   0  17 0.00  0.0    M 16.4 28 220   M    M   7        33 230
+28  97  75  86  14   0  21 0.00  0.0    M 14.0 22 230   M    M   5        26 230
+29  99  79  89  17   0  24    T  0.0    M 10.5 23 230   M    M   5 3      29 230
+30 100  72  86  14   0  21 0.16  0.0    M  9.8 40 290   M    M   5 3      49 280
+================================================================================
+SM 2508 1953         3 290  2.57  0.0    301.9          M      184
+================================================================================
+AV 83.6 65.1                              10.1 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    40 290                 49 280
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     JUNE
+                                          YEAR:      2021
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 74.4   TOTAL FOR MONTH:   2.57    1 = FOG OR MIST
+DPTR FM NORMAL:   6.3   DPTR FM NORMAL:   -1.32    2 = FOG REDUCING VISIBILITY
+HIGHEST:   100 ON 30    GRTST 24HR  0.91 ON 22-22      TO 1/4 MILE OR LESS
+LOWEST:     54 ON  1                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  M  ON   M    7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   9
+MAX 90 OR ABOVE:   9    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   3
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.     3    CLEAR  (SCALE 0-3)   3
+DPTR FM NORMAL   -47    PTCLDY (SCALE 4-7)  20
+TOTAL FM JUL 1  5071    CLOUDY (SCALE 8-10)  7
+DPTR FM NORMAL  -473
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   290
+DPTR FM NORMAL   152    [PRESSURE DATA]
+TOTAL FM JAN 1   354    HIGHEST SLP 30.43 ON 24
+DPTR FM NORMAL   183    LOWEST  SLP 29.57 ON 22
+
+[REMARKS]
+#FINAL-06-21#
+
+

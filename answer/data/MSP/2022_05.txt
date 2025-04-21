@@ -1,0 +1,103 @@
+
+000
+CXUS53 KMPX 010910
+CF6MSP
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   TWIN CITIES MN
+                                          MONTH:     MAY
+                                          YEAR:      2022
+                                          LATITUDE:   44 52 N
+                                          LONGITUDE:  93 13 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  48  41  45  -9  20   0 0.10  0.0    0 13.0 21 320   M    M  10 1      32 270
+ 2  50  39  45  -9  20   0 0.00  0.0    0  8.9 20 330   M    M  10        25 340
+ 3  58  43  51  -4  14   0 0.00  0.0    0 10.5 20  20   M    M   6        34  60
+ 4  64  40  52  -3  13   0 0.00  0.0    0  4.7 12  80   M    M   5        15 160
+ 5  65  47  56   0   9   0 0.00  0.0    0  3.5 10 140   M    M   7        13 120
+ 6  72  45  59   3   6   0 0.00  0.0    0  7.6 18 130   M    M   2        23 120
+ 7  74  50  62   6   3   0 0.00  0.0    0 14.0 26 140   M    M   2        41 140
+ 8  65  52  59   2   6   0 0.03  0.0    0 15.5 26 150   M    M  10        45 140
+ 9  87  58  73  16   0   8 0.01  0.0    0 17.5 29 130   M    M   7 3      53 130
+10  80  57  69  12   0   4 0.00  0.0    0  7.9 17 330   M    M   5        24 350
+11  79  63  71  13   0   6 1.94    T    0 12.3 37 260   M    M   8 1235   61 240
+12  92  59  76  18   0  11 0.04  0.0    0 11.4 36 290   M    M   7 1238   53 300
+13  75  61  68   9   0   3 0.01  0.0    0  8.1 17 240   M    M   5        31 270
+14  75  58  67   8   0   2 0.00  0.0    0 11.0 20 290   M    M   2        36 270
+15  75  54  65   6   0   0    T  0.0    0  9.9 25 270   M    M   4        39 320
+16  71  54  63   3   2   0 0.00  0.0    0 10.1 24 330   M    M   3        33 320
+17  72  51  62   2   3   0 0.08  0.0    0  6.6 13 170   M    M   7        18 120
+18  74  56  65   5   0   0 0.01  0.0    0  8.5 24 250   M    M   6        40 240
+19  72  53  63   2   2   0    T  0.0    0  7.3 33 130   M    M   5 3      45 140
+20  67  47  57  -4   8   0 0.05  0.0    0 12.7 23 330   M    M   8 13     40 280
+21  56  44  50 -11  15   0 0.00  0.0    0 11.8 21 330   M    M   8        28 320
+22  59  40  50 -12  15   0 0.00  0.0    0  7.7 18 320   M    M   7        26 340
+23  66  40  53  -9  12   0 0.00  0.0    0  4.3 12 180   M    M   6        17 160
+24  69  52  61  -1   4   0    T  0.0    0  9.5 20 120   M    M   8        32  70
+25  55  47  51 -12  14   0 0.57  0.0    0 12.6 21  70   M    M  10 1      33  70
+26  63  47  55  -8  10   0 0.00  0.0    0  9.0 17  30   M    M   9        31  30
+27  76  45  61  -3   4   0 0.00  0.0    0  4.9 12 130   M    M   2 128    23 170
+28  90  60  75  11   0  10 0.06  0.0    0 12.0 24 200   M    M   6 3      35 190
+29  82  66  74  10   0   9 0.01  0.0    0 13.2 28 150   M    M   8 3      45 130
+30  89  65  77  13   0  12 0.42  0.0    0 13.7 32 260   M    M   7 138    51 150
+31  73  57  65   0   0   0 0.00  0.0    0 17.4 31 220   M    M   7        52 240
+================================================================================
+SM 2193 1591       180  65  3.33    T    317.1          M      197
+================================================================================
+AV 70.7 51.3                              10.2 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    37 260                 61 240
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   TWIN CITIES MN
+                                          MONTH:     MAY
+                                          YEAR:      2022
+                                          LATITUDE:   44 52 N
+                                          LONGITUDE:  93 13 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 61.0   TOTAL FOR MONTH:   3.33    1 = FOG OR MIST
+DPTR FM NORMAL:   1.5   DPTR FM NORMAL:   -0.58    2 = FOG REDUCING VISIBILITY
+HIGHEST:    92 ON 12    GRTST 24HR  1.94 ON 11-11      TO 1/4 MILE OR LESS
+LOWEST:     39 ON  2                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  T            5 = HAIL
+                        GRTST 24HR   T   ON 11-11  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  13
+MAX 90 OR ABOVE:   2    0.10 INCH OR MORE:   4
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   180    CLEAR  (SCALE 0-3)   5
+DPTR FM NORMAL   -34    PTCLDY (SCALE 4-7)  19
+TOTAL FM JUL 1  7426    CLOUDY (SCALE 8-10)  7
+DPTR FM NORMAL    61
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    65
+DPTR FM NORMAL    20    [PRESSURE DATA]
+TOTAL FM JAN 1    65    HIGHEST SLP 30.40 ON 23
+DPTR FM NORMAL    16    LOWEST  SLP 29.18 ON 19
+
+[REMARKS]
+#FINAL-05-22#
+

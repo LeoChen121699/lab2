@@ -1,0 +1,102 @@
+
+000
+CXUS51 KCLE 010800
+CF6CLE
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   CLEVELAND OH
+                                          MONTH:     APRIL
+                                          YEAR:      2023
+                                          LATITUDE:   41 24 N
+                                          LONGITUDE:  81 51 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  63  35  49   4  16   0 0.16    T    0 17.5 43 270   M    M   9 138    56 270
+ 2  45  31  38  -7  27   0 0.00  0.0    0  7.1 16 180   M    M   5        22 180
+ 3  68  40  54   9  11   0    T  0.0    0 10.3 18 360   M    M   5        22 180
+ 4  71  47  59  13   6   0 0.00  0.0    0  7.3 17  30   M    M   8        20  20
+ 5  79  60  70  24   0   5 0.34  0.0    0 16.1 32 230   M    M   9 13     42 240
+ 6  62  41  52   5  13   0 0.00  0.0    0 10.7 21 290   M    M   9        24 290
+ 7  43  34  39  -8  26   0 0.00  0.0    0  8.5 17  30   M    M   6        26  10
+ 8  54  31  43  -4  22   0 0.00  0.0    0  6.7 15  20   M    M   3        19 110
+ 9  58  30  44  -4  21   0 0.00  0.0    0  5.5 13  30   M    M   0        18  40
+10  64  32  48   0  17   0 0.00  0.0    0  4.1 13 360   M    M   3        16 360
+11  74  40  57   8   8   0 0.00  0.0    0 10.3 24 250   M    M   5        30 260
+12  80  58  69  20   0   4 0.00  0.0    0 13.2 25 240   M    M   2        32 270
+13  82  58  70  20   0   5 0.00  0.0    0  7.9 16 250   M    M   0        27 230
+14  82  50  66  16   0   1 0.00  0.0    0  5.2 15  20   M    M   6        17  30
+15  80  58  69  19   0   4 0.00  0.0    0  5.9 15 360   M    M   5        17 350
+16  79  46  63  12   2   0 0.49  0.0    0 13.2 33 260   M    M   6 18     39 260
+17  46  37  42  -9  23   0 0.04    T    0 16.5 30 260   M    M  10 1      42 250
+18  50  35  43  -9  22   0    T    T    0 14.0 23 270   M    M   8        30 250
+19  56  31  44  -8  21   0 0.00  0.0    0  5.7 15  30   M    M   4        19  30
+20  83  45  64  12   1   0 0.00  0.0    0  7.1 22 200   M    M   8        28 200
+21  73  47  60   7   5   0 0.46  0.0    0  9.0 25 310   M    M   9 13     32 310
+22  58  42  50  -3  15   0 0.55  0.0    0  9.7 30 240   M    M   9 18     39 240
+23  48  36  42 -12  23   0    T  0.0    0  8.9 23 270   M    M   9        27 270
+24  48  35  42 -12  23   0 0.08    T    0  8.1 20 290   M    M   9 1      25 290
+25  52  32  42 -12  23   0    T  0.0    0  7.2 15 260   M    M   6        19 250
+26  51  38  45 -10  20   0    T  0.0    0  7.4 13 350   M    M   4 18     17  10
+27  60  32  46  -9  19   0 0.00  0.0    0  6.3 16  30   M    M   5        19  40
+28  59  46  53  -2  12   0 0.06  0.0    0 14.0 24 100   M    M   9 18     32 100
+29  63  52  58   2   7   0    T  0.0    0 10.9 20 170   M    M   9 18     24 260
+30  55  43  49  -7  16   0 0.27  0.0    0  7.0 24 290   M    M   8 1      32 280
+================================================================================
+SM 1886 1242       399  19  2.45    T    281.3          M      188
+================================================================================
+AV 62.9 41.4                               9.4 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    43 270                 56 270
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   CLEVELAND OH
+                                          MONTH:     APRIL
+                                          YEAR:      2023
+                                          LATITUDE:   41 24 N
+                                          LONGITUDE:  81 51 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 52.1   TOTAL FOR MONTH:   2.45    1 = FOG OR MIST
+DPTR FM NORMAL:   1.7   DPTR FM NORMAL:   -1.30    2 = FOG REDUCING VISIBILITY
+HIGHEST:    83 ON 20    GRTST 24HR  1.01 ON 21-22      TO 1/4 MILE OR LESS
+LOWEST:     30 ON  9                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  T            5 = HAIL
+                        GRTST 24HR   T   ON  1- 1  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   9
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   7    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   399    CLEAR  (SCALE 0-3)   5
+DPTR FM NORMAL   -48    PTCLDY (SCALE 4-7)  13
+TOTAL FM JUL 1  4727    CLOUDY (SCALE 8-10) 12
+DPTR FM NORMAL  -578
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    19
+DPTR FM NORMAL     9    [PRESSURE DATA]
+TOTAL FM JAN 1    19    HIGHEST SLP 30.61 ON  8
+DPTR FM NORMAL     7    LOWEST  SLP 29.32 ON  1
+
+[REMARKS]
+#FINAL-04-23#
+

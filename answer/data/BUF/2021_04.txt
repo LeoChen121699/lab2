@@ -1,0 +1,103 @@
+
+359
+CXUS51 KBUF 010805
+CF6BUF
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     APRIL
+                                          YEAR:      2021
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  37  28  33  -7  32   0 0.01  0.1    0 13.5 24 330   M    M   8 1      32 320
+ 2  39  24  32  -8  33   0 0.00  0.0    0 10.3 22 330   M    M   1        30 340
+ 3  47  24  36  -5  29   0    T  0.0    0  8.8 20 240   M    M   7        25 230
+ 4  56  37  47   6  18   0 0.00  0.0    0  6.0 15 240   M    M   1        18 240
+ 5  60  33  47   5  18   0 0.03  0.0    0  4.0 14 340   M    M   5        16 340
+ 6  70  37  54  12  11   0 0.00  0.0    0  5.7 20  50   M    M   6        25  50
+ 7  73  45  59  17   6   0 0.02  0.0    0  6.8 21  50   M    M   4 8      29  40
+ 8  84  50  67  24   0   2 0.00  0.0    0  7.7 18 160   M    M   3        22 150
+ 9  72  56  64  21   1   0 0.08  0.0    0  9.7 25 180   M    M   6 3      35 170
+10  82  54  68  24   0   3 0.00  0.0    M  7.8 18 180   M    M   8        21 180
+11  67  50  59  15   6   0 0.70  0.0    0  7.0 20 150   M    M   9 1      26 140
+12  57  50  54  10  11   0 0.05  0.0    0  6.5 14 210   M    M  10 1      16 220
+13  58  44  51   6  14   0 0.00  0.0    0  6.9 14 220   M    M   7 12     17 200
+14  56  42  49   4  16   0 0.00  0.0    0  8.5 20 260   M    M   4        29 250
+15  47  39  43  -3  22   0 0.26  0.0    0 11.2 22 240   M    M  10 1      28 240
+16  45  38  42  -4  23   0 0.11  0.0    0 10.7 18 230   M    M  10 1      23 230
+17  49  40  45  -2  20   0    T  0.0    0  9.1 17 220   M    M   8        22 230
+18  55  41  48   1  17   0 0.00  0.0    0 10.1 17 240   M    M   7 1      23 240
+19  61  40  51   4  14   0 0.05  0.0    0 11.1 24 240   M    M   6        34 220
+20  47  32  40  -8  25   0 0.36  1.7    0 13.7 24 240   M    M  10 1      32 250
+21  37  30  34 -14  31   0 0.33  3.1    4 10.3 22 300   M    M   9 12     29 300
+22  40  29  35 -14  30   0 0.04  0.2    2 12.8 26 280   M    M   7 18     33 260
+23  52  32  42  -7  23   0 0.00  0.0    0 14.2 28 230   M    M   2        36 240
+24  64  44  54   5  11   0 0.00  0.0    0  8.5 18 230   M    M   7        23 320
+25  55  35  45  -5  20   0 0.02  0.0    0 11.7 25 310   M    M   8 1      33 300
+26  51  34  43  -7  22   0 0.02  0.0    0  6.3 15 300   M    M   7        20 310
+27  70  42  56   6   9   0    T  0.0    0  8.6 20 340   M    M   8 3      27 340
+28  71  52  62  11   3   0 0.08  0.0    0  8.2 24 240   M    M   8 13     35 230
+29  56  47  52   1  13   0 0.60  0.0    0  6.9 13 260   M    M  10 1      17 260
+30  49  39  44  -8  21   0 0.01  0.0    0 17.4 30 310   M    M   9        41 300
+================================================================================
+SM 1707 1188       499   5  2.77  5.1    280.0          M      205
+================================================================================
+AV 56.9 39.6                               9.3 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    30 310                 41 300
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     APRIL
+                                          YEAR:      2021
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 48.3   TOTAL FOR MONTH:   2.77    1 = FOG OR MIST
+DPTR FM NORMAL:   2.3   DPTR FM NORMAL:   -0.24    2 = FOG REDUCING VISIBILITY
+HIGHEST:    84 ON  8    GRTST 24HR  0.70 ON 11-11      TO 1/4 MILE OR LESS
+LOWEST:     24 ON  3, 2                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   5.1 INCHES  5 = HAIL
+                        GRTST 24HR   3.1 ON 21-21  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   4 ON 21     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  17
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   7    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   499    CLEAR  (SCALE 0-3)   3
+DPTR FM NORMAL   -77    PTCLDY (SCALE 4-7)  17
+TOTAL FM JUL 1  5499    CLOUDY (SCALE 8-10) 10
+DPTR FM NORMAL  -781
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     5
+DPTR FM NORMAL     2    [PRESSURE DATA]
+TOTAL FM JAN 1     5    HIGHEST SLP 30.41 ON  2
+DPTR FM NORMAL     2    LOWEST  SLP 29.46 ON 11
+
+[REMARKS]
+#FINAL-04-21#
+
+

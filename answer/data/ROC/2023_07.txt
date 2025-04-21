@@ -1,0 +1,103 @@
+
+000
+CXUS51 KBUF 010805
+CF6ROC
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ROCHESTER NY
+                                          MONTH:     JULY
+                                          YEAR:      2023
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  77 40 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  86  68  77   6   0  12 0.66  0.0    0  6.4 20 230   M    M   7 138    30 240
+ 2  77  68  73   2   0   8 0.69  0.0    0  3.5 15  30   M    M  10 1      19  40
+ 3  75  64  70  -2   0   5 0.72  0.0    0  4.9 14  90   M    M   9 13     19  80
+ 4  86  61  74   2   0   9 0.00  0.0    0  4.4 12 300   M    M   6 128    15 330
+ 5  87  66  77   5   0  12 0.00  0.0    0  4.9 12  30   M    M   4 1      15  30
+ 6  91  67  79   7   0  14    T  0.0    0  4.9 17 310   M    M   6 1      24 320
+ 7  80  64  72   0   0   7 0.44  0.0    0  5.5 20 300   M    M   7 13     24 280
+ 8  80  58  69  -3   0   4    T  0.0    0  5.4 13 280   M    M   5        16 280
+ 9  78  65  72   0   0   7    T  0.0    0  4.5 14 330   M    M   9        22  20
+10  78  64  71  -1   0   6 0.00  0.0    0  7.2 15 310   M    M   8        21 320
+11  85  62  74   2   0   9 0.00  0.0    0 10.2 22 260   M    M   4        31 290
+12  80  66  73   1   0   8 0.12  0.0    0  5.8 14  30   M    M   8 1      20  60
+13  82  65  74   1   0   9 0.25  0.0    0  9.2 33 270   M    M   8 13     46 230
+14  81  60  71  -2   0   6 0.00  0.0    0  5.4 15  40   M    M   3        19  40
+15  87  61  74   1   0   9    T  0.0    0  6.7 26 340   M    M   6 3      35 310
+16  81  67  74   1   0   9 0.73  0.0    0  6.7 16 290   M    M   9 138    22 290
+17  83  65  74   1   0   9 0.00  0.0    0  7.5 20 230   M    M   7 8      24 230
+18  78  63  71  -2   0   6 0.08  0.0    0  5.5 20 310   M    M   7 138    27 290
+19  79  58  69  -4   0   4 0.00  0.0    0  3.9 14  30   M    M   3        21  40
+20  84  59  72  -1   0   7 0.27  0.0    0  7.0 30 250   M    M   6 13     39 250
+21  77  62  70  -3   0   5 0.08  0.0    0  8.5 21 300   M    M   6 1      31 310
+22  81  58  70  -3   0   5 0.00  0.0    0  8.0 18 310   M    M   3 8      25 300
+23  81  59  70  -3   0   5 0.31  0.0    0  5.9 26 220   M    M   6 3      37 220
+24  81  60  71  -2   0   6 0.83  0.0    0  4.6 16 360   M    M   5 13     22 290
+25  79  61  70  -3   0   5 0.73  0.0    0  4.6 13  60   M    M   7 123    15  60
+26  87  63  75   2   0  10    T  0.0    0  8.4 16 230   M    M   6        25 200
+27  80  70  75   3   0  10 0.41  0.0    0  9.8 21 260   M    M   7 13     30 260
+28  89  67  78   6   0  13 0.00  0.0    0  6.5 15  30   M    M   6 1      19  30
+29  76  57  67  -5   0   2 0.40  0.0    0  8.1 23  50   M    M   8 13     29  40
+30  76  56  66  -6   0   1 0.00  0.0    0  4.9 14 320   M    M   4 3      21 310
+31  73  56  65  -7   0   0 0.09  0.0    0  7.4 17 360   M    M   4        24  10
+================================================================================
+SM 2518 1940         0 222  6.81  0.0    196.2          M      194
+================================================================================
+AV 81.2 62.6                               6.3 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    33 270                 46 230
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ROCHESTER NY
+                                          MONTH:     JULY
+                                          YEAR:      2023
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  77 40 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 71.9   TOTAL FOR MONTH:   6.81    1 = FOG OR MIST
+DPTR FM NORMAL:  -0.4   DPTR FM NORMAL:    3.25    2 = FOG REDUCING VISIBILITY
+HIGHEST:    91 ON  6    GRTST 24HR  1.30 ON  2- 3      TO 1/4 MILE OR LESS
+LOWEST:     56 ON 31,30                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  16
+MAX 90 OR ABOVE:   1    0.10 INCH OR MORE:  13
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   6
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.     0    CLEAR  (SCALE 0-3)   2
+DPTR FM NORMAL    -6    PTCLDY (SCALE 4-7)  25
+TOTAL FM JUL 1     0    CLOUDY (SCALE 8-10)  4
+DPTR FM NORMAL     0
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   222
+DPTR FM NORMAL   -12    [PRESSURE DATA]
+TOTAL FM JAN 1   329    HIGHEST SLP 30.12 ON 31
+DPTR FM NORMAL   -77    LOWEST  SLP 29.65 ON 13
+
+[REMARKS]
+#FINAL-07-23#
+

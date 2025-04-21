@@ -1,0 +1,102 @@
+
+000
+CXUS51 KBOX 010810
+CF6BOS
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     APRIL
+                                          YEAR:      2022
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  60  40  50   7  15   0 0.40  0.0    M 14.1 30 300   M    M   7 1      40 300
+ 2  54  39  47   3  18   0 0.00  0.0    M 15.2 23 290   M    M   4        32 300
+ 3  48  35  42  -2  23   0    T  0.0    M  9.2 18 320   M    M   9        23 330
+ 4  58  38  48   4  17   0 0.01  0.0    M 12.5 22 310   M    M   7        30 310
+ 5  59  43  51   6  14   0 0.00  0.0    M  9.1 20 120   M    M   6        24 110
+ 6  47  41  44  -1  21   0 0.11  0.0    M 10.3 18  50   M    M   9 1      25  60
+ 7  49  39  44  -1  21   0 0.01  0.0    M 13.6 28 100   M    M   8 1      33 100
+ 8  63  44  54   8  11   0 0.15  0.0    M 12.4 30 130   M    M   7 13     38 120
+ 9  60  43  52   6  13   0 0.11    T    M  9.7 23 260   M    M   6 35     33 230
+10  56  41  49   3  16   0    T  0.0    M 13.9 25 300   M    M   5        35 300
+11  64  40  52   5  13   0    T  0.0    M 11.9 21 320   M    M   4        27 300
+12  70  49  60  13   5   0 0.03  0.0    M  9.6 20 280   M    M   7        24 280
+13  73  47  60  12   5   0    T  0.0    M  9.1 20 190   M    M   7        27 210
+14  50  46  48   0  17   0 0.23  0.0    M  9.4 14  30   M    M  10 1      18 340
+15  67  46  57   9   8   0 0.00  0.0    M 12.9 25 270   M    M   4        35 220
+16  72  43  58   9   7   0 0.39  0.0    M 16.3 29 220   M    M   8 13     37 230
+17  50  41  46  -3  19   0    T    T    M 13.2 23 300   M    M   5 5      31 320
+18  50  39  45  -5  20   0 0.00  0.0    M 13.8 25  90   M    M   5        31  80
+19  59  43  51   1  14   0 0.56  0.0    M 21.7 37 130   M    M   7 1      46  80
+20  57  41  49  -1  16   0 0.00  0.0    M 14.2 26 270   M    M   2        36 300
+21  62  41  52   1  13   0    T  0.0    M 15.3 28 190   M    M   6        36 200
+22  65  49  57   6   8   0 0.00  0.0    M 14.1 24 310   M    M   4        33 320
+23  58  45  52   0  13   0 0.00  0.0    M  8.1 16 360   M    M   6        22 340
+24  54  43  49  -3  16   0    T  0.0    M 10.1 21  50   M    M   8        25  50
+25  53  46  50  -2  15   0 0.00  0.0    M 10.5 20 100   M    M   7        22 110
+26  55  46  51  -1  14   0 0.23  0.0    M  7.9 13 200   M    M  10 1      15 230
+27  59  42  51  -2  14   0 0.09  0.0    M 15.0 29 300   M    M   8 1      39 310
+28  53  39  46  -7  19   0 0.00  0.0    M 18.3 30 310   M    M   5        40 280
+29  57  40  49  -5  16   0 0.00  0.0    M 14.7 26 320   M    M   4        35 320
+30  54  41  48  -6  17   0 0.00  0.0    M  9.2 20 110   M    M   4        23 120
+================================================================================
+SM 1736 1270       438   0  2.32    T    375.3          M      189
+================================================================================
+AV 57.9 42.3                              12.5 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    37 130                 46  80
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BOSTON MA
+                                          MONTH:     APRIL
+                                          YEAR:      2022
+                                          LATITUDE:   42 22 N
+                                          LONGITUDE:  71  2 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 50.1   TOTAL FOR MONTH:   2.32    1 = FOG OR MIST
+DPTR FM NORMAL:   1.5   DPTR FM NORMAL:   -1.31    2 = FOG REDUCING VISIBILITY
+HIGHEST:    73 ON 13    GRTST 24HR  0.56 ON 19-19      TO 1/4 MILE OR LESS
+LOWEST:     35 ON  3                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  T            5 = HAIL
+                        GRTST 24HR   T   ON  9- 9  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  M  ON   M    7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  12
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   8
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   438    CLEAR  (SCALE 0-3)   1
+DPTR FM NORMAL   -58    PTCLDY (SCALE 4-7)  22
+TOTAL FM JUL 1  4786    CLOUDY (SCALE 8-10)  7
+DPTR FM NORMAL  -476
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL    -4    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.57 ON 21
+DPTR FM NORMAL    -4    LOWEST  SLP 29.39 ON  1
+
+[REMARKS]
+#FINAL-04-22#
+

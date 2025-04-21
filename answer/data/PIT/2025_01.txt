@@ -1,0 +1,104 @@
+
+348
+CXUS51 KPBZ 010830
+CF6PIT
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   PITTSBURGH PA
+                                          MONTH:     JANUARY
+                                          YEAR:      2025
+                                          LATITUDE:   40 30 N
+                                          LONGITUDE:  80 13 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  45  29  37   7  28   0 0.20  1.1    0 15.2 25 280   M    M  10 1      35 250
+ 2  31  27  29  -1  36   0    T    T    1 11.8 24 280   M    M  10        32 290
+ 3  30  24  27  -3  38   0 0.16  2.5    1 10.7 26 280   M    M  10 1      37 280
+ 4  24  18  21  -9  44   0 0.02  0.2    2 12.4 24 280   M    M  10        38 290
+ 5  25  12  19 -11  46   0    T    T    2  6.0 16 280   M    M   9        20 280
+ 6  28  20  24  -5  41   0 0.07  1.1    2 14.1 25 340   M    M  10        35 350
+ 7  26  19  23  -6  42   0 0.03  0.8    3 12.4 25 300   M    M  10        32 290
+ 8  23  18  21  -8  44   0 0.03  1.0    3  8.8 22 290   M    M  10        28 300
+ 9  25   7  16 -13  49   0 0.01  0.2    3  9.6 18 310   M    M   5        24 330
+10  22   4  13 -16  52   0 0.05  1.1    3  1.8  7  20   M    M   7 1      16  20
+11  28  17  23  -6  42   0 0.07  0.9    4  5.2 14 280   M    M  10 18     20 280
+12  33  18  26  -3  39   0    T    T    5  4.6 13 210   M    M   8 18     17 190
+13  36  18  27  -2  38   0    T    T    4 11.6 23 290   M    M   6        31 250
+14  18  10  14 -15  51   0 0.05  1.2    3  8.4 17 290   M    M   7        25 250
+15  24   9  17 -11  48   0    T    T    4  7.5 17 280   M    M   5        25 220
+16  29  11  20  -8  45   0 0.11  1.7    4  8.2 16 280   M    M  10 1      24 270
+17  40  29  35   7  30   0    T    T    6  7.6 17 200   M    M   7 18     24 190
+18  43  29  36   8  29   0 0.11    T    4  8.1 20 330   M    M  10 1      25 330
+19  30  19  25  -3  40   0 0.09  1.9    3 11.0 20 300   M    M  10 1      26 340
+20  19   3  11 -17  54   0 0.03  0.6    5 11.3 25 300   M    M   6        32 300
+21  15  -1   7 -21  58   0 0.01  0.2    5  7.5 18 220   M    M   5        28 220
+22  14  -9   3 -25  62   0    T    T    5  4.2 13 190   M    M   4        17 180
+23  27  10  19  -9  46   0 0.02  0.4    5  7.6 20 230   M    M   8        29 240
+24  25  11  18 -10  47   0 0.01  0.2    5  6.1 14 290   M    M   6        20 300
+25  38  12  25  -3  40   0    T    T    5  8.8 22 200   M    M   7        30 220
+26  38  26  32   4  33   0 0.00  0.0    4  9.5 17 280   M    M   9        28 270
+27  36  20  28   0  37   0 0.00  0.0    4 10.9 22 240   M    M   3        33 240
+28  42  32  37   8  28   0    T    T    3 13.3 22 230   M    M   8        36 190
+29  45  29  37   8  28   0    T    T    3 14.9 33 290   M    M   5        48 290
+30  48  23  36   7  29   0    T  0.0    1  5.4 16 200   M    M   7        23 230
+31  54  38  46  17  19   0 0.53  0.0    T  7.1 23 320   M    M  10 123    31 240
+================================================================================
+SM  961  532      1263   0  1.60 15.1    281.6          M      242
+================================================================================
+AV 31.0 17.2                               9.1 FASTST   M    M   8    MAX(MPH)
+                                 MISC ---->    33 290                 48 290
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   PITTSBURGH PA
+                                          MONTH:     JANUARY
+                                          YEAR:      2025
+                                          LATITUDE:   40 30 N
+                                          LONGITUDE:  80 13 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 24.1   TOTAL FOR MONTH:   1.60    1 = FOG OR MIST
+DPTR FM NORMAL:  -4.7   DPTR FM NORMAL:   -1.36    2 = FOG REDUCING VISIBILITY
+HIGHEST:    54 ON 31    GRTST 24HR  0.53 ON 31-31      TO 1/4 MILE OR LESS
+LOWEST:     -9 ON 22                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  15.1 INCHES  5 = HAIL
+                        GRTST 24HR   2.5 ON  3- 3  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   6 ON 17     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:  19    0.01 INCH OR MORE:  18
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   5
+MIN 32 OR BELOW:  30    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   2    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.  1263    CLEAR  (SCALE 0-3)   1
+DPTR FM NORMAL   143    PTCLDY (SCALE 4-7)  16
+TOTAL FM JUL 1  2935    CLOUDY (SCALE 8-10) 14
+DPTR FM NORMAL  -295
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.60 ON 22
+DPTR FM NORMAL     0    LOWEST  SLP 29.52 ON  1
+
+[REMARKS]
+#FINAL-01-25#
+
+

@@ -1,0 +1,103 @@
+
+294
+CXUS51 KBUF 010805
+CF6BUF
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     SEPTEMBER
+                                          YEAR:      2024
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  80  60  70   2   0   5 0.07  0.0    0 11.8 25 250   M    M   5 8      36 240
+ 2  67  54  61  -7   4   0 0.00  0.0    0  8.4 18 340   M    M   3        25  10
+ 3  75  47  61  -7   4   0 0.00  0.0    0  3.9 12 340   M    M   1        14 330
+ 4  80  53  67   0   0   2 0.00  0.0    0  5.8 12  40   M    M   2        16 140
+ 5  82  56  69   2   0   4 0.00  0.0    0  6.8 13 170   M    M   2        18 180
+ 6  77  60  69   2   0   4 0.60  0.0    0  8.9 18 240   M    M   8 1      29 240
+ 7  66  49  58  -8   7   0 0.56  0.0    0 12.0 22 320   M    M   8 13     32 280
+ 8  65  49  57  -9   8   0 0.00  0.0    0 13.7 28 230   M    M   5        39 250
+ 9  68  56  62  -4   3   0 0.79  0.0    0 12.1 25 230   M    M   7 13     36 220
+10  75  54  65  -1   0   0 0.00  0.0    0  3.4  8 140   M    M   5 12     13 350
+11  79  54  67   2   0   2 0.00  0.0    0  4.7  9 220   M    M   4        14 230
+12  85  59  72   7   0   7 0.00  0.0    0  4.6 10  30   M    M   3        14  40
+13  82  61  72   8   0   7 0.00  0.0    0  5.3 13  60   M    M   3        16  50
+14  84  60  72   8   0   7 0.00  0.0    0  5.3 12  40   M    M   3        16  30
+15  85  63  74  10   0   9 0.00  0.0    0  6.1 12  40   M    M   3        17  30
+16  84  62  73   9   0   8 0.00  0.0    0  6.6 14 100   M    M   2        18 100
+17  82  61  72   9   0   7 0.00  0.0    0  6.1 13 100   M    M   7 8      17 100
+18  81  61  71   8   0   6 0.00  0.0    0  5.4 13 100   M    M   7        18  40
+19  83  62  73  11   0   8 0.00  0.0    0  4.9 15  50   M    M   3 8      19  50
+20  83  58  71   9   0   6 0.00  0.0    0  5.6 13  50   M    M   4        16  40
+21  83  64  74  12   0   9    T  0.0    0  5.2 10  50   M    M   7        14  30
+22  83  63  73  12   0   8 0.02  0.0    0  4.6 10 220   M    M   7 12     16 280
+23  71  64  68   7   0   3 0.18  0.0    0  6.2 12 150   M    M  10 1      16 160
+24  70  62  66   6   0   1 0.33  0.0    0  8.1 16 150   M    M  10 3      21 150
+25  72  63  68   8   0   3 0.29  0.0    0 10.6 20 160   M    M   9 1      26 180
+26  76  58  67   7   0   2 0.09  0.0    0  5.0 12 340   M    M   8 1      15 360
+27  76  56  66   7   0   1 0.00  0.0    0  9.9 17  70   M    M   8        24  60
+28  75  64  70  11   0   5 0.06  0.0    0 11.0 16  70   M    M   9 1      22  70
+29  75  63  69  11   0   4    T  0.0    0  7.9 14  50   M    M   8        17  40
+30  76  60  68  10   0   3 0.00  0.0    0  7.6 14  60   M    M   5 12     20  60
+================================================================================
+SM 2320 1756        26 121  2.99  0.0    217.5          M      166
+================================================================================
+AV 77.3 58.5                               7.3 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    28 230                 39 250
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     SEPTEMBER
+                                          YEAR:      2024
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 67.9   TOTAL FOR MONTH:   2.99    1 = FOG OR MIST
+DPTR FM NORMAL:   4.5   DPTR FM NORMAL:   -1.11    2 = FOG REDUCING VISIBILITY
+HIGHEST:    85 ON 15,12  GRTST 24HR  1.13 ON  6- 7      TO 1/4 MILE OR LESS
+LOWEST:     47 ON  3                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  10
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   3
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.    26    CLEAR  (SCALE 0-3)   8
+DPTR FM NORMAL   -88    PTCLDY (SCALE 4-7)  18
+TOTAL FM JUL 1    34    CLOUDY (SCALE 8-10)  4
+DPTR FM NORMAL  -100
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   121
+DPTR FM NORMAL    55    [PRESSURE DATA]
+TOTAL FM JAN 1   867    HIGHEST SLP 30.43 ON  4
+DPTR FM NORMAL   266    LOWEST  SLP 29.81 ON  7
+
+[REMARKS]
+#FINAL-09-24#
+
+

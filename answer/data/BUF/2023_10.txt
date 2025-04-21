@@ -1,0 +1,87 @@
+
+000
+CXUS51 KBUF 170805
+CF6BUF
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     OCTOBER
+                                          YEAR:      2023
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  77  59  68  10   0   3 0.00  0.0    0  5.3 12 250   M    M   6 128    17 230
+ 2  78  62  70  13   0   5 0.00  0.0    0  6.1 10 240   M    M   4 12     15 240
+ 3  80  59  70  13   0   5 0.00  0.0    0  6.0 12 210   M    M   1        19 240
+ 4  84  62  73  17   0   8 0.00  0.0    0  5.7 12 170   M    M   2        19 190
+ 5  83  64  74  18   0   9 0.01  0.0    0  9.3 21 250   M    M   8 1      28 250
+ 6  71  58  65   9   0   0 0.38  0.0    0 11.1 20 200   M    M   8 1      28 160
+ 7  59  47  53  -2  12   0 0.12  0.0    0 11.5 22 240   M    M   7 1      29 250
+ 8  55  46  51  -4  14   0 0.03  0.0    0 15.9 31 250   M    M   7        43 250
+ 9  54  45  50  -4  15   0 0.27  0.0    0 15.2 30 230   M    M   8 1      41 220
+10  50  46  48  -6  17   0 1.14  0.0    0  9.9 23 200   M    M  10 1      30 200
+11  56  45  51  -3  14   0 0.10  0.0    0  8.4 20 230   M    M   9 1      26 230
+12  62  43  53   0  12   0 0.01  0.0    0  3.6 15 340   M    M   5        18 340
+13  59  39  49  -4  16   0 0.00  0.0    0  3.2 10  20   M    M   6        14  40
+14  50  47  49  -3  16   0 0.38  0.0    0  8.3 14  60   M    M  10        19 100
+15  51  46  49  -3  16   0 0.05  0.0    0  9.6 18 340   M    M   9 1      26 310
+16  53  46  50  -2  15   0 0.03  0.0    0  8.0 17 350   M    M  10 1      22 340
+================================================================================
+SM 1022  814       147  30  2.52  0.0    137.1          M      110
+================================================================================
+AV 63.9 50.9                               8.6 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    31 250                 43 250
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     OCTOBER
+                                          YEAR:      2023
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 57.4   TOTAL FOR MONTH:   2.52    1 = FOG OR MIST
+DPTR FM NORMAL:   2.8   DPTR FM NORMAL:    0.34    2 = FOG REDUCING VISIBILITY
+HIGHEST:    84 ON  4    GRTST 24HR  1.23 ON 10-11      TO 1/4 MILE OR LESS
+LOWEST:     39 ON 13                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  11
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   147    CLEAR  (SCALE 0-3)   2
+DPTR FM NORMAL   -26    PTCLDY (SCALE 4-7)   9
+TOTAL FM JUL 1   208    CLOUDY (SCALE 8-10)  5
+DPTR FM NORMAL   -99
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    30
+DPTR FM NORMAL    29    [PRESSURE DATA]
+TOTAL FM JAN 1   624    HIGHEST SLP M ON M
+DPTR FM NORMAL    22    LOWEST  SLP 29.56 ON  8
+
+[REMARKS]
+

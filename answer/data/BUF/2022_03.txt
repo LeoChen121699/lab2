@@ -1,0 +1,103 @@
+
+000
+CXUS51 KBUF 010805
+CF6BUF
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     MARCH
+                                          YEAR:      2022
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  46  25  36   6  29   0 0.00  0.0    T 13.0 28 250   M    M   9        38 240
+ 2  38  28  33   3  32   0 0.12  1.5    T 10.5 23 240   M    M   7 1      27 260
+ 3  33  17  25  -5  40   0    T    T    1 12.4 25 300   M    M   5        31 300
+ 4  32  11  22  -8  43   0 0.00  0.0    1 10.3 24 230   M    M   3        32 220
+ 5  54  25  40   9  25   0 0.00  0.0    T  9.2 20 190   M    M   9        24 190
+ 6  67  38  53  22  12   0 0.16  0.0    0 19.9 41 230   M    M   7        58 230
+ 7  42  33  38   7  27   0 0.39  0.1    0 10.3 23 260   M    M  10 14     31 260
+ 8  36  29  33   1  32   0    T    T    0 11.0 21 270   M    M   6        28 270
+ 9  42  30  36   4  29   0 0.00  0.0    0  7.2 17 250   M    M   7        21 250
+10  41  29  35   3  30   0 0.00  0.0    0  7.2 17 240   M    M   5 18     21 240
+11  48  27  38   6  27   0 0.32  3.2    0  7.8 20 270   M    M   8 1      26 270
+12  29  19  24  -9  41   0 0.04  0.7    3 17.4 29 290   M    M   9 189    39 290
+13  32  16  24  -9  41   0 0.05  1.0    4 13.7 25 240   M    M   9 89     31 240
+14  54  27  41   8  24   0    T    T    3  6.9 15 240   M    M   8 1      20 240
+15  46  35  41   7  24   0 0.01  0.0    0  7.7 15  70   M    M   9 1      18  70
+16  62  33  48  14  17   0 0.00  0.0    0  4.7 14 260   M    M   7 128    18 250
+17  67  44  56  22   9   0 0.00  0.0    0  8.1 15 240   M    M   2        19 250
+18  71  42  57  22   8   0 0.00  0.0    0  8.1 20  60   M    M   5        23  80
+19  66  39  53  18  12   0 0.27  0.0    0 14.7 37 220   M    M   9 1      47 230
+20  44  33  39   4  26   0 0.08    T    0 14.1 25 230   M    M   7 1      35 230
+21  53  33  43   7  22   0 0.00  0.0    0 10.0 18 250   M    M   5        23 220
+22  48  31  40   4  25   0 0.00  0.0    0  7.5 17  70   M    M   8        22  70
+23  52  36  44   8  21   0 0.51  0.0    0 12.4 22  80   M    M  10 1      28  70
+24  59  43  51  14  14   0 0.00  0.0    0 12.1 23 240   M    M   7        30 250
+25  45  37  41   4  24   0    T    T    0 15.3 23 240   M    M   9 1      32 210
+26  42  32  37   0  28   0 0.09  0.1    0 16.0 24 240   M    M  10 1      33 240
+27  32  19  26 -12  39   0 0.06  2.3    1 17.5 28 280   M    M   9 189    36 270
+28  23  17  20 -18  45   0 0.01  0.4    1 13.6 24 320   M    M   9 9      30 310
+29  34  19  27 -11  38   0    T    T    1  9.4 18 220   M    M   4 8      25 220
+30  54  25  40   1  25   0 0.01    T    T  9.2 21 110   M    M   9 4      26 110
+31  70  40  55  16  10   0 0.09  0.0    0 21.3 37 200   M    M   9        52 210
+================================================================================
+SM 1462  912       819   0  2.21  9.3    358.5          M      230
+================================================================================
+AV 47.2 29.4                              11.6 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    41 230                 58 230
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BUFFALO NY
+                                          MONTH:     MARCH
+                                          YEAR:      2022
+                                          LATITUDE:   42 55 N
+                                          LONGITUDE:  78 44 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 38.3   TOTAL FOR MONTH:   2.21    1 = FOG OR MIST
+DPTR FM NORMAL:   4.2   DPTR FM NORMAL:   -0.68    2 = FOG REDUCING VISIBILITY
+HIGHEST:    71 ON 18    GRTST 24HR  0.51 ON 23-23      TO 1/4 MILE OR LESS
+LOWEST:     11 ON  4                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   9.3 INCHES  5 = HAIL
+                        GRTST 24HR   3.2 ON 11-11  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   4 ON 13     7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   5    0.01 INCH OR MORE:  15
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:  18    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   819    CLEAR  (SCALE 0-3)   1
+DPTR FM NORMAL  -139    PTCLDY (SCALE 4-7)  15
+TOTAL FM JUL 1  4903    CLOUDY (SCALE 8-10) 15
+DPTR FM NORMAL  -673
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.53 ON  4
+DPTR FM NORMAL     0    LOWEST  SLP 29.26 ON 31
+
+[REMARKS]
+#FINAL-03-22#
+

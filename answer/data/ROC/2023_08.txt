@@ -1,0 +1,103 @@
+
+000
+CXUS51 KBUF 010805
+CF6ROC
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ROCHESTER NY
+                                          MONTH:     AUGUST
+                                          YEAR:      2023
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  77 40 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  75  53  64  -8   1   0 0.00  0.0    0  3.5 13  20   M    M   3        19 350
+ 2  78  54  66  -6   0   1 0.00  0.0    0  6.1 14 240   M    M   7        18 240
+ 3  84  62  73   1   0   8 0.24  0.0    0  8.9 17 340   M    M   7 1      23 360
+ 4  80  64  72   0   0   7    T  0.0    0  5.7 17 340   M    M   5 18     24 270
+ 5  75  57  66  -6   0   1 0.00  0.0    0  4.4 14  30   M    M   5 18     17  30
+ 6  81  53  67  -5   0   2    T  0.0    0  8.0 17 100   M    M   7        25 100
+ 7  85  68  77   5   0  12 0.35  0.0    0  7.3 25 190   M    M   8 13     41 190
+ 8  72  63  68  -4   0   3 0.03  0.0    0 10.8 22 310   M    M   9 1      33 320
+ 9  82  57  70  -2   0   5 0.00  0.0    0  9.1 17 260   M    M   4        24 260
+10  80  63  72   0   0   7 0.10  0.0    0  7.9 24 350   M    M   7 13     34 340
+11  77  62  70  -2   0   5 0.00  0.0    0  7.2 16 320   M    M   6        22 310
+12  83  61  72   1   0   7    T  0.0    0  8.0 22 260   M    M   8 3      29 260
+13  79  62  71   0   0   6 0.00  0.0    0  8.2 21 300   M    M   6        31 310
+14  74  62  68  -3   0   3    T  0.0    0  6.2 12  40   M    M   8        14  50
+15  74  65  70  -1   0   5 1.00  0.0    0  5.3 12  40   M    M  10 1      14  40
+16  80  65  73   2   0   8 2.17  0.0    0  6.4 22 340   M    M   5 13     29 330
+17  81  62  72   1   0   7    T  0.0    0  6.8 28 280   M    M   6        38 270
+18  68  61  65  -6   0   0 0.01  0.0    0 15.3 29 260   M    M   9        41 270
+19  75  55  65  -6   0   0 0.00  0.0    0 11.9 22 290   M    M   4        31 290
+20  84  56  70   0   0   5 0.00  0.0    0  8.1 14 220   M    M   7        20 250
+21  74  61  68  -2   0   3 0.00  0.0    0  6.6 16  50   M    M   9        21  50
+22  74  55  65  -5   0   0 0.00  0.0    0  5.5 14  50   M    M   6        24  50
+23  75  58  67  -3   0   2 0.00  0.0    0  5.6 12 240   M    M   9        16 190
+24  75  67  71   1   0   6 1.47  0.0    0  6.2 14 320   M    M  10 138    18 330
+25  76  70  73   3   0   8 0.04  0.0    0  4.5 12  10   M    M  10 1      13  20
+26  80  62  71   1   0   6 0.02  0.0    0  8.6 23  40   M    M   8 1      30  40
+27  71  55  63  -6   2   0 0.00  0.0    0  5.0 14  10   M    M   4        18  10
+28  78  51  65  -4   0   0 0.00  0.0    0  4.9 14  30   M    M   4        20  30
+29  82  62  72   3   0   7 0.01  0.0    0  4.3 14  30   M    M   8        19  20
+30  69  62  66  -3   0   1    T  0.0    0 10.9 20 260   M    M   8        26 270
+31  71  51  61  -7   4   0 0.00  0.0    0  5.6 17  30   M    M   3        20  30
+================================================================================
+SM 2392 1859         7 125  5.44  0.0    222.8          M      210
+================================================================================
+AV 77.2 60.0                               7.2 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    29 260               # 41 190
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ROCHESTER NY
+                                          MONTH:     AUGUST
+                                          YEAR:      2023
+                                          LATITUDE:   43  7 N
+                                          LONGITUDE:  77 40 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 68.6   TOTAL FOR MONTH:   5.44    1 = FOG OR MIST
+DPTR FM NORMAL:  -2.1   DPTR FM NORMAL:    2.13    2 = FOG REDUCING VISIBILITY
+HIGHEST:    85 ON  7    GRTST 24HR  3.17 ON 15-16      TO 1/4 MILE OR LESS
+LOWEST:     51 ON 31,28                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  11
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   3
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   3
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.     7    CLEAR  (SCALE 0-3)   1
+DPTR FM NORMAL    -5    PTCLDY (SCALE 4-7)  22
+TOTAL FM JUL 1     7    CLOUDY (SCALE 8-10)  8
+DPTR FM NORMAL    -6
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   125
+DPTR FM NORMAL   -65    [PRESSURE DATA]
+TOTAL FM JAN 1   454    HIGHEST SLP 30.27 ON 22
+DPTR FM NORMAL  -142    LOWEST  SLP 29.58 ON  8
+
+[REMARKS]
+#FINAL-08-23#
+

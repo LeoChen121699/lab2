@@ -1,0 +1,104 @@
+
+580
+CXUS53 KDTX 010635
+CF6DTW
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   DETROIT MI
+                                          MONTH:     JULY
+                                          YEAR:      2021
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  83 20 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  81  60  71  -2   0   6    T  0.0    0  9.3 21  20   M    M   8 3      30  10
+ 2  77  56  67  -7   0   2 0.00  0.0    0 10.0 20 350   M    M   6        29  20
+ 3  81  57  69  -5   0   4    T  0.0    0  6.7 15 250   M    M   5 8      21 190
+ 4  90  66  78   4   0  13 0.00  0.0    0  5.3 10 180   M    M   5 18     16 280
+ 5  91  70  81   7   0  16 0.00  0.0    0 11.3 23 240   M    M   6 18     30 230
+ 6  92  75  84  10   0  19 0.16  0.0    0  7.4 21 250   M    M   6 38     27 250
+ 7  88  71  80   6   0  15 0.02  0.0    0  6.5 18 230   M    M   7 18     23 240
+ 8  79  67  73  -1   0   8 0.28  0.0    0  6.2 16 340   M    M   9 138    21 330
+ 9  77  61  69  -5   0   4 0.00  0.0    0  7.2 15 320   M    M   7        25 360
+10  77  58  68  -6   0   3 0.00  0.0    0  5.3 13 140   M    M   6 18     19 110
+11  68  65  67  -7   0   2 0.42  0.0    0  9.8 17  60   M    M  10 1      25  70
+12  74  65  70  -4   0   5 0.01  0.0    0  6.7 12  60   M    M  10 18     15  60
+13  82  68  75   1   0  10 0.31  0.0    0  8.2 22 210   M    M   9 1238   28 240
+14  85  67  76   2   0  11    T  0.0    0  6.8 22 270   M    M   9 138    26 270
+15  86  70  78   4   0  13 0.01  0.0    0 11.7 22 210   M    M   9 18     31 240
+16  74  66  70  -4   0   5 2.20  0.0    0  6.8 15  50   M    M  10 1      22  10
+17  83  65  74   0   0   9 0.17  0.0    0  8.2 14 360   M    M   7 18     19  30
+18  87  62  75   1   0  10 0.00  0.0    0  4.9 12 320   M    M   2 18     15  20
+19  86  67  77   3   0  12 0.00  0.0    0  6.4 12 290   M    M   7 8      19 320
+20  89  68  79   5   0  14 0.10  0.0    0  9.5 27 360   M    M   9 138    31 360
+21  78  63  71  -3   0   6 0.00  0.0    0  9.0 15  10   M    M   8         M   M
+22  79  58  69  -5   0   4 0.00  0.0    0  2.9 12 150   M    M   7 8      17  80
+23  76  64  70  -4   0   5 0.16  0.0    0  4.7 14 200   M    M  10 18     17 200
+24  86  69  78   4   0  13 1.10  0.0    0 11.2 24  10   M    M   8 138    32  10
+25  88  69  79   5   0  14 0.00  0.0    0  7.6 52 270   M    M   5 18     52 270
+26  90  66  78   4   0  13 0.00  0.0    0  7.8 16 310   M    M   5 8      21 360
+27  88  68  78   4   0  13 0.00  0.0    0  6.0 15 330   M    M   8 8      15 330
+28  90  69  80   6   0  15 0.00  0.0    0  5.1 10 160   M    M   7 18     10 160
+29  87  71  79   5   0  14 0.01  0.0    0  9.8 18  30   M    M   8 18     25  60
+30  78  62  70  -4   0   5 0.00  0.0    0  6.8 15 350   M    M   7 8      23 320
+31  79  58  69  -5   0   4 0.00  0.0    0  6.9 17 250   M    M   4 8      25 220
+================================================================================
+SM 2566 2021         0 287  4.95  0.0    232.0          M      224
+================================================================================
+AV 82.8 65.2                               7.5 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    52 270                 52 270
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   DETROIT MI
+                                          MONTH:     JULY
+                                          YEAR:      2021
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  83 20 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 74.0   TOTAL FOR MONTH:   4.95    1 = FOG OR MIST
+DPTR FM NORMAL:  -0.1   DPTR FM NORMAL:    1.44    2 = FOG REDUCING VISIBILITY
+HIGHEST:    92 ON  6    GRTST 24HR  2.30 ON 16-17      TO 1/4 MILE OR LESS
+LOWEST:     56 ON  2                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  13
+MAX 90 OR ABOVE:   5    0.10 INCH OR MORE:   9
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   2
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.     0    CLEAR  (SCALE 0-3)   1
+DPTR FM NORMAL    -2    PTCLDY (SCALE 4-7)  20
+TOTAL FM JUL 1     0    CLOUDY (SCALE 8-10) 10
+DPTR FM NORMAL     0
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   287
+DPTR FM NORMAL     4    [PRESSURE DATA]
+TOTAL FM JAN 1   612    HIGHEST SLP M ON M
+DPTR FM NORMAL    98    LOWEST  SLP 29.74 ON 24
+
+[REMARKS]
+#FINAL-07-21#
+
+

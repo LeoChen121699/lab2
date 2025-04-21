@@ -1,0 +1,102 @@
+
+000
+CXUS55 KALY 091352
+CF6ALB
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ALBANY NY
+                                          MONTH:     SEPTEMBER
+                                          YEAR:      2021
+                                          LATITUDE:   42 45 N
+                                          LONGITUDE:  73 48 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  64  54  59 -10   6   0 1.42  0.0    0  4.2 15 360   M    M  10 1      19  20
+ 2  68  51  60  -8   5   0 0.10  0.0    0  9.4 20 260   M    M   6 18     25 290
+ 3  71  52  62  -6   3   0 0.00  0.0    0  5.7 13 300   M    M   7 8      16 280
+ 4  74  50  62  -6   3   0 0.00  0.0    0  3.5 14 270   M    M   4        17 280
+ 5  67  57  62  -5   3   0 0.12  0.0    0  8.9 17 160   M    M  10 1      23 150
+ 6  76  53  65  -2   0   0 0.00  0.0    0  6.6 26 290   M    M   5 12     35 280
+ 7  74  51  63  -4   2   0 0.00  0.0    0  3.7 10 150   M    M   4        14 150
+ 8  80  59  70   4   0   5 0.67  0.0    0 11.7 40 210   M    M   5 123    70 210
+ 9  68  59  64  -2   1   0 0.26  0.0    0  1.9 12 280   M    M  10 1      15 270
+10  69  53  61  -5   4   0 0.00  0.0    0 11.1 24 270   M    M   5        30 270
+11  74  48  61  -4   4   0 0.00  0.0    0  5.7 14 180   M    M   3        18 180
+12  75  59  67   2   0   2 0.14  0.0    0  7.0 15 150   M    M   8 13     22 120
+13  73  55  64  -1   1   0 0.31  0.0    0  8.5 18 270   M    M   7 138    24 320
+14  73  50  62  -2   3   0 0.00  0.0    0  6.9 18 170   M    M   5 1      23 180
+15  80  60  70   6   0   5 0.59  0.0    0  9.4 22 280   M    M   9 13     31 280
+16  74  56  65   1   0   0 0.08  0.0    0  4.4 12 350   M    M   6 1      15 340
+17  73  61  67   4   0   2 0.00  0.0    0  2.5 14 170   M    M   7 1      17 160
+18  81  57  69   6   0   4    T  0.0    0  3.5 18  10   M    M   7 13     24  10
+19  69  51  60  -2   5   0 0.00  0.0    0  4.6 16 360   M    M   3        22 350
+20  73  46  60  -2   5   0 0.00  0.0    0  5.2 16 170   M    M   M        21 180
+21  70  51  61  -1   4   0 0.00  0.0    0  7.3 21 150   M    M   8        27 140
+22  79  61  70   9   0   5    T  0.0    0  8.5 18 150   M    M   8 1      27 140
+23  79  62  71  10   0   6 0.65  0.0    0 10.7 24 150   M    M   8 13     31 130
+24  70  50  60   0   5   0 1.39  0.0    0  4.2 14 160   M    M   6 13     18 150
+25  70  46  58  -2   7   0 0.00  0.0    0  1.5 10 110   M    M   6 1      13 110
+26  67  49  58  -1   7   0 0.00  0.0    0  8.8 20 270   M    M   5        25 270
+27  71  47  59   0   6   0 0.01  0.0    0  6.3 14 170   M    M   8        21 140
+28  64  48  56  -2   9   0 0.00  0.0    0  5.7 12 330   M    M   8        14 360
+29  65  39  52  -6  13   0    T  0.0    0  3.0 15 310   M    M   6        17 310
+30  61  43  52  -6  13   0 0.00  0.0    0  4.0 14 300   M    M   7        17 290
+================================================================================
+SM 2152 1578       109  29  5.74  0.0    184.4          M      191
+================================================================================
+AV 71.7 52.6                               6.1 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    40 210                 70 210
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ALBANY NY
+                                          MONTH:     SEPTEMBER
+                                          YEAR:      2021
+                                          LATITUDE:   42 45 N
+                                          LONGITUDE:  73 48 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 62.2   TOTAL FOR MONTH:   5.74    1 = FOG OR MIST
+DPTR FM NORMAL:  -1.3   DPTR FM NORMAL:    2.01    2 = FOG REDUCING VISIBILITY
+HIGHEST:    81 ON 18    GRTST 24HR  2.04 ON 23-24      TO 1/4 MILE OR LESS
+LOWEST:     39 ON 29                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  12
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:  10
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   5
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   2
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   109    CLEAR  (SCALE 0-3)   1
+DPTR FM NORMAL    -6    PTCLDY (SCALE 4-7)  23
+TOTAL FM JUL 1   136    CLOUDY (SCALE 8-10)  6
+DPTR FM NORMAL     8
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    29
+DPTR FM NORMAL   -41    [PRESSURE DATA]
+TOTAL FM JAN 1   526    HIGHEST SLP 30.37 ON 21
+DPTR FM NORMAL  -188    LOWEST  SLP 29.69 ON  8
+
+[REMARKS]
+#FINAL-09-21#
+

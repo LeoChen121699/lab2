@@ -1,0 +1,103 @@
+
+000
+CXUS51 KCLE 010800
+CF6CLE
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   CLEVELAND OH
+                                          MONTH:     MARCH
+                                          YEAR:      2022
+                                          LATITUDE:   41 24 N
+                                          LONGITUDE:  81 51 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  47  34  41   7  24   0 0.05  0.0    0 11.2 23 250   M    M   9        31 210
+ 2  50  27  39   5  26   0 0.18  0.4    0  7.0 22 330   M    M   5 18     30 320
+ 3  34  20  27  -8  38   0 0.05  0.4    1  9.8 25  10   M    M   7 18     33  30
+ 4  40  17  29  -6  36   0 0.00  0.0    T  4.6 10 170   M    M   6        13 180
+ 5  71  33  52  17  13   0 0.00  0.0    0 10.7 24 210   M    M   7        32 210
+ 6  71  39  55  19  10   0 0.14  0.0    0 19.6 38 250   M    M   7        49 250
+ 7  49  34  42   6  23   0 0.88    T    0 11.4 25 290   M    M  10 1      32 290
+ 8  38  31  35  -1  30   0    T    T    0  6.0 20 320   M    M  10        25 310
+ 9  44  32  38   2  27   0 0.00  0.0    0  4.9 16 300   M    M   6        21 290
+10  42  27  35  -2  30   0 0.00  0.0    0  5.4 16 340   M    M   4        19 340
+11  45  26  36  -1  29   0 0.18  0.6    0  6.2 16 310   M    M   8 18     19 310
+12  29  18  24 -13  41   0    T  0.1    1 19.3 30 300   M    M  10 189    38 290
+13  42  14  28 -10  37   0 0.01  0.3    1 14.2 21 240   M    M   6        30 240
+14  61  34  48  10  17   0 0.00  0.0    T 10.9 23 200   M    M   5        30 210
+15  59  40  50  12  15   0 0.00  0.0    0  7.5 17 220   M    M   7        23 230
+16  70  33  52  13  13   0 0.00  0.0    0  5.2 16 160   M    M   2 18     23 190
+17  72  38  55  16  10   0 0.00  0.0    0  4.7 14 350   M    M   3 8      16 360
+18  73  46  60  21   5   0 0.14  0.0    0  7.5 22 190   M    M   7 1      28 200
+19  57  39  48   8  17   0 0.40  0.0    0 14.8 31 240   M    M   9 13     42 240
+20  53  37  45   5  20   0 0.09  0.0    0 12.5 21 290   M    M   5 1      30 280
+21  62  39  51  11  14   0 0.00  0.0    0  6.5 13  20   M    M   4        15 360
+22  54  43  49   8  16   0 0.07  0.0    0  9.3 20 100   M    M   9        29 100
+23  60  47  54  13  11   0 0.43  0.0    0 14.6 26 140   M    M   9 138    36 140
+24  54  41  48   6  17   0    T  0.0    0 13.1 31 250   M    M   8        37 240
+25  43  37  40  -2  25   0 0.26  0.0    0 12.5 25 250   M    M  10 18     29 260
+26  38  30  34  -8  31   0 0.24    T    0 14.7 24 280   M    M   9 12     32 270
+27  30  24  27 -16  38   0 0.11  0.7    1 15.4 24 320   M    M  10 18     31 320
+28  27  19  23 -20  42   0    T    T    T 12.3 25 320   M    M   7 8      32 340
+29  37  17  27 -16  38   0 0.00  0.0    T  5.7 12  20   M    M   4        15  30
+30  71  35  53   9  12   0 0.07    T    0 15.4 24 180   M    M  10 1      33 170
+31  70  39  55  11  10   0 0.04  0.0    0 20.7 37 190   M    M   9 18     52 210
+================================================================================
+SM 1593  990       715   0  3.34  2.5    333.6          M      222
+================================================================================
+AV 51.4 31.9                              10.8 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    38 250                 52 210
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   CLEVELAND OH
+                                          MONTH:     MARCH
+                                          YEAR:      2022
+                                          LATITUDE:   41 24 N
+                                          LONGITUDE:  81 51 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 41.7   TOTAL FOR MONTH:   3.34    1 = FOG OR MIST
+DPTR FM NORMAL:   2.8   DPTR FM NORMAL:    0.28    2 = FOG REDUCING VISIBILITY
+HIGHEST:    73 ON 18    GRTST 24HR  0.88 ON  7- 7      TO 1/4 MILE OR LESS
+LOWEST:     14 ON 13                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   2.5 INCHES  5 = HAIL
+                        GRTST 24HR   0.7 ON 27-27  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:   1 ON 27,13  7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   3    0.01 INCH OR MORE:  17
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:  10
+MIN 32 OR BELOW:  13    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   715    CLEAR  (SCALE 0-3)   2
+DPTR FM NORMAL   -96    PTCLDY (SCALE 4-7)  15
+TOTAL FM JUL 1  4628    CLOUDY (SCALE 8-10) 14
+DPTR FM NORMAL  -229
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL    -2    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.57 ON  4
+DPTR FM NORMAL    -2    LOWEST  SLP 29.30 ON 31
+
+[REMARKS]
+#FINAL-03-22#
+

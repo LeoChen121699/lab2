@@ -1,0 +1,102 @@
+
+000
+CXUS51 KBGM 010810
+CF6BGM
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   BINGHAMTON NY
+                                          MONTH:     SEPTEMBER
+                                          YEAR:      2021
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  75 59 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  65  55  60  -5   5   0 0.67  0.0    0  8.1 17  10   M    M   9 1      22  10
+ 2  65  51  58  -6   7   0 0.00  0.0    0 10.3 22 340   M    M   0        28 340
+ 3  65  52  59  -5   6   0    T  0.0    0  6.4 16 360   M    M   0 1      20 350
+ 4  72  49  61  -3   4   0 0.00  0.0    0  4.2  9 270   M    M   0 2      12 340
+ 5  68  59  64   0   1   0 0.41  0.0    0  5.9 13 290   M    M   M 1      17 290
+ 6  69  55  62  -1   3   0 0.10  0.0    0  6.9 18 280   M    M   M 2      23 280
+ 7  72  52  62  -1   3   0 0.00  0.0    0  6.1 12 200   M    M   M        16 200
+ 8  76  61  69   6   0   4 0.36  0.0    0  8.9 23 290   M    M   M 1      37 280
+ 9  68  55  62   0   3   0 0.04  0.0    0  4.1 18 330   M    M   M 1      24 340
+10  66  51  59  -3   6   0 0.00  0.0    0  8.2 21 340   M    M   M 1      28 350
+11  71  51  61  -1   4   0 0.00  0.0    0  8.6 14 210   M    M   M        20 210
+12  72  60  66   4   0   1    T  0.0    0  9.6 15 250   M    M   0        20 250
+13  72  59  66   5   0   1 0.10  0.0    0  7.0 16 260   M    M   2 1      20 260
+14  77  59  68   7   0   3 0.23  0.0    0  7.5 15 210   M    M   6 123    21 210
+15  76  58  67   7   0   2 0.91  0.0    0  6.4 24 260   M    M   6 13     34 250
+16  70  55  63   3   2   0    T  0.0    0  4.5 12 100   M    M   8 12     14  90
+17  73  62  68   8   0   3 0.00  0.0    0  5.8 12 160   M    M   7 1      15 190
+18  77  57  67   8   0   2 0.04  0.0    0  5.8 15 360   M    M   6 1      20 240
+19  70  52  61   2   4   0 0.00  0.0    0  5.9 14  10   M    M   0        16  10
+20  73  48  61   2   4   0 0.00  0.0    0  7.2 15 170   M    M   0        22 190
+21  68  53  61   3   4   0 0.00  0.0    0  8.9 17 200   M    M   4        24 220
+22  72  61  67   9   0   2 0.04  0.0    0 12.2 22 160   M    M   8 1      30 140
+23  69  50  60   3   5   0 1.29  0.0    0 12.2 25 140   M    M   8 12     35 120
+24  63  47  55  -2  10   0 0.00  0.0    0  7.7 16 220   M    M   2        23 240
+25  69  46  58   1   7   0 0.00  0.0    0  6.4 13 330   M    M   1        17 300
+26  64  48  56   0   9   0 0.07  0.0    0  7.4 18 270   M    M   6 12     24 320
+27  71  53  62   6   3   0 0.07  0.0    0  9.8 21 230   M    M   6 1      27 230
+28  64  47  56   0   9   0 0.09  0.0    0  8.1 15 310   M    M   5 13     21 340
+29  60  44  52  -3  13   0 0.00  0.0    0  6.8 17 310   M    M   6        24 350
+30  57  44  51  -4  14   0    T  0.0    0  8.2 21 360   M    M   6 1      28 360
+================================================================================
+SM 2074 1594       126  18  4.42  0.0    225.1          M       96
+================================================================================
+AV 69.1 53.1                               7.5 FASTST   M    M   4    MAX(MPH)
+                                 MISC ---->    25 140                 37 280
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   BINGHAMTON NY
+                                          MONTH:     SEPTEMBER
+                                          YEAR:      2021
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  75 59 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 61.1   TOTAL FOR MONTH:   4.42    1 = FOG OR MIST
+DPTR FM NORMAL:   1.1   DPTR FM NORMAL:    0.41    2 = FOG REDUCING VISIBILITY
+HIGHEST:    77 ON 18,14  GRTST 24HR  1.32 ON 22-23      TO 1/4 MILE OR LESS
+LOWEST:     44 ON 30,29                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  14
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   8
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   3
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   126    CLEAR  (SCALE 0-3)   9
+DPTR FM NORMAL   -56    PTCLDY (SCALE 4-7)  13
+TOTAL FM JUL 1   158    CLOUDY (SCALE 8-10)  8
+DPTR FM NORMAL   -82
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    18
+DPTR FM NORMAL   -16    [PRESSURE DATA]
+TOTAL FM JAN 1   512    HIGHEST SLP 30.33 ON 21
+DPTR FM NORMAL   130    LOWEST  SLP 29.70 ON  8
+
+[REMARKS]
+#FINAL-09-21#
+

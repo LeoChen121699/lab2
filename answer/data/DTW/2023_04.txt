@@ -1,0 +1,102 @@
+
+000
+CXUS53 KDTX 010635
+CF6DTW
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   DETROIT MI
+                                          MONTH:     APRIL
+                                          YEAR:      2023
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  83 20 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  59  31  45   2  20   0 0.79    T    0 15.3 36 220   M    M   8 135    47 220
+ 2  44  28  36  -8  29   0 0.00  0.0    0  6.3 15 140   M    M   5        22 150
+ 3  64  36  50   6  15   0 0.26  0.0    0  8.0 17 330   M    M   7 13     22 350
+ 4  57  46  52   8  13   0 0.04  0.0    0  9.3 22 110   M    M  10 18     34 100
+ 5  77  48  63  18   2   0 0.36  0.0    0 13.5 35 220   M    M  10 138    46 220
+ 6  53  38  46   1  19   0 0.00  0.0    0 12.7 24 280   M    M   8        31 280
+ 7  52  33  43  -3  22   0 0.00  0.0    0  6.5 13 140   M    M   4 8      20 180
+ 8  51  32  42  -4  23   0 0.00  0.0    0  5.6 15 140   M    M   3        23 150
+ 9  58  33  46   0  19   0 0.00  0.0    0  4.6 13 190   M    M   1        19 170
+10  68  36  52   5  13   0 0.00  0.0    0  5.4 16 220   M    M   6 18     22 220
+11  77  44  61  14   4   0 0.00  0.0    0 10.0 24 270   M    M   7        33 280
+12  81  53  67  19   0   2 0.00  0.0    0 14.9 28 240   M    M   3 8      38 230
+13  83  56  70  22   0   5 0.00  0.0    0 11.7 21 240   M    M   2        32 230
+14  82  51  67  19   0   2 0.00  0.0    0  2.2 13 170   M    M   7        18 170
+15  83  55  69  20   0   4 0.00  0.0    0  3.4 17 240   M    M   7        23 210
+16  75  44  60  11   5   0 0.05  0.0    0 13.1 40 230   M    M   6 1      51 230
+17  44  36  40 -10  25   0 0.05    T    0 18.7 29 270   M    M  10 14     38 250
+18  50  33  42  -8  23   0    T    T    0 14.1 25 300   M    M   8        36 290
+19  55  29  42  -8  23   0    T  0.0    0  6.9 15  30   M    M   6        20  80
+20  68  44  56   5   9   0    T  0.0    0  7.1 24 120   M    M  10        36 120
+21  61  46  54   3  11   0 0.08  0.0    0  7.2 17 280   M    M   9 1      23 280
+22  54  36  45  -7  20   0 0.05  0.0    0  8.3 23 260   M    M  10 18     35 260
+23  52  35  44  -8  21   0 0.02  0.1    0  9.3 21 290   M    M   7 5      27 300
+24  50  34  42 -10  23   0    T    T    0  8.1 17 250   M    M   8        24 240
+25  44  30  37 -16  28   0 0.11  0.0    0  2.6 10 260   M    M   9 18     17 280
+26  54  30  42 -11  23   0 0.00  0.0    0  3.9 13 170   M    M   6 18     16 200
+27  59  34  47  -6  18   0 0.00  0.0    0  6.8 15 170   M    M   6 18     25 150
+28  53  45  49  -5  16   0 0.63  0.0    0  9.7 20  70   M    M  10 1      31  70
+29  65  47  56   2   9   0 0.20  0.0    0  8.7 22 240   M    M  10 12     29 280
+30  56  42  49  -6  16   0 0.24  0.0    0  9.3 24 240   M    M   7 1      31 240
+================================================================================
+SM 1829 1185       449  13  2.88  0.1    263.2          M      210
+================================================================================
+AV 61.0 39.5                               8.8 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    40 230                 51 230
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   DETROIT MI
+                                          MONTH:     APRIL
+                                          YEAR:      2023
+                                          LATITUDE:   42 13 N
+                                          LONGITUDE:  83 20 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 50.2   TOTAL FOR MONTH:   2.88    1 = FOG OR MIST
+DPTR FM NORMAL:   1.3   DPTR FM NORMAL:   -0.38    2 = FOG REDUCING VISIBILITY
+HIGHEST:    83 ON 15,13  GRTST 24HR  1.21 ON 31- 1      TO 1/4 MILE OR LESS
+LOWEST:     28 ON  2                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.1 INCH    5 = HAIL
+                        GRTST 24HR   0.1 ON 23-23  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  13
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   7
+MIN 32 OR BELOW:   6    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   449    CLEAR  (SCALE 0-3)   3
+DPTR FM NORMAL   -39    PTCLDY (SCALE 4-7)  17
+TOTAL FM JUL 1  5189    CLOUDY (SCALE 8-10) 10
+DPTR FM NORMAL  -653
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    13
+DPTR FM NORMAL     9    [PRESSURE DATA]
+TOTAL FM JAN 1    13    HIGHEST SLP M ON M
+DPTR FM NORMAL     8    LOWEST  SLP 29.27 ON  1
+
+[REMARKS]
+#FINAL-04-23#
+

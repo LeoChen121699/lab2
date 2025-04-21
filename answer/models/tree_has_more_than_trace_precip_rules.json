@@ -1,0 +1,647 @@
+[
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed <= 0.7626196272864215",
+      "max_wind_speed <= -1.4876482452956827",
+      "temp_range <= -1.629823432436949"
+    ],
+    "prediction": 1,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed <= 0.7626196272864215",
+      "max_wind_speed <= -1.4876482452956827",
+      "temp_range > -1.629823432436949"
+    ],
+    "prediction": 0,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed <= 0.7626196272864215",
+      "max_wind_speed > -1.4876482452956827",
+      "max_temp_day4 <= -1.3286707045830914",
+      "max_temp_day3 <= -1.1196140293470043"
+    ],
+    "prediction": 1,
+    "depth": 6
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed <= 0.7626196272864215",
+      "max_wind_speed > -1.4876482452956827",
+      "max_temp_day4 <= -1.3286707045830914",
+      "max_temp_day3 > -1.1196140293470043"
+    ],
+    "prediction": 1,
+    "depth": 6
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed <= 0.7626196272864215",
+      "max_wind_speed > -1.4876482452956827",
+      "max_temp_day4 > -1.3286707045830914",
+      "max_temp_last5d_max <= -0.852790107624089",
+      "max_temp_last5d_max <= -0.9105084926355558"
+    ],
+    "prediction": 1,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed <= 0.7626196272864215",
+      "max_wind_speed > -1.4876482452956827",
+      "max_temp_day4 > -1.3286707045830914",
+      "max_temp_last5d_max <= -0.852790107624089",
+      "max_temp_last5d_max > -0.9105084926355558"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed <= 0.7626196272864215",
+      "max_wind_speed > -1.4876482452956827",
+      "max_temp_day4 > -1.3286707045830914",
+      "max_temp_last5d_max > -0.852790107624089",
+      "avg_temp_last4d_max <= -0.472927621045005"
+    ],
+    "prediction": 1,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed <= 0.7626196272864215",
+      "max_wind_speed > -1.4876482452956827",
+      "max_temp_day4 > -1.3286707045830914",
+      "max_temp_last5d_max > -0.852790107624089",
+      "avg_temp_last4d_max > -0.472927621045005"
+    ],
+    "prediction": 1,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed > 0.7626196272864215",
+      "avg_wind_speed <= 0.789489968626447"
+    ],
+    "prediction": 0,
+    "depth": 4
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed > 0.7626196272864215",
+      "avg_wind_speed > 0.789489968626447",
+      "avg_temp_day3 <= -1.814823515623033"
+    ],
+    "prediction": 0,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed > 0.7626196272864215",
+      "avg_wind_speed > 0.789489968626447",
+      "avg_temp_day3 > -1.814823515623033",
+      "max_temp_day3 <= -1.7434528554781092"
+    ],
+    "prediction": 1,
+    "depth": 6
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed > 0.7626196272864215",
+      "avg_wind_speed > 0.789489968626447",
+      "avg_temp_day3 > -1.814823515623033",
+      "max_temp_day3 > -1.7434528554781092",
+      "temp_range <= -1.7576241112983222"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog <= -0.6122781883022859",
+      "avg_wind_speed > 0.7626196272864215",
+      "avg_wind_speed > 0.789489968626447",
+      "avg_temp_day3 > -1.814823515623033",
+      "max_temp_day3 > -1.7434528554781092",
+      "temp_range > -1.7576241112983222"
+    ],
+    "prediction": 1,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog > -0.6122781883022859",
+      "avg_temp_last4d_max <= -1.4088516345165796"
+    ],
+    "prediction": 1,
+    "depth": 3
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog > -0.6122781883022859",
+      "avg_temp_last4d_max > -1.4088516345165796",
+      "max_wind_speed <= 0.48985533142376014",
+      "avg_temp_day4 <= -1.13294778359343"
+    ],
+    "prediction": 0,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog > -0.6122781883022859",
+      "avg_temp_last4d_max > -1.4088516345165796",
+      "max_wind_speed <= 0.48985533142376014",
+      "avg_temp_day4 > -1.13294778359343",
+      "max_temp_day3 <= -0.027896083617570528",
+      "avg_temp_day3 <= -0.33559161500130735"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog > -0.6122781883022859",
+      "avg_temp_last4d_max > -1.4088516345165796",
+      "max_wind_speed <= 0.48985533142376014",
+      "avg_temp_day4 > -1.13294778359343",
+      "max_temp_day3 <= -0.027896083617570528",
+      "avg_temp_day3 > -0.33559161500130735"
+    ],
+    "prediction": 1,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog > -0.6122781883022859",
+      "avg_temp_last4d_max > -1.4088516345165796",
+      "max_wind_speed <= 0.48985533142376014",
+      "avg_temp_day4 > -1.13294778359343",
+      "max_temp_day3 > -0.027896083617570528",
+      "max_temp_day4 <= 0.6994345547441272"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog > -0.6122781883022859",
+      "avg_temp_last4d_max > -1.4088516345165796",
+      "max_wind_speed <= 0.48985533142376014",
+      "avg_temp_day4 > -1.13294778359343",
+      "max_temp_day3 > -0.027896083617570528",
+      "max_temp_day4 > 0.6994345547441272"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range <= -0.47961732268458956",
+      "has_fog > -0.6122781883022859",
+      "avg_temp_last4d_max > -1.4088516345165796",
+      "max_wind_speed > 0.48985533142376014"
+    ],
+    "prediction": 1,
+    "depth": 4
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog <= -0.6122781883022859",
+      "max_wind_speed <= -0.7270699465574354",
+      "avg_temp_day3 <= 1.0298532163418241",
+      "hdd <= 0.39255450247147267"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog <= -0.6122781883022859",
+      "max_wind_speed <= -0.7270699465574354",
+      "avg_temp_day3 <= 1.0298532163418241",
+      "hdd > 0.39255450247147267"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog <= -0.6122781883022859",
+      "max_wind_speed <= -0.7270699465574354",
+      "avg_temp_day3 > 1.0298532163418241",
+      "temp_range <= -0.3518166438232163"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog <= -0.6122781883022859",
+      "max_wind_speed <= -0.7270699465574354",
+      "avg_temp_day3 > 1.0298532163418241",
+      "temp_range > -0.3518166438232163"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog <= -0.6122781883022859",
+      "max_wind_speed > -0.7270699465574354",
+      "max_temp <= 0.5445023609539369"
+    ],
+    "prediction": 0,
+    "depth": 6
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog <= -0.6122781883022859",
+      "max_wind_speed > -0.7270699465574354",
+      "max_temp > 0.5445023609539369",
+      "avg_temp <= 1.5992481560610656"
+    ],
+    "prediction": 1,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog <= -0.6122781883022859",
+      "max_wind_speed > -0.7270699465574354",
+      "max_temp > 0.5445023609539369",
+      "avg_temp > 1.5992481560610656"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog > -0.6122781883022859",
+      "avg_wind_speed <= -1.4676187039357032"
+    ],
+    "prediction": 1,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog > -0.6122781883022859",
+      "avg_wind_speed > -1.4676187039357032",
+      "max_temp_day4 <= 1.3234669422294252",
+      "avg_temp_day4 <= 0.9726213785140059"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog > -0.6122781883022859",
+      "avg_wind_speed > -1.4676187039357032",
+      "max_temp_day4 <= 1.3234669422294252",
+      "avg_temp_day4 > 0.9726213785140059"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range <= 0.4149874293450232",
+      "has_fog > -0.6122781883022859",
+      "avg_wind_speed > -1.4676187039357032",
+      "max_temp_day4 > 1.3234669422294252"
+    ],
+    "prediction": 0,
+    "depth": 6
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range > 0.4149874293450232",
+      "max_wind_speed <= -0.8791856063050848",
+      "temp_range <= 1.820794896820129"
+    ],
+    "prediction": 0,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range > 0.4149874293450232",
+      "max_wind_speed <= -0.8791856063050848",
+      "temp_range > 1.820794896820129"
+    ],
+    "prediction": 0,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range > 0.4149874293450232",
+      "max_wind_speed > -0.8791856063050848",
+      "has_fog <= -0.6122781883022859",
+      "max_temp_day4 <= -0.49662752126936066"
+    ],
+    "prediction": 1,
+    "depth": 6
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range > 0.4149874293450232",
+      "max_wind_speed > -0.8791856063050848",
+      "has_fog <= -0.6122781883022859",
+      "max_temp_day4 > -0.49662752126936066",
+      "max_temp_day3 <= 0.5959427425135345"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range > 0.4149874293450232",
+      "max_wind_speed > -0.8791856063050848",
+      "has_fog <= -0.6122781883022859",
+      "max_temp_day4 > -0.49662752126936066",
+      "max_temp_day3 > 0.5959427425135345"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range > 0.4149874293450232",
+      "max_wind_speed > -0.8791856063050848",
+      "has_fog > -0.6122781883022859",
+      "avg_temp_last4d_max <= 0.9621558662780759"
+    ],
+    "prediction": 0,
+    "depth": 6
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range > 0.4149874293450232",
+      "max_wind_speed > -0.8791856063050848",
+      "has_fog > -0.6122781883022859",
+      "avg_temp_last4d_max > 0.9621558662780759",
+      "max_temp_last5d_max <= 1.051916597754314"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed <= 0.03350835218081183",
+      "temp_range > 0.4149874293450232",
+      "max_wind_speed > -0.8791856063050848",
+      "has_fog > -0.6122781883022859",
+      "avg_temp_last4d_max > 0.9621558662780759",
+      "max_temp_last5d_max > 1.051916597754314"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed <= 1.7067806094049558",
+      "avg_wind_speed <= -0.3659347089946535",
+      "temp_range <= 0.5427881082063964"
+    ],
+    "prediction": 1,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed <= 1.7067806094049558",
+      "avg_wind_speed <= -0.3659347089946535",
+      "temp_range > 0.5427881082063964"
+    ],
+    "prediction": 0,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed <= 1.7067806094049558",
+      "avg_wind_speed > -0.3659347089946535",
+      "temp_range <= 0.4149874293450232",
+      "avg_temp_last4d_max <= 1.5237102743610207",
+      "avg_temp <= 0.005847412304393423"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed <= 1.7067806094049558",
+      "avg_wind_speed > -0.3659347089946535",
+      "temp_range <= 0.4149874293450232",
+      "avg_temp_last4d_max <= 1.5237102743610207",
+      "avg_temp > 0.005847412304393423"
+    ],
+    "prediction": 1,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed <= 1.7067806094049558",
+      "avg_wind_speed > -0.3659347089946535",
+      "temp_range <= 0.4149874293450232",
+      "avg_temp_last4d_max > 1.5237102743610207"
+    ],
+    "prediction": 0,
+    "depth": 6
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed <= 1.7067806094049558",
+      "avg_wind_speed > -0.3659347089946535",
+      "temp_range > 0.4149874293450232",
+      "max_temp_day3 <= 0.8558755867348282",
+      "max_temp_last4d_max <= -0.3683243090955322"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed <= 1.7067806094049558",
+      "avg_wind_speed > -0.3659347089946535",
+      "temp_range > 0.4149874293450232",
+      "max_temp_day3 <= 0.8558755867348282",
+      "max_temp_last4d_max > -0.3683243090955322"
+    ],
+    "prediction": 0,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed <= 1.7067806094049558",
+      "avg_wind_speed > -0.3659347089946535",
+      "temp_range > 0.4149874293450232",
+      "max_temp_day3 > 0.8558755867348282"
+    ],
+    "prediction": 0,
+    "depth": 6
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed > 1.7067806094049558",
+      "temp_range <= 0.031585392760903455",
+      "max_wind_speed <= 2.6194745678908524"
+    ],
+    "prediction": 1,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed > 1.7067806094049558",
+      "temp_range <= 0.031585392760903455",
+      "max_wind_speed > 2.6194745678908524"
+    ],
+    "prediction": 1,
+    "depth": 5
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed > 1.7067806094049558",
+      "temp_range > 0.031585392760903455",
+      "has_smoke <= -0.23030635767940288",
+      "max_temp <= 0.3885762088684676",
+      "max_temp <= -0.806857623786797"
+    ],
+    "prediction": 1,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed > 1.7067806094049558",
+      "temp_range > 0.031585392760903455",
+      "has_smoke <= -0.23030635767940288",
+      "max_temp <= 0.3885762088684676",
+      "max_temp > -0.806857623786797"
+    ],
+    "prediction": 1,
+    "depth": 7
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed > 1.7067806094049558",
+      "temp_range > 0.031585392760903455",
+      "has_smoke <= -0.23030635767940288",
+      "max_temp > 0.3885762088684676"
+    ],
+    "prediction": 1,
+    "depth": 6
+  },
+  {
+    "conditions": [
+      "temp_range > -0.47961732268458956",
+      "max_wind_speed > 0.03350835218081183",
+      "max_wind_speed > 1.7067806094049558",
+      "temp_range > 0.031585392760903455",
+      "has_smoke > -0.23030635767940288"
+    ],
+    "prediction": 0,
+    "depth": 5
+  }
+]

@@ -1,0 +1,103 @@
+
+000
+CXUS55 KALY 010713
+CF6ALB
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   ALBANY NY
+                                          MONTH:     OCTOBER
+                                          YEAR:      2022
+                                          LATITUDE:   42 45 N
+                                          LONGITUDE:  73 48 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  69  46  58   1   7   0 0.00  0.0    0  6.7 17  10   M    M   8 1      25 360
+ 2  59  47  53  -4  12   0 0.00  0.0    0 10.6 18 350   M    M   7        28 350
+ 3  56  41  49  -7  16   0 0.00  0.0    0  5.4 12 340   M    M  10        15 350
+ 4  60  47  54  -2  11   0 0.03  0.0    0  5.9 12  10   M    M   9 1      15 360
+ 5  64  46  55  -1  10   0 0.43  0.0    0  2.4 12 320   M    M   8 12     14 320
+ 6  75  42  59   4   6   0 0.00  0.0    0  1.3  8 170   M    M   4 1      13 110
+ 7  71  48  60   5   5   0 0.02  0.0    0  8.1 22 290   M    M   7        30 290
+ 8  54  38  46  -8  19   0 0.00  0.0    0  7.5 20 290   M    M   6        24 270
+ 9  63  36  50  -4  15   0 0.00  0.0    0  6.0 17 250   M    M   6        23 240
+10  62  40  51  -3  14   0 0.03  0.0    0  3.1 15 300   M    M   7 1      18 310
+11  65  36  51  -2  14   0 0.00  0.0    0  2.3 10 130   M    M   3 12     12 150
+12  71  41  56   3   9   0 0.00  0.0    0  8.2 21 150   M    M   5 1      26 140
+13  70  53  62  10   3   0 1.21  0.0    0 10.4 26 280   M    M   9 1      35 280
+14  67  42  55   3  10   0 0.32  0.0    0  4.4 15 320   M    M   5 1      18 320
+15  69  38  54   2  11   0 0.00  0.0    0  7.3 22 170   M    M   4 12     30 150
+16  61  38  50  -1  15   0 0.00  0.0    0  0.6  7 250   M    M   4        10 250
+17  54  37  46  -5  19   0 0.45  0.0    0  2.8 15 280   M    M   9 123    19 260
+18  58  39  49  -1  16   0 0.00  0.0    0  3.2  9 170   M    M   7 12     12 250
+19  53  33  43  -7  22   0    T  0.0    0  6.7 15 150   M    M   6        21 150
+20  57  36  47  -3  18   0 0.00  0.0    0  8.6 21 200   M    M   3        26 190
+21  61  31  46  -3  19   0 0.00  0.0    0  4.6 14 170   M    M   2 1      18 150
+22  69  40  55   6  10   0 0.00  0.0    0  5.5 14 160   M    M   2        19 160
+23  63  39  51   2  14   0 0.00  0.0    0  1.2  6 340   M    M   8         7 310
+24  59  54  57   9   8   0 0.41  0.0    0  2.1  7 330   M    M  10 1       9 340
+25  73  58  66  18   0   1 0.25  0.0    0  2.7  9 130   M    M   9 1      14 130
+26  76  58  67  19   0   2 0.00  0.0    0  5.9 17 150   M    M   8 12     22 160
+27  61  43  52   5  13   0 0.00  0.0    0 11.6 30 270   M    M   4        38 270
+28  55  35  45  -2  20   0 0.00  0.0    0  4.3 13  20   M    M   6        17 360
+29  63  29  46  -1  19   0 0.00  0.0    0  0.2  6 340   M    M   4 12      7 350
+30  64  28  46   0  19   0 0.00  0.0    0  1.9 10 160   M    M   4 1      14 150
+31  64  37  51   5  14   0    T  0.0    0  4.7 14 170   M    M   8        17 170
+================================================================================
+SM 1966 1276       388   3  3.15  0.0    156.2          M      192
+================================================================================
+AV 63.4 41.2                               5.0 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    30 270                 38 270
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   ALBANY NY
+                                          MONTH:     OCTOBER
+                                          YEAR:      2022
+                                          LATITUDE:   42 45 N
+                                          LONGITUDE:  73 48 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 52.3   TOTAL FOR MONTH:   3.15    1 = FOG OR MIST
+DPTR FM NORMAL:   0.9   DPTR FM NORMAL:   -0.70    2 = FOG REDUCING VISIBILITY
+HIGHEST:    76 ON 26    GRTST 24HR  1.53 ON 13-14      TO 1/4 MILE OR LESS
+LOWEST:     28 ON 30                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   9
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   3    0.50 INCH OR MORE:   1
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   388    CLEAR  (SCALE 0-3)   3
+DPTR FM NORMAL   -40    PTCLDY (SCALE 4-7)  22
+TOTAL FM JUL 1   478    CLOUDY (SCALE 8-10)  6
+DPTR FM NORMAL   -79
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     3
+DPTR FM NORMAL    -2    [PRESSURE DATA]
+TOTAL FM JAN 1   935    HIGHEST SLP M ON M
+DPTR FM NORMAL   216    LOWEST  SLP 29.56 ON 18
+
+[REMARKS]
+#FINAL-10-22#
+

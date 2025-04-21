@@ -1,0 +1,102 @@
+
+000
+CXUS51 KLWX 010737
+CF6IAD
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   WASHINGTON DULLES DC
+                                          MONTH:     APRIL
+                                          YEAR:      2022
+                                          LATITUDE:   38 57 N
+                                          LONGITUDE:  77 27 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  61  44  53   3  12   0 0.04  0.0    0 15.0 32 300   M    M   7        45 290
+ 2  58  34  46  -4  19   0 0.00  0.0    0  5.7 20 300   M    M   5        27 290
+ 3  60  40  50   0  15   0 0.00  0.0    0 10.7 30 300   M    M   7        37 300
+ 4  56  30  43  -8  22   0 0.00  0.0    0  3.9 12 200   M    M   6        16 180
+ 5  54  44  49  -2  16   0 0.84  0.0    0  5.4 18  80   M    M   9 1      26  70
+ 6  62  50  56   4   9   0 0.31  0.0    0  8.9 16  70   M    M  10 1      25  50
+ 7  54  47  51  -1  14   0 0.37  0.0    0  7.9 17 330   M    M   9 1      24 330
+ 8  63  38  51  -1  14   0 0.05  0.0    0  8.2 26 310   M    M   5        34 310
+ 9  54  40  47  -6  18   0 0.06  0.0    0  7.9 22 300   M    M   8 18     29 310
+10  55  33  44  -9  21   0 0.00  0.0    0 11.0 24 310   M    M   4        42 310
+11  68  30  49  -5  16   0 0.00  0.0    0  5.3 18 140   M    M   5        25 120
+12  79  51  65  11   0   0    T  0.0    0  4.0 18 300   M    M   7        24 300
+13  86  51  69  15   0   4 0.00  0.0    0  8.0 24 210   M    M   7        37 210
+14  81  51  66  11   0   1    T  0.0    0 14.0 38 310   M    M   6        49 310
+15  72  37  55   0  10   0 0.00  0.0    0  8.0 21 200   M    M   2        30 170
+16  79  56  68  13   0   3    T  0.0    0 12.0 26 360   M    M   7 3      36 360
+17  56  43  50  -6  15   0 0.01  0.0    0 12.7 22 330   M    M   5        31 310
+18  44  36  40 -16  25   0 0.54    T    0  7.9 17 330   M    M   9 14     25 330
+19  52  38  45 -11  20   0    T    T    0 12.8 29 290   M    M   8 5      40 290
+20  62  32  47 -10  18   0 0.00  0.0    0  5.6 13 280   M    M   3        19 280
+21  67  45  56  -1   9   0    T  0.0    0  8.3 22 200   M    M   8        30 200
+22  75  44  60   3   5   0 0.00  0.0    0  4.6 16 360   M    M   5        24 320
+23  79  43  61   3   4   0 0.00  0.0    0  5.3 13 150   M    M   4        18 120
+24  84  51  68  10   0   3 0.00  0.0    0  6.5 17 110   M    M   3        22 100
+25  72  53  63   5   2   0 0.00  0.0    0  6.5 14 110   M    M   6        19  50
+26  68  53  61   2   4   0 0.03  0.0    0  7.0 15 310   M    M   9 18     21 330
+27  62  43  53  -6  12   0 0.00  0.0    0 14.9 25 300   M    M   3        35 310
+28  60  37  49 -10  16   0 0.00  0.0    0 13.4 22 320   M    M   4        32 320
+29  66  34  50 -10  15   0 0.00  0.0    0  5.7 14 320   M    M   2        20 290
+30  70  36  53  -7  12   0 0.00  0.0    0  2.8 10  50   M    M   5        16  10
+================================================================================
+SM 1959 1264       343  11  2.25    T    249.9          M      178
+================================================================================
+AV 65.3 42.1                               8.3 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    38 310                 49 310
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   WASHINGTON DULLES DC
+                                          MONTH:     APRIL
+                                          YEAR:      2022
+                                          LATITUDE:   38 57 N
+                                          LONGITUDE:  77 27 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 53.7   TOTAL FOR MONTH:   2.25    1 = FOG OR MIST
+DPTR FM NORMAL:  -1.3   DPTR FM NORMAL:   -1.22    2 = FOG REDUCING VISIBILITY
+HIGHEST:    86 ON 13    GRTST 24HR  1.12 ON  5- 6      TO 1/4 MILE OR LESS
+LOWEST:     30 ON 11, 4                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  T            5 = HAIL
+                        GRTST 24HR   T   ON 18-18  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   9
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   4
+MIN 32 OR BELOW:   3    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   343    CLEAR  (SCALE 0-3)   4
+DPTR FM NORMAL    23    PTCLDY (SCALE 4-7)  20
+TOTAL FM JUL 1  3940    CLOUDY (SCALE 8-10)  6
+DPTR FM NORMAL  -537
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    11
+DPTR FM NORMAL    -9    [PRESSURE DATA]
+TOTAL FM JAN 1    14    HIGHEST SLP 30.45 ON 22
+DPTR FM NORMAL    -8    LOWEST  SLP 29.51 ON  1
+
+[REMARKS]
+#FINAL-04-22#
+

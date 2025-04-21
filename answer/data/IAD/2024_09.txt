@@ -1,0 +1,103 @@
+
+679
+CXUS51 KLWX 010815
+CF6IAD
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   WASHINGTON DULLES DC
+                                          MONTH:     SEPTEMBER
+                                          YEAR:      2024
+                                          LATITUDE:   38 57 N
+                                          LONGITUDE:  77 27 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  86  67  77   4   0  12 0.00  0.0    0  4.1 14 200   M    M   8 12     19 220
+ 2  78  58  68  -5   0   3 0.00  0.0    0 10.3 18 360   M    M   4        32 340
+ 3  75  53  64  -9   1   0 0.00  0.0    0  7.2 15  70   M    M   3        22  40
+ 4  77  51  64  -9   1   0 0.00  0.0    0  4.6 14  70   M    M   5        28  60
+ 5  78  52  65  -7   0   0 0.00  0.0    M  3.3 13 110   M    M   3        17 120
+ 6  80  57  69  -3   0   4 0.00  0.0    0  3.3  9 150   M    M   5        15 140
+ 7  76  57  67  -5   0   2    T  0.0    0    M  M   M   M    M   6         M   M
+ 8  74  46  60 -12   5   0 0.00  0.0    0  6.3 18 300   M    M   2        25 290
+ 9  78  43  61 -10   4   0 0.00  0.0    0  2.5 14 210   M    M   1        21 210
+10  85  49  67  -4   0   2 0.00  0.0    0  3.2 13 360   M    M   1        17 360
+11  86  55  71   1   0   6 0.00  0.0    0  2.6 13 190   M    M   2        17 190
+12  82  57  70   0   0   5 0.00  0.0    0  3.6 12 110   M    M   3 1      17 130
+13  81  57  69  -1   0   4 0.00  0.0    0  4.9 13  50   M    M   7 1      17  50
+14  85  58  72   3   0   7 0.00  0.0    0  5.0 15  60   M    M   5 1      21 100
+15  82  55  69   0   0   4 0.00  0.0    0  5.8 17  80   M    M   6        23 100
+16  77  60  69   0   0   4    T  0.0    0  8.1 14  50   M    M   9        19  30
+17  79  66  73   5   0   8 0.08  0.0    0  8.2 16  60   M    M  10 1      23 110
+18  75  67  71   3   0   6 0.53  0.0    0  7.9 13  60   M    M  10 18     20  60
+19  82  66  74   6   0   9 0.00  0.0    0  5.0 12 350   M    M   8        17 350
+20  86  59  73   6   0   8 0.00  0.0    0  4.0  8  70   M    M   2        11 110
+21  83  65  74   7   0   9 0.01  0.0    0  6.2 14 160   M    M   5 3      22 160
+22  74  64  69   3   0   4 0.02  0.0    0  5.8 17  60   M    M   9 1      23  60
+23  68  62  65  -1   0   0 0.19  0.0    0  7.4 14 160   M    M  10 18     20 160
+24  66  61  64  -1   1   0 0.22  0.0    0  6.1 12 110   M    M  10 1      16 110
+25  73  64  69   4   0   4 0.06  0.0    0  6.0 12 150   M    M  10 1      17 160
+26  79  70  75  10   0  10 1.69  0.0    0  5.0 10 150   M    M  10 13     16 150
+27  77  70  74  10   0   9 0.20  0.0    0  8.9 22 110   M    M  10 1      34 120
+28  84  71  78  14   0  13 0.01  0.0    0  5.7 15 210   M    M   7 1      23 220
+29  71  66  69   6   0   4    T  0.0    0  7.4 12  70   M    M  10 1      17  70
+30  66  64  65   2   0   0 0.26  0.0    0  6.4 13  70   M    M  10 1      17  70
+================================================================================
+SM 2343 1790        12 137  3.27  0.0    164.8          M      191
+================================================================================
+AV 78.1 59.7                               5.7 FASTST   M    M   6    MAX(MPH)
+                                 MISC ---->    22 110                 34 120
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   WASHINGTON DULLES DC
+                                          MONTH:     SEPTEMBER
+                                          YEAR:      2024
+                                          LATITUDE:   38 57 N
+                                          LONGITUDE:  77 27 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 68.9   TOTAL FOR MONTH:   3.27    1 = FOG OR MIST
+DPTR FM NORMAL:   0.3   DPTR FM NORMAL:   -0.67    2 = FOG REDUCING VISIBILITY
+HIGHEST:    86 ON 20,11  GRTST 24HR  1.70 ON 25-26      TO 1/4 MILE OR LESS
+LOWEST:     43 ON  9                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  11
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.    12    CLEAR  (SCALE 0-3)   7
+DPTR FM NORMAL   -33    PTCLDY (SCALE 4-7)  12
+TOTAL FM JUL 1    14    CLOUDY (SCALE 8-10) 11
+DPTR FM NORMAL   -30
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.   137
+DPTR FM NORMAL   -15    [PRESSURE DATA]
+TOTAL FM JAN 1  1551    HIGHEST SLP 30.45 ON  4
+DPTR FM NORMAL   343    LOWEST  SLP 29.76 ON 28
+
+[REMARKS]
+#FINAL-09-24#
+
+
